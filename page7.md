@@ -520,4 +520,4 @@ Having explained the handling system, the next post will explain the planning sy
 Bye!
 
 
-[Older](/webrobocomp.github.io/page8) [Newer](/webrobocomp.github.io/page6)
+[Older](/web/page8) [Newer](/web/page6)

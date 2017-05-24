@@ -335,4 +335,4 @@ git push -u origin master
 You can go now to GitHub and chek that your sources are there!
 
 
-[Older](/webrobocomp.github.io/page11) [Newer](/webrobocomp.github.io/page9)
+[Older](/web/page11) [Newer](/web/page9)

@@ -503,4 +503,4 @@ If the robot’s camera is pointing towards one of the tags, You should see in t
 [RoboCog, a Cognitive Architecture built with RoboComp]
 
 
-[Older](/webrobocomp.github.io/page12) [Newer](/webrobocomp.github.io/page10)
+[Older](/web/page12) [Newer](/web/page10)

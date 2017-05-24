@@ -283,4 +283,4 @@ dput ppa:<your-lp-id>/<name> <file_name>.source_changes
 
 Nithin Murali
 
-[Older](/webrobocomp.github.io/page7) [Newer](/webrobocomp.github.io/page5)
+[Older](/web/page7) [Newer](/web/page5)

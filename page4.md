@@ -224,4 +224,4 @@ Next I will use RCNN and train on our dataset or another approach is to use bett
 
 Harit Pandya
 
-[Older](/webrobocomp.github.io/page5) [Newer](/webrobocomp.github.io/page3)
+[Older](/web/page5) [Newer](/web/page3)

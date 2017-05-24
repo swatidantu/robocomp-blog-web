@@ -137,4 +137,4 @@ DSL: https://en.wikipedia.org/wiki/Domain-specific_language
 
 RoboComp’s repository: https://github.com/robocomp
 
-[Older](/webrobocomp.github.io/page6) [Newer](/webrobocomp.github.io/page4)
+[Older](/web/page6) [Newer](/web/page4)

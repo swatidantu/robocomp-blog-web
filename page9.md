@@ -169,4 +169,4 @@ Referring to other similar workspace models i came up with the following model.
 
 Nithin Murali
 
-[Older](/webrobocomp.github.io/page10) [Newer](/webrobocomp.github.io/page8)
+[Older](/web/page10) [Newer](/web/page8)

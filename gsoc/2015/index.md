@@ -2,35 +2,35 @@
 
 **Kripasandhu Sarkar**
 
-1.  [Computer vision components and libraries management #1](/webrobocomp.github.io/gsoc/2015/kripasandhu-sarkar/page1)
+1.  [Computer vision components and libraries management #1](/web/gsoc/2015/kripasandhu-sarkar/page1)
 
-2.  [Computer vision components and libraries management #2](/webrobocomp.github.io/gsoc/2015/kripasandhu-sarkar/page2)
+2.  [Computer vision components and libraries management #2](/web/gsoc/2015/kripasandhu-sarkar/page2)
 
-3.  [Computer vision components and libraries management #3](/webrobocomp.github.io/gsoc/2015/kripasandhu-sarkar/page3)
+3.  [Computer vision components and libraries management #3](/web/gsoc/2015/kripasandhu-sarkar/page3)
 
-4.  [Computer vision components and libraries management #4](/webrobocomp.github.io/gsoc/2015/kripasandhu-sarkar/page4)
+4.  [Computer vision components and libraries management #4](/web/gsoc/2015/kripasandhu-sarkar/page4)
 
 **Nithin Murali**
 
-1.  [Building and deployment system design](/webrobocomp.github.io/gsoc/2015/nithin-murali/page1)
+1.  [Building and deployment system design](/web/gsoc/2015/nithin-murali/page1)
 
-2.  [Debian Packaging 1](/webrobocomp.github.io/gsoc/2015/nithin-murali/page2)
+2.  [Debian Packaging 1](/web/gsoc/2015/nithin-murali/page2)
 
-3.  [Debian Packaging 2](/webrobocomp.github.io/gsoc/2015/nithin-murali/page3)
+3.  [Debian Packaging 2](/web/gsoc/2015/nithin-murali/page3)
 
-4.  [Setting up ppa](/webrobocomp.github.io/gsoc/2015/nithin-murali/page4)
+4.  [Setting up ppa](/web/gsoc/2015/nithin-murali/page4)
 
-5.  [New build system and workspace model in Robocomp #1](/webrobocomp.github.io/gsoc/2015/nithin-murali/page5)
+5.  [New build system and workspace model in Robocomp #1](/web/gsoc/2015/nithin-murali/page5)
 
-6.  [New build system and workspace model in Robocomp #2](/webrobocomp.github.io/gsoc/2015/nithin-murali/page6)
+6.  [New build system and workspace model in Robocomp #2](/web/gsoc/2015/nithin-murali/page6)
 
-7.  [Build Tools (tutorial)](/webrobocomp.github.io/gsoc/2015/nithin-murali/page7)
+7.  [Build Tools (tutorial)](/web/gsoc/2015/nithin-murali/page7)
 
-8.  [Packaging RoboComp (tutorial)](/webrobocomp.github.io/gsoc/2015/nithin-murali/page8)
+8.  [Packaging RoboComp (tutorial)](/web/gsoc/2015/nithin-murali/page8)
 
-9.  [Till now, after midterms](/webrobocomp.github.io/gsoc/2015/nithin-murali/page9)
+9.  [Till now, after midterms](/web/gsoc/2015/nithin-murali/page9)
 
-10.  [Packaging libccd and FCL (tutorial)](/webrobocomp.github.io/gsoc/2015/nithin-murali/page10)
+10.  [Packaging libccd and FCL (tutorial)](/web/gsoc/2015/nithin-murali/page10)
 
 **Rajath Kumar M.P.**
 
@@ -50,22 +50,22 @@
 
 8.  [Interfaces Documentation, Laser.idsl](http://robocomp.readthedocs.org/en/latest/interfaces/Laser/)
 
-9.  [Write a post for robocomp, A step by step guide.](/webrobocomp.github.io/gsoc/2015/rajath-kumar-m-p/page9)
+9.  [Write a post for robocomp, A step by step guide.](/web/gsoc/2015/rajath-kumar-m-p/page9)
 
-10.  [GSoC, Before Midterms](/webrobocomp.github.io/gsoc/2015/rajath-kumar-m-p/page10)
+10.  [GSoC, Before Midterms](/web/gsoc/2015/rajath-kumar-m-p/page10)
 
-11.  [GSoC, After Midterms](/webrobocomp.github.io/gsoc/2015/rajath-kumar-m-p/page11)
+11.  [GSoC, After Midterms](/web/gsoc/2015/rajath-kumar-m-p/page11)
 
 **Mercedes Palotelli**
 
-1.  [GSoC, Symbolic planning techniques for recognizing objects domestic #1](/webrobocomp.github.io/gsoc/2015/mercedes-palotelli/page1)
+1.  [GSoC, Symbolic planning techniques for recognizing objects domestic #1](/web/gsoc/2015/mercedes-palotelli/page1)
 
-2.  [GSoC, Symbolic planning techniques for recognizing objects domestic #2: Inverse Kinematics](/webrobocomp.github.io/gsoc/2015/mercedes-palotelli/page2)
+2.  [GSoC, Symbolic planning techniques for recognizing objects domestic #2: Inverse Kinematics](/web/gsoc/2015/mercedes-palotelli/page2)
 
-3.  [GSoC, Symbolic planning techniques for recognizing objects domestic #3: Visual Inverse Kinematics](/webrobocomp.github.io/gsoc/2015/mercedes-palotelli/page3)
+3.  [GSoC, Symbolic planning techniques for recognizing objects domestic #3: Visual Inverse Kinematics](/web/gsoc/2015/mercedes-palotelli/page3)
 
-4.  [GSoC, Symbolic planning techniques for recognizing objects domestic #4: Inverse kinematics Graph Generator](/webrobocomp.github.io/gsoc/2015/mercedes-palotelli/page4)
+4.  [GSoC, Symbolic planning techniques for recognizing objects domestic #4: Inverse kinematics Graph Generator](/web/gsoc/2015/mercedes-palotelli/page4)
 
-5.  [GSoC, Symbolic planning techniques for recognizing objects domestic #5: System Review](/webrobocomp.github.io/gsoc/2015/mercedes-palotelli/page5)
+5.  [GSoC, Symbolic planning techniques for recognizing objects domestic #5: System Review](/web/gsoc/2015/mercedes-palotelli/page5)
 
-6.  [GSoC, Symbolic planning techniques for recognizing objects domestic #6: Grasping object](/webrobocomp.github.io/gsoc/2015/mercedes-palotelli/page6)
+6.  [GSoC, Symbolic planning techniques for recognizing objects domestic #6: Grasping object](/web/gsoc/2015/mercedes-palotelli/page6)

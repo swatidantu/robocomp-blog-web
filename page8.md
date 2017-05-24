@@ -236,4 +236,4 @@ The class diagrams providing a good reference is provided here:
 Kripasandhu Sarkar
 
 
-[Older](/webrobocomp.github.io/page9) [Newer](/webrobocomp.github.io/page7)
+[Older](/web/page9) [Newer](/web/page7)

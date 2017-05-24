@@ -833,4 +833,4 @@ classifier= new Classifier(model_file, trained_file, mean_file, label_file);
 Harit Pandya
 
 
-[Older](/webrobocomp.github.io/page4) [Newer](/webrobocomp.github.io/page2)
+[Older](/web/page4) [Newer](/web/page2)
