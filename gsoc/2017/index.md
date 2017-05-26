@@ -1,4 +1,4 @@
-# GSoC'16
+# GSoC'17
 
 **Aniq Ur Rahman**
 
@@ -17,13 +17,13 @@ Mentors: Pilar Bachiller
 **Mayank Kumar**
 
 Idea: Graphic Deployment Tool
-Mentors: Pablo Bustos and Ramon Cinast 
+Mentors: Pablo Bustos and Ramon Cintas 
 
 1.  [First post here](/web/gsoc/2017/mayank/post1)
 
 **Nikhil Abraham**
 
-Idea: Introducing robust code generation techniques in Robocomp
+Idea: Introducing robust code generation techniques in RoboComp
 Mentors: Luis J. Manso and Pablo Bustos
 
 1.  [First post here](/web/gsoc/2017/nikhil/post1)
@@ -58,7 +58,7 @@ Mentors: Pedro Núñez Trujillo
 
 **Araceli Vega Magro**
 
-Idea: Social navigation with Robocom
+Idea: Social navigation with RoboComp
 Mentors: Pedro Núñez Trujillo
 
 1.  [First post here](/web/gsoc/2017/araceli/post1)
