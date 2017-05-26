@@ -54,7 +54,7 @@ Mentors: Marco and Juan Mario Haut
 Idea: Social Navigation with RoboComp
 Mentors: Pedro Núñez Trujillo
 
-1.  [First post here](/web/gsoc/2017/yohan/post1)
+1.  [Introductory Poat](/web/gsoc/2017/yohan/post1)
 
 **Araceli Vega Magro**
 
