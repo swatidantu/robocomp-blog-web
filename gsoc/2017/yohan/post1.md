@@ -18,7 +18,7 @@ For the case of humans and the bot this function will be asymmetric as a person 
 i.e his personal space would be more towards the front than the back. 
 Now by changing the weights of these costs different behaviour can be observed.
 
-Over the course of next week I plan on getting started with the implementation alongside mentor.
+Over the course of next week I plan on getting started with the implementation alongside my mentor.
 
 * * *
 Yohan M R
