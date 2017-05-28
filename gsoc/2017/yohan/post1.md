@@ -5,7 +5,7 @@ Over the past week I spent my time doing the following:
 >1. Familiarizing myself with the cortex and DSR architecture and the navigational algoruthms they use.
 >2. Getting used to rcmanager to deploy roboComp-shelly's componenets
 
-# ** A Brief Introduction To Social navigational**
+# **A Brief Introduction To Social navigational**
 In recent years, several commercial robots have been designed for deployment in hospitals and office 
 buildings, typically as couriers for medications, paperwork etc. As more of these robots are being 
 used in daily life, it is no longer plausible to treat humans as just some other dynamic obstacle. 
