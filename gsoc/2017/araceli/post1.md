@@ -1,4 +1,16 @@
-# Introduction
+
+# Introduction to Social Navigation
+
+01/06/2017
+
+## About me
+
+My name is Araceli Vega Magro, I am 23 years old and I am about to finish my Degree in Sound and Image in Telecommunications in the University of Extremadura
+
+## Social navigation
+During GSOC 2017 I'm going to work in social navigation for mobile robots. It's an interesting topic due to the increasing use of robots in different parts of society. In a near future we will probably see mobile robots navigating around us. Robots will need to differentiate humans from ordinary objects and be able to give them special treatment.
+
+The main objetive of my work in GSOC is to provide robots the capability to behave in a socially acceptable manner. Making robots avoid groups of people or respect their personal space are some of the tasks I pursue to achieve this goal.
 
 ### What I have already done
 I have already done some progress in my task:
