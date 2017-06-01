@@ -19,7 +19,7 @@ Mentors: Pilar Bachiller
 Idea: Graphic Deployment Tool
 Mentors: Pablo Bustos and Ramon Cintas
 
-1.  [First post here](/web/gsoc/2017/mayank/post1)
+1.  [Introductory Post](/web/gsoc/2017/mayank/post1)
 
 **Nikhil Abraham**
 
