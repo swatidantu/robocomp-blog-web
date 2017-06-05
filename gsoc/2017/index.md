@@ -12,14 +12,14 @@ Mentors: Juan Mario Haut and Pilar Bachiller
 Idea: Domain Specific Language for programming the Learnbot educational robot
 Mentors: Pilar Bachiller
 
-1.  [First post here](/web/gsoc/2017/ivan/post1)
+1.  [Who I am? and what will I make?](/web/gsoc/2017/ivan/post1)
 
 **Mayank Kumar**
 
 Idea: Graphic Deployment Tool
-Mentors: Pablo Bustos and Ramon Cintas 
+Mentors: Pablo Bustos and Ramon Cintas
 
-1.  [First post here](/web/gsoc/2017/mayank/post1)
+1.  [Introductory Post](/web/gsoc/2017/mayank/post1)
 
 **Nikhil Abraham**
 
@@ -54,7 +54,7 @@ Mentors: Marco and Juan Mario Haut
 Idea: Social Navigation with RoboComp
 Mentors: Pedro Núñez Trujillo
 
-1.  [First post here](/web/gsoc/2017/yohan/post1)
+1.  [Introductory Post](/web/gsoc/2017/yohan/post1)
 
 **Araceli Vega Magro**
 
@@ -62,6 +62,3 @@ Idea: Social navigation with RoboComp
 Mentors: Pedro Núñez Trujillo
 
 1.  [Introduction to Social Navigation](/web/gsoc/2017/araceli/post1)
-
-
-
