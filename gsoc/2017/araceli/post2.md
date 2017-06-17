@@ -1,3 +1,5 @@
+17/06/2017
+
 # Modifications in the Navigation Architecture
  
 I have modified the navigation architecture in order to include the personal space modelling and the clustering of individuals, as I explained in my last post. This has allowed the robot to navigate in a social manner in environments populated with people. Here is how I did it:
