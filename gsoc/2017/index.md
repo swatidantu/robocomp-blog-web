@@ -41,6 +41,8 @@ Idea: Learning useful Actions for efficient planning
 Mentors: Luis J. Manso
 
 1.  [First post](/web/gsoc/2017/lashit/post1)
+2.  [Learning Algorithm for efficient planning](/web/gsoc/2017/lashit/post2)
+3.  [Using Bayes Classifier for Learning Action-Relevance](/web/gsoc/2017/lashit/post3)
 
 **Roberto García**
 
