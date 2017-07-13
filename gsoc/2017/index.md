@@ -20,6 +20,7 @@ Idea: Graphic Deployment Tool
 Mentors: Pablo Bustos and Ramon Cintas
 
 1.  [Introductory Post](/web/gsoc/2017/mayank/post1)
+2.  [Adding pan support](/web/gsoc/2017/mayank/post2)
 
 **Nikhil Abraham**
 
