@@ -40,7 +40,7 @@ Mentors: Marco and Ramon Cintas
 Idea: Learning useful Actions for efficient planning
 Mentors: Luis J. Manso
 
-1.  [First post here](/web/gsoc/2017/lashit/post1)
+1.  [First post](/web/gsoc/2017/lashit/post1)
 
 **Roberto García**
 
