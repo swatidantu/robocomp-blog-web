@@ -28,7 +28,7 @@ In the next pictures is shown, from left to right: the free space graph without 
 
 &nbsp; &nbsp; &nbsp; &nbsp; ![Free space graph](pictures/grafosin.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Modified graph](pictures/grafomodificado.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Modified InnerModel](pictures/grafopoli.png)
 
-###Trials
+### Trials
 
 I have tested the proposed algorithm in two different simulations where the robot had to avoid six people forming different groups. In the next pictures you can see the different choosen environments and the people in it.
 
