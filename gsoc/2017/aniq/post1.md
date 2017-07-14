@@ -5,7 +5,7 @@ May 7, 2017
 # INTRODUCTION
 
 
-I am an 3rd year Electronics and Communication Engineering student at National Institute of Technology Durgapur.
+I am a 3rd year Electronics and Communication Engineering student at National Institute of Technology Durgapur.
 I was interested in robots from the very beginning of my high school days and have participated in multiple robotics events.
 I love python and use it extensively for development tasks as well as to run simulations for my research work.
 The love for robots and python made me select RoboComp as the organization to apply for Google Summer of Code.
