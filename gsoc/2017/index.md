@@ -5,7 +5,11 @@
 Idea: Domain Specific Language for programming the Learnbot educational robot
 Mentors: Juan Mario Haut and Pilar Bachiller
 
-1.  [First post here](/web/gsoc/2017/aniq/post1)
+1.  [Introduction](/web/gsoc/2017/aniq/post1)
+2.	[I command thee](/web/gsoc/2017/aniq/post2)
+3.	[Getting rid of redundancy](/web/gsoc/2017/aniq/post3)
+4.	[Designing the Syntax for DSL](/web/gsoc/2017/aniq/post4)
+5.	[DSL to Python Translator](/web/gsoc/2017/aniq/post5)
 
 **Iván**
 
