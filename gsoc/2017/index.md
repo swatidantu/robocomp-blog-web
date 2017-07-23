@@ -38,7 +38,9 @@ Mentors: Luis J. Manso and Pablo Bustos
 Idea: Javascript Support
 Mentors: Marco and Ramon Cintas
 
-1.  [First post here](/web/gsoc/2017/love/post1)
+1.  [About the Project](/web/gsoc/2017/love/post1)
+1.  [The Baby steps to a Superpower in Making](/web/gsoc/2017/love/post2)
+
 
 **Lashit Jain**
 
