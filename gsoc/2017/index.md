@@ -17,6 +17,7 @@ Idea: Domain Specific Language for programming the Learnbot educational robot
 Mentors: Pilar Bachiller
 
 1.  [Who I am? and what will I make?](/web/gsoc/2017/ivan/post1)
+2.  [LearnBlock v.0.1](/web/gsoc/2017/ivan/post2)
 
 **Mayank Kumar**
 
