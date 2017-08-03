@@ -41,7 +41,8 @@ Idea: Javascript Support
 Mentors: Marco and Ramon Cintas
 
 1.  [About the Project](/web/gsoc/2017/love/post1)
-1.  [The Baby steps to a Superpower in Making](/web/gsoc/2017/love/post2)
+2.  [The Baby steps to a Superpower in Making](/web/gsoc/2017/love/post2)
+3.  [Writing our first ever JavaScript based component](/web/gsoc/2017/love/post3)
 
 
 **Lashit Jain**
