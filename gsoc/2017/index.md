@@ -11,6 +11,7 @@ Mentors: Juan Mario Haut and Pilar Bachiller
 4.	[Designing the Syntax for DSL](/web/gsoc/2017/aniq/post4)
 5.	[DSL to Python Translator](/web/gsoc/2017/aniq/post5)
 6. 	[Changes in Learnbot-DSL](/web/gsoc/2017/aniq/post6)
+7.	[Learnbot-DSL version 1 is ready!](/web/gsoc/2017/aniq/post7)
 
 **Iván**
 
