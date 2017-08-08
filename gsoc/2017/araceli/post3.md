@@ -38,7 +38,7 @@ In the first picture we can see four objects (a coffee machine, a fridge, a phon
 The position of the humans, the objects and the shapes of the space created for these objects are shown in the second picture. The shapes are shown in green if the space is being consider as free. Notice that these spaces are in green even if the person is inside it but is not looking at the object. If the shapes are red means that the person is inside the object's space and looking at it, so the space is considered as occupied.  
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; ![Objects and Humans in lab](pictures/p3_objlab.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Interaction with objects](pictures/p3_obj.png) 
+&nbsp; &nbsp; &nbsp; &nbsp; ![Objects and Humans in lab](pictures/p3_objlab.png ) &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; ![Interaction with objects](pictures/p3_obj.png) 
 
 
 * * *
