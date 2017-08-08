@@ -12,7 +12,7 @@ The problem with the Trajectory component appeared when we tried to modify an In
 
 A new issue was raised by solving this problem. The nodes removed from the free space graph were not inserted back again. This nodes are removed to consider the personal space of the human as occupied.
  
-This is a big issue, the human moves throughout the room all the nodes of the graph would disappear. The robot would not be able to move because it uses the graph in the path planning.
+This is a big issue, if the human moves throughout the room all the nodes of the graph would disappear. The robot would not be able to move because it uses the graph in the path planning.
 
 To fix this problem I realised that deleting the nodes was not necessary. It was only required to delete the edges that joint these nodes. Saving the deleted edges and inserting them again the next time the function is called, the issue is not raise anymore.
 
