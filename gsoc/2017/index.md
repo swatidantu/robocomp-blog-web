@@ -5,7 +5,13 @@
 Idea: Domain Specific Language for programming the Learnbot educational robot
 Mentors: Juan Mario Haut and Pilar Bachiller
 
-1.  [First post here](/web/gsoc/2017/aniq/post1)
+1.  [Introduction](/web/gsoc/2017/aniq/post1)
+2.	[I command thee](/web/gsoc/2017/aniq/post2)
+3.	[Getting rid of redundancy](/web/gsoc/2017/aniq/post3)
+4.	[Designing the Syntax for DSL](/web/gsoc/2017/aniq/post4)
+5.	[DSL to Python Translator](/web/gsoc/2017/aniq/post5)
+6. 	[Changes in Learnbot-DSL](/web/gsoc/2017/aniq/post6)
+7.	[Learnbot-DSL version 1 is ready!](/web/gsoc/2017/aniq/post7)
 
 **Iván**
 
@@ -13,6 +19,7 @@ Idea: Domain Specific Language for programming the Learnbot educational robot
 Mentors: Pilar Bachiller
 
 1.  [Who I am? and what will I make?](/web/gsoc/2017/ivan/post1)
+2.  [LearnBlock v.0.1](/web/gsoc/2017/ivan/post2)
 
 **Mayank Kumar**
 
@@ -20,6 +27,7 @@ Idea: Graphic Deployment Tool
 Mentors: Pablo Bustos and Ramon Cintas
 
 1.  [Introductory Post](/web/gsoc/2017/mayank/post1)
+2.  [Adding pan support](/web/gsoc/2017/mayank/post2)
 
 **Nikhil Abraham**
 
@@ -33,7 +41,10 @@ Mentors: Luis J. Manso and Pablo Bustos
 Idea: Javascript Support
 Mentors: Marco and Ramon Cintas
 
-1.  [First post here](/web/gsoc/2017/love/post1)
+1.  [About the Project](/web/gsoc/2017/love/post1)
+2.  [The Baby steps to a Superpower in Making](/web/gsoc/2017/love/post2)
+3.  [Writing our first ever JavaScript based component](/web/gsoc/2017/love/post3)
+
 
 **Lashit Jain**
 
@@ -59,6 +70,7 @@ Idea: Social Navigation with RoboComp
 Mentors: Pedro Núñez Trujillo
 
 1.  [Introductory Post](/web/gsoc/2017/yohan/post1)
+2.  [Social Navigation Work](/web/gsoc/2017/yohan/post2)
 
 **Araceli Vega Magro**
 
@@ -66,3 +78,5 @@ Idea: Social navigation with RoboComp
 Mentors: Pedro Núñez Trujillo
 
 1.  [Introduction to Social Navigation](/web/gsoc/2017/araceli/post1)
+2.  [Modifications in the Navigation Architecture](/web/gsoc/2017/araceli/post2)
+3.  [My Progress](/web/gsoc/2017/araceli/post3)
