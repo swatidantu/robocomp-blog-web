@@ -101,6 +101,7 @@ Having discussed the types of files we’ll be dealing with, let’s start the d
 There’ll be two kinds of variables:
  
 1. *Node/Position type*
+
 In this we check target file and consider all:
 
         id:type(x, y)
@@ -112,7 +113,8 @@ We also consider instances where id is replaced by some variable:
 	    var:type(x, y)
 
 And convert it to *type:type*, since *var* basically requires any node of type *type* to full-fill the condition. We also record type of *var* to be *type* for it’s use in next category of variable. 
- 
+
+This basically encapsulates the change of type (if it happens).
  
 2. *Edge/Relation type*
  
@@ -133,6 +135,8 @@ Let’s say there are *N* initial relations (from *initModel.xml*) between *id1*
     			:
     	type(id1), relationN, type(id2)
     	type(id1), targetRelation, type(id2)
+
+Unary Assignments represent final relation between the two id's.
      
 * Binary Assignments
 	
@@ -141,6 +145,8 @@ Let’s say there are *N* initial relations (from *initModel.xml*) between *id1*
     			:
     			:
     	type(id1), relationN, targetRelation, type(id2)
+
+Binary Assignment link the **transition** of relations between two id's from *initModel.xml* to *target.aggt*.
 	
 In case *var* is present instead of one of the id’s (say *id1*) we’ll consider all *<link>* tuples and check if following two conditions are true : 
 * type(src) matches with type(var)
@@ -161,6 +167,8 @@ If both *src* and *dst* are replaced by *var1* and *var2* respectively and check
 If yes, we’ll consider all relations between them and include all tuples as described above.
  
 We can also include nary (>2) cluster of relations but keeping point 3 in mind, we’ll limit them to unary and binary only.
+
+Note that Binary Assignments is useful for learning as they not only tell about the final relations but the *transition* of relations between two objects of some type. As we're interested in planning, capturing *transition* using these type of variables for crucial for learning. 
  
 During the testing phase, to remove bias by a new relation or a new id encountered, we apply laplacian smoothing and treat it as a variable which hasn’t been encountered with any of our target variables.
 
