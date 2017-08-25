@@ -1,6 +1,6 @@
 # 17th June, 2017
 
-# Introducing a new software architecture for RCManager
+# Introducing a new software architecture
 
 Hola guys ! Last week saw some major structural changes in the code design of RCManager. The idea was essentially proposed by my mentor and we had a thorough discussion on its pros and cons. 
 
