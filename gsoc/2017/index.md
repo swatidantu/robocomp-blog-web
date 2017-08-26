@@ -22,6 +22,7 @@ Mentors: Pablo Bustos and Ramon Cintas
 1.  [Introductory Post](/web/gsoc/2017/mayank/post1)
 2.  [Adding pan support](/web/gsoc/2017/mayank/post2)
 3.  [Introducing a new software architecture](/web/gsoc/2017/mayank/post3)
+4.  [QNetworkxGraph widget](/web/gsoc/2017/mayank/post4)
 
 **Nikhil Abraham**
 
