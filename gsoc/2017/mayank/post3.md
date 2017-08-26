@@ -22,4 +22,7 @@ There are a few more files which will be described later. The whole idea to segr
 
 * * * 
 
-Mayank Kumar  
+[Mayank Kumar](https://github.com/Kmayankkr/)
+
+Email - kr.mayank1997@gmail.com
+
