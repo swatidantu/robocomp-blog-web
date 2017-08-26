@@ -2,7 +2,7 @@
 
 # QNetworkxGraph widget
 
-Welcome back ! Things are advancing at a very steady pace because of some amazing work by [Esteban](https://github.com/orensbruli), an expert in PyQt UI designing. Remember the MVC model from the previous post ? If not, have a glance at it [here](https://robocomp.github.io/web/gsoc/2017/mayank/post3). Today, I am gonna briefly describe the components of viewer.py, in relation to the pivotal work done by Esteban.
+Welcome back ! Things are advancing at a very steady pace because of some amazing work by [Esteban](https://github.com/orensbruli), an expert in PyQt UI designing. Remember the MVC model from the previous post ? If not, have a glance at it [here](/web/gsoc/2017/mayank/post3). Today, I am gonna briefly describe the components of viewer.py, in relation to the pivotal work done by Esteban.
 
 According to the MVC model, the viewer.py is the only guy responsible for setting up the entire UI, which is one mammoth task. Again, writing thousands of lines of code in a single file is nothing less than pure disaster. Solution ? Further divide the code.
 
