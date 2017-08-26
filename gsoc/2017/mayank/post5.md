@@ -34,7 +34,7 @@ You can use the subprocess library in python to fire these commands through the 
 
 Having this powerful interface makes things easier. Everytime the user attempts to start a component, I pass the corresponding command to yakuake_support.py as parameters, which then uses QDBus to get the job done. Commands related to a particular component are executed in tabs bearing the alias of the component. It also maintains a dictionary of components to identify the correct named tabs while executing commands. The following diagram illustrates this feature in action.
 
-![Running components on Yakuake](/web/gsoc/2017/mayank/post5_img1.png?raw=true)
+![Running components on Yakuake](images/post5_img1.png)
 
 As you can see, the running components are marked green and the stopped ones red. How this is done in real time is another story and will be discussed in a later post. As always feel free to contact me via GitHub or e-mail, if you need any support.
 
