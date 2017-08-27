@@ -45,6 +45,7 @@ Mentors: Luis J. Manso
 3.  [Using Bayes Classifier for Learning Action-Relevance](/web/gsoc/2017/lashit/post3)
 4.  [A* with dynamic operator reception](/web/gsoc/2017/lashit/post4) 
 5.  [Adapting TED-A* to AGGLPlanner](/web/gsoc/2017/lashit/post5)
+6.  [Bayes Classifier API](/web/gsoc/2017/lashit/post6)
 
 **Roberto García**
 

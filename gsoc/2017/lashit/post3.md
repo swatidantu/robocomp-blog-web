@@ -7,8 +7,8 @@
 For classifying data using Naive Bayes, we take an assumption that attributes (value attained by the training variable) are independent of each other given the target value. 
 
 Mathematically, suppose our training variables attain values a1, a2, a3, .., an and the target function attains value vj, then
-		
-		P(a1, a2, .., an | vj) = P(a1 | vj) * P(a2 | vj) * .. * P(an | vj)
+        
+        P(a1, a2, .., an | vj) = P(a1 | vj) * P(a2 | vj) * .. * P(an | vj)
  
 Now to predict the probability of vj given attribute values a1, a2, .. an, we write
 
@@ -30,7 +30,7 @@ Therefore it becomes important to have a finite set of output values.
 
 3. Number of tuples Γ given for training should be high when compared to the following product,
 
-		|a1| * |a2| * .. * |an|
+        |a1| * |a2| * .. * |an|
 
 for the classifier to classify successfully.
 
@@ -44,7 +44,7 @@ Let the training instance be represented by the tuple Γ, where:
  
 The goal is, given a bunch of such tuples 
 
-	(Γ1, Γ2, .., ΓN)
+    (Γ1, Γ2, .., ΓN)
 
 to be able to estimate the probability of using an action in domain.aggl for a new tuple ΓM.
  
@@ -91,8 +91,8 @@ Two different initial models can have same id’s assigned to completely differe
 Note : We’ll ignore precondition part for training. 
  
 {
-	id:type(x,y)
-	id1->id2(relation)
+    id:type(x,y)
+    id1->id2(relation)
 }
  
  
@@ -110,7 +110,7 @@ and convert it to *typeI:type* (value of variable for Bayes Classifier). Since t
  
 We also consider instances where id is replaced by some variable:
 
-	    var:type(x, y)
+        var:type(x, y)
 
 And convert it to *type:type*, since *var* basically requires any node of type *type* to full-fill the condition. We also record type of *var* to be *type* for it’s use in next category of variable. 
 
@@ -120,7 +120,7 @@ This basically encapsulates the change of type (if it happens).
  
 In this we check target file and consider all:
 
-    	id1->id2(relation)
+        id1->id2(relation)
 
 and also consider all the relations that were present in the *initModel.xml* under *<link>* tag, that had *src=id1* and *dst=id2*. It’ll be represented as following:
  
@@ -128,27 +128,27 @@ Let’s say there are *N* initial relations (from *initModel.xml*) between *id1*
  
  
 * Unary Assignments
-	
+    
         type(id1), relation1, type(id2)
-    	type(id1), relation2, type(id2)
-    			:
-    			:
-    	type(id1), relationN, type(id2)
-    	type(id1), targetRelation, type(id2)
+        type(id1), relation2, type(id2)
+                :
+                :
+        type(id1), relationN, type(id2)
+        type(id1), targetRelation, type(id2)
 
 Unary Assignments represent final relation between the two id's.
      
 * Binary Assignments
-	
+    
         type(id1), relation1, targetRelation, type(id2)
-    	type(id1), relation2, targetRelation, type(id2)
-    			:
-    			:
-    	type(id1), relationN, targetRelation, type(id2)
+        type(id1), relation2, targetRelation, type(id2)
+                :
+                :
+        type(id1), relationN, targetRelation, type(id2)
 
 Binary Assignment link the **transition** of relations between two id's from *initModel.xml* to *target.aggt*.
-	
-In case *var* is present instead of one of the id’s (say *id1*) we’ll consider all *<link>* tuples and check if following two conditions are true : 
+    
+In case *var* (general variable) is present instead of one of the id’s (say *id1*) we’ll consider all *<link>* tuples and check if following two conditions are true : 
 * type(src) matches with type(var)
 * id2 = dst
  
@@ -167,6 +167,50 @@ If both *src* and *dst* are replaced by *var1* and *var2* respectively and check
 If yes, we’ll consider all relations between them and include all tuples as described above.
  
 We can also include nary (>2) cluster of relations but keeping point 3 in mind, we’ll limit them to unary and binary only.
+
+Following is an example which demonstrates how are the variable selected. The example is minimalistic for understanding purpose.
+
+Example:
+
+Let initModel.xml be:
+```
+<AGMModel>
+    <symbol id="1" type="object"> </symbol>
+    <symbol id="2" type="objectSt"> </symbol>
+    <symbol id="3" type="object"> </symbol>
+    <symbol id="4" type="objectSt"> </symbol>
+    <link src="1" dst="2" label="reachable"> </link>
+    <link src="3" dst="4" label="reachable"> </link>
+    <link src="1" dst="4" label="noReach"> </link>
+    <link src="3" dst="2" label="noReach"> </link>
+</AGMModel>
+```
+and target.aggt be:
+
+```
+{
+    1:object(1,1)
+    VS:objectSt(1,1)
+    1->VS(table)
+}
+precondition
+{
+}
+```
+
+Following are the variables (taking true values) for the example.
+
+1. **Node Type**
+(object:object) [From id 1]
+(objectSt:objectSt) [From both id 2 and 4 because of general variable]
+2. **Relation Type**
+i. **Unary**
+(object, table, objectSt) [From both id 2 and 4 because of general variable]
+ii. **Binary**
+(object, table, reachable, objectSt) [From id 2 as a result of general variable]
+(object, table, noReach, objectSt) [From id 4 as a result of general variable]
+
+
 
 Note that Binary Assignments is useful for learning as they not only tell about the final relations but the *transition* of relations between two objects of some type. As we're interested in planning, capturing *transition* using these type of variables for crucial for learning. 
  
