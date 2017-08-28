@@ -1,8 +1,13 @@
 # My progress in carrying out this project.
 ## Initial planning and conception of the robot.
 Initially the robot to be constructed as it was exposed in the proposal was composed of two LED matrices, a camera, a servo so that the camera can move in different angles, a pair of motors and a system to determine the position of the Robot not defined in the proposal, to this must be added the battery and the casing, this casing should make visually more attractive the robot. The proposal specified that as part of the project the housing would be designed and each component would be programmed to function in an integrated manner in Robocomp.
+
 ![Initial proposal](https://github.com/brickbit/universidad-IP/blob/master/photo_2017-04-01_13-02-36.jpg)
+_Original proposal_
+
 ![others proposal](https://github.com/brickbit/universidad-IP/blob/master/drawing.png)
+
+_Other proposals made during the GSOC_
 
 ## Selection of components.
 The selection of components took more time than planned because there was not a list of components of the first version of the robot and there were other versions in development so it was decided that the best thing was to try to unify the proposals as a result , the ultrasonic sensors were changed by lasers and their arrangement in the robot changed also, the LED matrices were changed by a TFT screen, the battery was changed by another two-cell LiPo battery with more capacity And as far as the processor is changed the Odroid of the first version of Learnbot by a Raspberry.
@@ -11,7 +16,11 @@ The selection of components took more time than planned because there was not a 
 The design of the new version of Learnbot has had slight modifications that have resulted in an extension in its characteristics and its size because now the battery is removable and has left space for elements not anticipated, this elements have appear by the changes in the components used so, we use a battery that was larger than previously expected, and we used lasers instead of ultrasonics sensors that integrate better in the design but the most drastic change was the replacement of the LED matrices by a TFT screen because we doubted if we needed to add a third matrix to represent the mouth and thus make the robot more expressive.
 These changes resulted in several redesigns testing each concept until we realized that a screen would be more useful to represent the eyes, mouth and any other element of the robot that we wanted and at the same time would be easier to integrate properly in the design.
 On the other hand the printing and testing of the pieces has been a big problem because at the time of printing there was at that time a printer that worked correctly so I initially used my own printer to test the pieces however, this also broke and I ended up fixing the organization's printer which meant more delays regarding the time provided to solve this part. Nevertheless the result has been quite satisfactory.
+
+_Final result_
 ![final result](https://github.com/brickbit/universidad-IP/blob/master/learnbot.jpg)
+
+_Removable battery_
 ![removable battery](https://github.com/brickbit/universidad-IP/blob/master/bateria_extraible2.jpg)
 
 ## Screen and expressions of the robot.
@@ -19,6 +28,21 @@ The installation of the screen required a series of tests because as it was prop
 Next I installed a version of Raspbian that supported the screen and the necessary configurations were made.
 On the other hand the objective of the screen was that it showed the expressions of the robot for it was done a graphical interface in tkinter in which when starting the application gave you to choose the aspect that you wanted the robot choosing a json file or other, also the application allowed you to choose which elements of the face you wanted to be represented, eyes, eyebrows, irises, eyelashes, mouth, etc. resulting in a broadly configurable robot.
 Despite this, my mentor and other members of the organization made me understand that it was better to use _qt_ concretely _pyqt_ to do these tasks because it was the one they were using regularly in robocomp so, I started working on it, I just need to configure the animations of the application so that it is ready.
+
+![status in the proposal](https://github.com/brickbit/universidad-IP/blob/master/Selecci001.png)
+
+_The status in the proposal_
+
+![emotions](https://github.com/brickbit/universidad-IP/blob/master/fotosgit.png)
+
+_The new status of Learnbot_
+
+_Videos with emotions working_
+
+[Video1](https://youtu.be/98ohES0lt8A)
+
+[Video2](https://youtu.be/qAvRTpWZOBQ)
+
 
 ## Learnbot Camera Relay 2.0
 To do this task I look for solutions already realized because I understand that it does not make much sense to make a version of itself when there are many open source versions  of it so I found several solutions discarding those that were incompatible by the type of license and chose two that I especially liked one of them was streaming through vlc and the other through a web, of them I picked out the web version since the other one presented more delay in the image.
@@ -35,4 +59,15 @@ In this case we used a translation to python of libraries provided by Pololu tha
 ## Summary
 Finally, as a summary, I make a comparison of the initial objectives, the changes established and the objectives achieved.
 
-## Conclusion:
+| Objetive                     |  Goal accomplished  |  Modifications                |
+|------------------------------|---------------------|-------------------------------|
+| Make the design and print it |  YES                | Yes, described in this text   |
+| Stream the camera            |  YES                | No                            |
+| Make the emotions            |  YES in tkinter version, almost finished in pyqt version | Yes, described in this text   |
+| Run the servo                |  YES in GPIO version | Yes, described in this text  |
+| Run the motor                |  NO                 | No                            |
+| Integration in Robocomp      |  NO                 | NO  |
+
+
+## My work:
+
