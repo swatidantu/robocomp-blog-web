@@ -1,7 +1,8 @@
 # My progress in carrying out this project.
 ## Initial planning and conception of the robot.
 Initially the robot to be constructed as it was exposed in the proposal was composed of two LED matrices, a camera, a servo so that the camera can move in different angles, a pair of motors and a system to determine the position of the Robot not defined in the proposal, to this must be added the battery and the casing, this casing should make visually more attractive the robot. The proposal specified that as part of the project the housing would be designed and each component would be programmed to function in an integrated manner in Robocomp.
-![Initial proposal](https://github.com/brickbit/universidad-IP/blob/master/learnbot.jpg)
+![Initial proposal](https://github.com/brickbit/universidad-IP/blob/master/photo_2017-04-01_13-02-36.jpg)
+![others proposal](https://github.com/brickbit/universidad-IP/blob/master/drawing.png)
 
 ## Selection of components.
 The selection of components took more time than planned because there was not a list of components of the first version of the robot and there were other versions in development so it was decided that the best thing was to try to unify the proposals as a result , the ultrasonic sensors were changed by lasers and their arrangement in the robot changed also, the LED matrices were changed by a TFT screen, the battery was changed by another two-cell LiPo battery with more capacity And as far as the processor is changed the Odroid of the first version of Learnbot by a Raspberry.
@@ -10,6 +11,8 @@ The selection of components took more time than planned because there was not a 
 The design of the new version of Learnbot has had slight modifications that have resulted in an extension in its characteristics and its size because now the battery is removable and has left space for elements not anticipated, this elements have appear by the changes in the components used so, we use a battery that was larger than previously expected, and we used lasers instead of ultrasonics sensors that integrate better in the design but the most drastic change was the replacement of the LED matrices by a TFT screen because we doubted if we needed to add a third matrix to represent the mouth and thus make the robot more expressive.
 These changes resulted in several redesigns testing each concept until we realized that a screen would be more useful to represent the eyes, mouth and any other element of the robot that we wanted and at the same time would be easier to integrate properly in the design.
 On the other hand the printing and testing of the pieces has been a big problem because at the time of printing there was at that time a printer that worked correctly so I initially used my own printer to test the pieces however, this also broke and I ended up fixing the organization's printer which meant more delays regarding the time provided to solve this part. Nevertheless the result has been quite satisfactory.
+![final result](https://github.com/brickbit/universidad-IP/blob/master/learnbot.jpg)
+![removable battery](https://github.com/brickbit/universidad-IP/blob/master/bateria_extraible2.jpg)
 
 ## Screen and expressions of the robot.
 The installation of the screen required a series of tests because as it was proposed its installation required the use of all the pins of the Raspberry Pi which was not viable because we needed the pins to operate with other components so I searched (without Success) screen info to see what pins I needed but I did not find so I decided to try the pins myself connecting all the pins and disconnecting the pins one by one to discard unnecessary pins by trial and error.
