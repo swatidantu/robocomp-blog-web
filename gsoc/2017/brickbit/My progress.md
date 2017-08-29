@@ -78,8 +78,9 @@ https://github.com/robocomp/learnbot/commit/845b73c260e7576417fc1aea35716181b060
 https://github.com/robocomp/learnbot/commit/c6ee9ba19e0ab056f0aee6f4a67fe819bfe2feb6#diff-2779a92e618397919b403c0929d633e8
 
 Learnbot-manual
+
 https://github.com/robocomp/learnbot/commit/c6ee9ba19e0ab056f0aee6f4a67fe819bfe2feb6#diff-0f721cf36b6b7be7af993173e7e93db8
 
 Learnbot-core (Mario made this commit to solve incompatibilities)
-https://github.com/robocomp/learnbot/commit/cbba383efa4614bba3aa3e1d4b4fe3fadf69d585#diff-330892e43bb6aba226349c454f074364
 
+https://github.com/mhaut/learnbot-emotions
