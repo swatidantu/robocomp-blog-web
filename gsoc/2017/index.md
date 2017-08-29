@@ -11,6 +11,7 @@ Mentors: Juan Mario Haut and Pilar Bachiller
 4.	[Designing the Syntax for DSL](/web/gsoc/2017/aniq/post4)
 5.	[DSL to Python Translator](/web/gsoc/2017/aniq/post5)
 6. 	[Changes in Learnbot-DSL](/web/gsoc/2017/aniq/post6)
+7.	[Learnbot-DSL version 1 is ready!](/web/gsoc/2017/aniq/post7)
 
 **Iván**
 
@@ -41,7 +42,8 @@ Idea: Javascript Support
 Mentors: Marco and Ramon Cintas
 
 1.  [About the Project](/web/gsoc/2017/love/post1)
-1.  [The Baby steps to a Superpower in Making](/web/gsoc/2017/love/post2)
+2.  [The Baby steps to a Superpower in Making](/web/gsoc/2017/love/post2)
+3.  [Writing our first ever JavaScript based component](/web/gsoc/2017/love/post3)
 
 
 **Lashit Jain**
@@ -53,6 +55,8 @@ Mentors: Luis J. Manso
 2.  [Learning Algorithm for efficient planning](/web/gsoc/2017/lashit/post2)
 3.  [Using Bayes Classifier for Learning Action-Relevance](/web/gsoc/2017/lashit/post3)
 4.  [A* with dynamic operator reception](/web/gsoc/2017/lashit/post4) 
+5.  [Adapting TED-A* to AGGLPlanner](/web/gsoc/2017/lashit/post5)
+
 **Roberto García**
 
 Idea: Redesign of Learnbot to improve its features and functionalities
@@ -66,6 +70,7 @@ Idea: Social Navigation with RoboComp
 Mentors: Pedro Núñez Trujillo
 
 1.  [Introductory Post](/web/gsoc/2017/yohan/post1)
+2.  [Social Navigation Work](/web/gsoc/2017/yohan/post2)
 
 **Araceli Vega Magro**
 
@@ -73,5 +78,5 @@ Idea: Social navigation with RoboComp
 Mentors: Pedro Núñez Trujillo
 
 1.  [Introduction to Social Navigation](/web/gsoc/2017/araceli/post1)
-
 2.  [Modifications in the Navigation Architecture](/web/gsoc/2017/araceli/post2)
+3.  [My Progress](/web/gsoc/2017/araceli/post3)
