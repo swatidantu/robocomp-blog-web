@@ -67,7 +67,19 @@ Finally, as a summary, I make a comparison of the initial objectives, the change
 | Run the servo                |  YES in GPIO version | Yes, described in this text  |
 | Run the motor                |  NO                 | No                            |
 | Integration in Robocomp      |  NO                 | NO  |
+**To do: integration with robocomp, run wiringpi for engines and servos and terminate the emotions in pyqt**
 
+## My work (commits):
 
-## My work:
+Learnbot-desing
+
+https://github.com/robocomp/learnbot/commit/60517e54c92b54a5261ac6efac48c0ba3c55195c#diff-2779a92e618397919b403c0929d633e8
+https://github.com/robocomp/learnbot/commit/845b73c260e7576417fc1aea35716181b0609981#diff-2779a92e618397919b403c0929d633e8
+https://github.com/robocomp/learnbot/commit/c6ee9ba19e0ab056f0aee6f4a67fe819bfe2feb6#diff-2779a92e618397919b403c0929d633e8
+
+Learnbot-manual
+https://github.com/robocomp/learnbot/commit/c6ee9ba19e0ab056f0aee6f4a67fe819bfe2feb6#diff-0f721cf36b6b7be7af993173e7e93db8
+
+Learnbot-core (Mario made this commit to solve incompatibilities)
+https://github.com/robocomp/learnbot/commit/cbba383efa4614bba3aa3e1d4b4fe3fadf69d585#diff-330892e43bb6aba226349c454f074364
 
