@@ -34,4 +34,6 @@ I will keep updating the blog as and when I finish the aforementioned milestones
 
 * * *
 
-Mayank Kumar 
+[Mayank Kumar](https://github.com/Kmayankkr/)
+
+Email - kr.mayank1997@gmail.com
