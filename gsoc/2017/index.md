@@ -21,6 +21,7 @@ Mentors: Pilar Bachiller
 
 1.  [Who I am? and what will I make?](/web/gsoc/2017/ivan/post1)
 2.  [LearnBlock v.0.1](/web/gsoc/2017/ivan/post2)
+3.  [LearnBlock v.0.2](/web/gsoc/2017/ivan/post3)
 
 **Mayank Kumar**
 
@@ -59,7 +60,7 @@ Mentors: Luis J. Manso
 1.  [First post](/web/gsoc/2017/lashit/post1)
 2.  [Learning Algorithm for efficient planning](/web/gsoc/2017/lashit/post2)
 3.  [Using Bayes Classifier for Learning Action-Relevance](/web/gsoc/2017/lashit/post3)
-4.  [A* with dynamic operator reception](/web/gsoc/2017/lashit/post4) 
+4.  [A* with dynamic operator reception](/web/gsoc/2017/lashit/post4)
 5.  [Adapting TED-A* to AGGLPlanner](/web/gsoc/2017/lashit/post5)
 6.  [Bayes Classifier API](/web/gsoc/2017/lashit/post6)
 
