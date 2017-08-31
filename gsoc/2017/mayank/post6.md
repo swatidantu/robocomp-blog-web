@@ -4,7 +4,7 @@
 
 My [last blog post](/web/gsoc/2017/mayank/post5) explained how we can start/stop components through the RCManager GUI, by linking it with Yakuake. One missing piece in this functionality is the ability to tell whether the component is already running or not, before trying to kick start it.
 
-The scenario is as follows. The users require that the RoboComp components be started by firing commands either on the local machine or some remote pc. RoboComp features another nifty tool named RCRemote to support remote execution, wherein the ip address, port etc. information is supplied by the upCommand attribute. We should hence be able to monitor components even if they are not located in the local system.
+The scenario is as follows. The users require that the RoboComp components be started by firing commands either on the local machine or some remote pc. RoboComp features another nifty tool named RCRemote to support remote execution, wherein the ip address, port etc. information is supplied by the upCommand attribute. We should hence be able to monitor components even if they are not located in the local system. **I highly recommend a quick glance at [this wonderful tutorial](https://github.com/robocomp/robocomp/blob/master/tools/rcremote/README.md) to get a basic understanding of the client-server model used by RoboComp.**
 
 Each of the robotic components acts as a server, which can respond to ping requests. Communications in RoboComp are handled using the ZeroC ICE library. To monitor a component, we perform continuous ice\_ping and wait for a reply from it. A succesful reply indicates that the component is active. Following are some details of the implementation.
 
