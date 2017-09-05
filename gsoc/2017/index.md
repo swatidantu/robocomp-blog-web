@@ -50,7 +50,8 @@ Mentors: Marco and Ramon Cintas
 1.  [About the Project](/web/gsoc/2017/love/post1)
 2.  [The Baby steps to a Superpower in Making](/web/gsoc/2017/love/post2)
 3.  [Writing our first ever JavaScript based component](/web/gsoc/2017/love/post3)
-
+4.  [Working with the Robocompdsl Tool](/web/gsoc/2017/love/post4)
+5.  [Robocompdsl : Using Component Code Generation Tool for js Component Code generation](/web/gsoc/2017/love/post5)
 
 **Lashit Jain**
 
