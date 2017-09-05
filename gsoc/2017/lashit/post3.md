@@ -210,8 +210,6 @@ ii. **Binary**
 (object, table, reachable, objectSt) [From id 2 as a result of general variable]
 (object, table, noReach, objectSt) [From id 4 as a result of general variable]
 
-
-
 Note that Binary Assignments is useful for learning as they not only tell about the final relations but the *transition* of relations between two objects of some type. As we're interested in planning, capturing *transition* using these type of variables for crucial for learning. 
  
 During the testing phase, to remove bias by a new relation or a new id encountered, we apply laplacian smoothing and treat it as a variable which hasn’t been encountered with any of our target variables.
