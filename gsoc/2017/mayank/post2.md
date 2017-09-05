@@ -17,7 +17,6 @@ After getting pan to work, the next task was to assign a nice hotkey to this fun
 Apart from this, I had a few fixes to add to rcmanager like centering the component graph on startup, modifying the refresh graph function, resolving a few merge conflicts, which arose because a few of my former pull requests to rcmanager got merged  :smile: :smile: :smile:. Over the next week, I will be working on the auto positioning algorithm and its implementation, and will surely describe these things in detail in my next blog post. Stay tuned.
 
 * * * 
+[Mayank Kumar](https://github.com/Kmayankkr/)
 
-Mayank Kumar  
-
-
+Email - kr.mayank1997@gmail.com
