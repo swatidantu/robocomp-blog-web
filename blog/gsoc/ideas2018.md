@@ -6,7 +6,7 @@
 
 This is the list of ideas for the Google Summer of Code 2018, if you are interested in any of the ideas listed below or you think you can propose something interesting to improve RoboComp we encourage you to apply. 
 
-* It is important to first familiarize with the software. 
+* It is important to first familiarize with the software ([https://github.com/robocomp/robocomp](https://github.com/robocomp/robocomp)). 
 * You can go through the available tutorials and direct your questions to the mailing list or gitter chat (listed below, also see contact section). 
 * Please read all the information posted in this page before applying. 
 * Make sure you are familiar with the required skills for the idea. 
@@ -47,10 +47,36 @@ Where to start and what to include in my application?
 3. Provide some example of a small modification or improvement in the tool.
 
 
-Needed skills: Javascript, Python, Cog(python module)
+Technologies involved: Qt5, C++, Python, Zeroc ICE
 Mentor: Esteban Martinena, Pablo Bustos
 Backup mentor: Luis J. Manso
 
+### 2\. RCIS: improving RoboComp simulator with contact physics
+
+### 3\. RCIS: improving RoboComp simulator with transmission delays
+
+RCIS is RoboComp’s robotics simulator. It is built using the OpenSceneGraph 3D engine as the visual renderer. Over the years we have tuned RCIS to suit or needs for robot software development. Despite the mature state of the software we need to add more functionalities to cope with the increasing complexity of our social robots. One of these new functions is the simulation of different kind of transmission delays that occur when the real robot is running. Ignoring these delay may even cause that a nice simulated result is almost useless in a real-world execution. The goal of this project is to design, model and include a set of realistic delay into RCIS so simulations get closer to real-world results. These delays will include transmission, hardware and computational factors.
+
+Technologies involved: C++, Python, Qt5
+Mentors: Luis Manso, Pilar Bachiller
+Backup mentor: Pablo Bustos
+
+### 4\. Emotion recognition component for Learnbot 
+
+Learnbot is a small low-cost robot designed to develop computational thinking in kids of age 10 and above. Learnbot is programmed using a block language specifically designed for it. Through this language, kids program robot behaviors in an easy way by specificating what the robot has to to do whenever a given situation occurs. The last version of Learnbot has been equipped with a display that provides it with the possibility to show “emotions”. This way, kids can program not only motor behaviors, but also emotional reactions. To improve the HRI functions in Learnbot and extend the situations that make it to exhibit different emotional behaviours, we want to add new skills in the robot that allow it to recognize emotions in people such as happy, sad, angry, scared, … These new skills will be developed as a Robocomp component in charge of detecting people faces, recognizing basic emotions on them and providing its results to other components demanding this kind of information.
+
+Technologies involved: C++, Python, Qt5, OpenCV3
+Mentors: Pilar Bachiller, Iván Barbecho
+Backup mentor: Marco A. Gutiérrez
+
+### 5\. Improving the Human-centered Robot Navigation Agent
+
+Currently, RoboComp provides robots with the capability to behave in a socially acceptable manner. Particularly, the strategy followed in our Social Navigation Agent is based on the definition of regions where navigation is either discouraged or forbidden (personal spaces). These regions are related with the Proxemics, which defines spaces that humans mutually respects during an interaction. The navigation architecture combines the Probabilistic Road Map and the Rapidly-exploring Random Tree path planners and an adaptation of the elastic band algorithm to include the social behaviour. All of them are part of different RoboComp components. Considering the complexity of this task, the use of the current version of the social navigation agent is restricted, since it does not analyse, for instance, the human intentions during the robot navigation (do the human want to interact with the robot?) or the size of  personal space depending of context (personal space should be different in a corridor than in a big room). 
+
+The task at hand here would be to integrate improvements in the existing RoboComp Social Navigation Agent. In a future version of this agent, more complex situations will be taking into account, such a s human intention analysis and/or adaptive personal spaces. A typical case of use would be that of a group of humans walking in different environments while the robot performs a task. All these simulations would be made using RCIS (RoboComp InnerModel Simulator)
+
+Technologies involved: C++, Python, Qt5,  
+Mentors: Pedro Nuñez, Luis Manso
 
 
 ## Mentors:
@@ -58,68 +84,52 @@ Backup mentor: Luis J. Manso
 ### Marco A. Gutiérrez
 
 marcogATunexDOTes
-
 Robocomp Developer
 
 ### Pablo Bustos
 
 pbustosATunexDOTes
-
 Professor, RoboLab,
-
 University of Extremadura
 
 ### Luis J. Manso
 
 lmansoATunexDOTes
-
 Postdoc Researcher, RoboLab,
-
 University of Extremadura
 
 ### Ramon Cintas
 
 rcintasATunexDOTes
-
 Researcher, Robolab,
-
 University of Extremadura
 
 ### Esteban Martinena
 
 emartinenaATunexDOTes 
-
 Robocomp Developer
 
 ### Pedro Núñez
 
 pnuntruATunexDOTes
-
 Professor, RoboLab,
-
 University of Extremadura
 
 ### Pilar Bachiller
 
 pilarbATunexDOTes
-
 Professor, RoboLab,
-
 University of Extremadura
 
 ### Ivan Barbecho
 
 ibarbechATalumnosDOTunexDOTes 
-
 Researcher, Robolab,
-
 University of Extremadura
 
 ### Nicolas Gonzalez
 
 nicoATunexDOTes
-
 Developer, Robolab,
-
 University of Extremadura
 
