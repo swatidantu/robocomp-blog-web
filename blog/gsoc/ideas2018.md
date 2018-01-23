@@ -53,57 +53,73 @@ Backup mentor: Luis J. Manso
 
 
 
-## Mentors info
+## Mentors:
 
 ### Marco A. Gutiérrez
 
 marcogATunexDOTes
+
 Robocomp Developer
 
 ### Pablo Bustos
 
 pbustosATunexDOTes
+
 Professor, RoboLab,
+
 University of Extremadura
 
 ### Luis J. Manso
 
 lmansoATunexDOTes
+
 Postdoc Researcher, RoboLab,
+
 University of Extremadura
 
 ### Ramon Cintas
 
 rcintasATunexDOTes
+
 Researcher, Robolab,
+
 University of Extremadura
 
 ### Esteban Martinena
 
 emartinenaATunexDOTes 
+
 Robocomp Developer
 
 ### Pedro Núñez
 
 pnuntruATunexDOTes
+
 Professor, RoboLab,
+
 University of Extremadura
 
 ### Pilar Bachiller
 
 pilarbATunexDOTes
+
 Professor, RoboLab,
+
 University of Extremadura
 
 ### Ivan Barbecho
 
 ibarbechATalumnosDOTunexDOTes 
+
 Researcher, Robolab,
+
 University of Extremadura
 
 ### Nicolas Gonzalez
 
 nicoATunexDOTes
+
 Developer, Robolab,
+
 University of Extremadura
 

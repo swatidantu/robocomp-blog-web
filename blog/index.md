@@ -6,4 +6,4 @@
 
 3.  [Google Summer of Code 2017 ideas](/web/blog/gsoc/ideas2017)
 
-4.  [Google Summer of Code 2017 ideas](/web/blog/gsoc/ideas2018)
+4.  [Google Summer of Code 2018 ideas](/web/blog/gsoc/ideas2018)
