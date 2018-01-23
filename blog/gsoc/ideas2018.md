@@ -26,7 +26,7 @@ You are encouraged to go through these steps for a better understanding and foll
 5.  Create a schedule with the milestones you plan to follow during the GSoC 2017 program.
 6.  **Send the schedule and any code you might have written along with your CV and other application materials to the mentor of your idea and the backup mentor.**
 
-For general questions about RoboComp please use: The [developers list]((https://groups.google.com/forum/?hl=es#!forum/robocomp-dev) and the [gitter chat](https://gitter.im/robocomp/home).
+For general questions about RoboComp please use: The [developers list](https://groups.google.com/forum/?hl=es#!forum/robocomp-dev) and the [gitter chat](https://gitter.im/robocomp/home).
 
 NOTE:  If you send this by email make sure to also submit your application through the official GSoC website otherwise you will not be considered for the programme.
 
