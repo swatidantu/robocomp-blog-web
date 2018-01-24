@@ -510,7 +510,7 @@ label a {
 }
 /* :checked */
 input:checked ~ .tab-content {
-  max-height: 10em;
+  max-height: 50em;
 }
 /* Icon */
 label::after {
