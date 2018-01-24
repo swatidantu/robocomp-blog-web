@@ -228,8 +228,8 @@ ibarbechATalumnosDOTunexDOTes
 Researcher, Robolab,  
 University of Extremadura  
 
-### Nicolas Gonzalez
+### Nicolás González
 
-nicoATunexDOTes  
+nicolasATunexDOTes  
 Developer, Robolab,  
 University of Extremadura  
