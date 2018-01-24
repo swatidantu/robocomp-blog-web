@@ -448,6 +448,13 @@ footer a:hover {
   }
 }
 
+.text-center {
+	text-align: center;
+}
+.margin-top10px {
+	margin-top: 10px;
+}
+
 /* Acordeon styles */
 .tab {
   position: relative;
@@ -469,6 +476,10 @@ label {
   font-weight: bold;
   line-height: 3;
   cursor: pointer;
+}
+label a {
+	display: table;
+	width: 100%;
 }
 .blue label {
   background: #2980b9;
@@ -517,6 +528,7 @@ input[type=checkbox]:checked + label::after {
 input[type=radio]:checked + label::after {
   transform: rotateX(180deg);
 }
+/* <--- Acordeon styles */
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) { }
