@@ -13,14 +13,14 @@ This is the list of ideas for the Google Summer of Code 2018, if you are interes
 * Since several of the mentioned RoboComp tools and components are not explained here to keep this list short, we encourage everyone to check the RoboComp documentation linked below. 
 * Mentors and backup mentors are listed right after the idea explanation. All mentors contact info is at the end of the page. Contact them directly for specific questions on the idea.
 
-Robocomp installation and tutorials: ([https://robocomp.readthedocs.io/en/highlyunstable/])
+Robocomp installation and tutorials: [https://robocomp.readthedocs.io/en/highlyunstable/](https://robocomp.readthedocs.io/en/highlyunstable/)
 
 **Where can I start and what to include on my application?**
 
 You are encouraged to go through these steps for a better understanding and follow-up of your application:
 
-1.  Download and install RoboComp: ([https://github.com/robocomp/robocomp/blob/master/README.md]).
-2.  Follow the tutorials: ([https://github.com/robocomp/robocomp/blob/master/doc/README.md]).
+1.  Download and install RoboComp: [https://github.com/robocomp/robocomp/blob/master/README.md](https://github.com/robocomp/robocomp/blob/master/README.md).
+2.  Follow the tutorials: [https://github.com/robocomp/robocomp/blob/master/doc/README.md](https://github.com/robocomp/robocomp/blob/master/doc/README.md).
 3.  Once you are familiar with RoboComp and the components and tools involved in the particular idea you want to contribute to, try to understand how these components/tools work and, if possible, their design.
 4.  Participate in gitter asking any question you might have.
 5.  Create a schedule with the milestones you plan to follow during the GSoC 2017 program.
@@ -94,10 +94,10 @@ RoboComp currently has its own simulation tool RCIS (RoboComp Innermodel Simulat
 
 Where to start and what to include in my application?
 
-1. Download robocomp: ([https://github.com/robocomp/robocomp])
-2. Get familiarized with the framework through the docs: ([https://github.com/robocomp/robocomp/tree/master/doc])
+1. Download robocomp: [https://github.com/robocomp/robocomp](https://github.com/robocomp/robocomp)
+2. Get familiarized with the framework through the docs: [https://github.com/robocomp/robocomp/tree/master/doc](https://github.com/robocomp/robocomp/tree/master/doc)
 3. Run a test with the RCIS tool and understand how it works
-4. Download and run Gazebo: ([http://gazebosim.org/])
+4. Download and run Gazebo: [http://gazebosim.org/](http://gazebosim.org/)
 5. Run it and find ways to connect Gazebo to robocomp components through the ros interface.
 
 Needed skills: Gazebo, C++, Robotics simulation  
@@ -124,7 +124,7 @@ Mentors: Marco A. Gutiérrez, Pilar Bachiller
 
 ### 10\. Learnblock (Learnbot programming language) extension for collaborative robotics
 
-Check: ([https://github.com/ibarbech/learnbot/blob/master/doc/learnblock.md])
+Check: [https://github.com/ibarbech/learnbot/blob/master/doc/learnblock.md](https://github.com/ibarbech/learnbot/blob/master/doc/learnblock.md)
 
 LearnBlock is the programing tool designed for easy usage of the Learnbot robot. It is meant to be used by students and to help them learn new concepts by the usage of robotics programming. This idea involves the extension of the Learnblock programming tool to manage collaborative robotics between learnbots. The student will have to develop a system that enables Learnbot to communicate between and offer this option through the learnblock tool to the end user. Finally a use case example of these collaborative robotics tool will have to be developed and tutorials produced for future users and developers of the platform.
 
@@ -142,7 +142,7 @@ Mentors: Pedro Núñez, Luis Manso
 
 ### 12\. Integrating MORSE Human-robot interaction simulator with RoboComp
 
-MORSE is a generic simulator for academic robotics (see ([https://www.openrobots.org/morse/doc/stable/what_is_morse.html])). Currently simulations in RoboComp are made using RCIS (RoboComp InnerModel Simulator), which has several limitations related to Human-Robot interactions. MORSE does not make any assumption on the external architecture using it, thus, the idea is to integrate this simulator as an additional tool for RoboComp. As MORSE authors say in their webpage, “it is developed using python and also supports a simple socket-based protocol for easy integration in other languages/toolbox”, features that will facilitate the proposed integration. Besides, MORSE developers provide complete bindings for Python which make it a natural way to integrate with RoboComp’s Python code generation tool.
+MORSE is a generic simulator for academic robotics (see [https://www.openrobots.org/morse/doc/stable/what_is_morse.html](https://www.openrobots.org/morse/doc/stable/what_is_morse.html)). Currently simulations in RoboComp are made using RCIS (RoboComp InnerModel Simulator), which has several limitations related to Human-Robot interactions. MORSE does not make any assumption on the external architecture using it, thus, the idea is to integrate this simulator as an additional tool for RoboComp. As MORSE authors say in their webpage, “it is developed using python and also supports a simple socket-based protocol for easy integration in other languages/toolbox”, features that will facilitate the proposed integration. Besides, MORSE developers provide complete bindings for Python which make it a natural way to integrate with RoboComp’s Python code generation tool.
 
 Needed skills: C++, Python  
 Mentors: Pablo Bustos, Luis J. Manso  
@@ -193,7 +193,7 @@ Mentor: Ismael García-Varea
 
 ### 17\. Rewriting RoboComp’s QMat with Eigen
 
-RoboComp’s core algebra library, QMat, was created before the Eigen library [(http://eigen.tuxfamily.org/)] was so widely used and stable. Currently, QMat uses a QSharedData buffer based on the Qt library and provides a series of operators, mostly implemented in the QMat class itself. Eventually, Eigen became more popular and many widely used libraries such as OpenCV or PCL use Eigen matrices internally and in their API. Given that Eigen is now the de facto standard, it would be desirable to rethink QMat as a subclass of Eigen, so that we can work with these matrices used by so many libraries seamlessly.
+RoboComp’s core algebra library, QMat, was created before the Eigen library [http://eigen.tuxfamily.org/](http://eigen.tuxfamily.org/) was so widely used and stable. Currently, QMat uses a QSharedData buffer based on the Qt library and provides a series of operators, mostly implemented in the QMat class itself. Eventually, Eigen became more popular and many widely used libraries such as OpenCV or PCL use Eigen matrices internally and in their API. Given that Eigen is now the de facto standard, it would be desirable to rethink QMat as a subclass of Eigen, so that we can work with these matrices used by so many libraries seamlessly.
 
 The goal of this project would be to implement a new version of QMat as a subclass of an Eigen matrix. In the way, many methods will be removed from QMat because they will be inherited from Eigen. A lesser amount of them, related to geometry, will be kept. This new class should be properly integrated with another class of the framework named InnerModel, which would probably be affected by minor changes of QMat’s API.
 
