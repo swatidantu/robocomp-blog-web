@@ -25,6 +25,11 @@ Mentors: Marco A Gutiérrez
 Idea: Improving the Human-centered Robot Navigation Agent  
 Mentors: Luis Jesús Manso and Pedro Núñez Trujillo  
 
+**Piyush Pilaniya**
+
+Idea: Integrating MORSE Human-robot interaction simulator with RoboComp  
+Mentors: Luis Jesús Manso and Pablo Bustos  
+
 **José Alberto Andújar**
 
 Idea: JavaScript support  
