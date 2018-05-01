@@ -13,3 +13,6 @@ Simulation plays an important role in robotics. Through simulation we can save v
 This brings us to choice of integrating the framework with Gazebo. Gazebo is designed for creating a 3D dynamic multi-robot environments capable of rendering the physics and complexity of real world. With the integration between RoboComp and Gazebo, the developers will have access to a more wider variety of applications to test on the simulator with more complex environment and more accurate physical models. Having gazebo as an option for simulations with RoboComp will help grow the possibilities that framework can offer to developers.
 
 The project aims to use the various APIs provided by gazebo to export its resources to other frameworks. We will be mainly using plugins for Gazebo, which act as a shared library, providing one or several of the RoboComp low-level hardware interfaces.
+
+* * *
+*Akash Kumar Singh*
