@@ -42,6 +42,8 @@ Mentors: Nicolas Gonzalez Flores and Luis V. Calderita
 Idea: Learnblock (Learnbot programming language) extension for collaborative robotics  
 Mentors: Marco A Gutiérrez and Iván Barbecho Delgado  
 
+1. [Learnblock extension for collaborative robotics : Introduction](/web/gsoc/2018/prinshu_kumar/post1)
+
 **Sparsh Garg**
 
 Idea: RCIS: improving RoboComp simulator with contact physics  
