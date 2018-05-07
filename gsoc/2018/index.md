@@ -22,6 +22,8 @@ Mentors: Marco A Gutiérrez and Ramon Cintas
 Idea: Generation of new use cases, tutorials and reference information for RoboComp  
 Mentors: Marco A Gutiérrez  
 
+1. [Generation of new use cases, tutorials and reference information : Introduction](/web/gsoc/2018/maria_bohorquez/post1)
+
 **Araceli Vega Magro**
 
 Idea: Improving the Human-centered Robot Navigation Agent  
