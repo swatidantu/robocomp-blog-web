@@ -15,10 +15,14 @@ Mentors: Esteban Martinena and Pablo Bustos
 Idea: Gazebo-RoboComp Integration  
 Mentors: Marco A Gutiérrez and Ramon Cintas  
 
+1. [RoboComp-Gazebo Integration : Introduction](/web/gsoc/2018/akash_kumar_singh/post1)
+
 **Maria Bohórquez**
 
 Idea: Generation of new use cases, tutorials and reference information for RoboComp  
 Mentors: Marco A Gutiérrez  
+
+1. [Generation of new use cases, tutorials and reference information : Introduction](/web/gsoc/2018/maria_bohorquez/post1)
 
 **Araceli Vega Magro**
 
@@ -39,6 +43,8 @@ Mentors: Nicolas Gonzalez Flores and Luis V. Calderita
 
 Idea: Learnblock (Learnbot programming language) extension for collaborative robotics  
 Mentors: Marco A Gutiérrez and Iván Barbecho Delgado  
+
+1. [Learnblock extension for collaborative robotics : Introduction](/web/gsoc/2018/prinshu_kumar/post1)
 
 **Sparsh Garg**
 
