@@ -254,7 +254,15 @@ RoboComp’s core algebra library, QMat, was created before the Eigen library [h
 
 The goal of this project would be to implement a new version of QMat as a subclass of an Eigen matrix. In the way, many methods will be removed from QMat because they will be inherited from Eigen. A lesser amount of them, related to geometry, will be kept. This new class should be properly integrated with another class of the framework named InnerModel, which would probably be affected by minor changes of QMat’s API.
 
-Mentors: Luis Calderita, Ramón Cintas
+Mentors: Luis Calderita, Ramón Cintas  
+
+### 18\. Visual Detection Mechanisms in Mobile Robots
+
+In this action the student will study and code a visual attention algorithm for RoboComp that will respond both to bottom-up cues and to top-down requests. Bottom-up cues are computed by a RoboComp adapted Yolo server that provides a list of detected objects and its probabilities. Top-down cues are provided by RoboComp's internal representation of the scene (and the robot itself) and predict where objects are to be found after movement of the robot. The combination of both action streams will elicit an attentional behavior and a basic notion of self-awareness.  
+
+Skills required: C++ (advanced), OpenCV  
+
+Mentors: Pablo Bustos, Ramón Cintas  
 
 ## Mentors:
 
