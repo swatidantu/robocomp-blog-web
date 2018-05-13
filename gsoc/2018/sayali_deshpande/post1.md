@@ -1,12 +1,15 @@
-#Hello, World!
+# Hello, World!
 
 11th May, 2018
 
-##INTRODUCTION
+## INTRODUCTION
+
 My name is Sayali Deshpande. I’m a third year Computer Engineering student at Pune Institute of Computer Technology. I have been passionate about computer programming since I was in high school and have wanted to pursue it as a career since then.
+
 The concept of Artificial Intelligence has always fascinated me. With the extensive research and rapid developments in the field, it always offers something new to learn and experiment with. AI is quite a vast field, having applications in various areas like agriculture, industries, healthcare etc. For my GSoC project this year, I would be working on a combination of different subfields of AI, namely Deep Learning, Computer Vision and Robotics.
 
-##ABOUT MY PROJECT - Emotion Recognition Component for Learnbot
+## ABOUT MY PROJECT - Emotion Recognition Component for Learnbot
+
 Learnbot is a small low-cost robot designed to develop computational thinking in kids of age 10 and above. Kids can program motor behaviours for the robot using a block language specifically designed for it. 
 
 Presently, Learnbot can be programmed to show emotions via a display. However, it does not have the ability to recognize human emotions. Having this ability would help improve the Human-Robot Interaction(HRI) functions in Learnbot.
