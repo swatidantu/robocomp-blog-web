@@ -19,6 +19,7 @@ Idea: Gazebo-RoboComp Integration
 Mentors: Marco A Gutiérrez and Ramon Cintas  
 
 1. [RoboComp-Gazebo Integration : Introduction](/web/gsoc/2018/akash_kumar_singh/post1)
+2. [Gazebo: Introduction](/web/gsoc/2018/akash_kumar_singh/post2)
 
 **Maria Bohórquez**
 
