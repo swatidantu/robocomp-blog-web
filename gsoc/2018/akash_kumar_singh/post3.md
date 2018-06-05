@@ -108,3 +108,5 @@ There are certain shortcuts which gazebo provides which further eases the proced
 There are basically two major components in a gazebo simulation: `Model` and `Sensor`. `Model` can include all the parts in a simulation moodel which is physical and has a structure and shape like `links`, `joints` or `models`. On the other hand gazebo sensor is not something which can be seen with the eyes like a model. It is something which can binded to a part of a model.
 
 Gazebo also a lot of inbuilt plugins from which we can inherit and build more complex and customised plugin: `CameraPlugin`, `IMUPlugin`, `ContactSensorPlugin`, `ModelPlugin`, `WorldPlugin`, `DepthSensorplugin` and many like this.
+* * *
+*Akash Kumar Singh*
