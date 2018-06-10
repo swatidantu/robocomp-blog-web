@@ -64,3 +64,4 @@ Idea: RCIS: improving RoboComp simulator with contact physics
 Mentors: Pablo Bustos and Ramon Cintas  
 
 1. [Introduction: Visual Detection Mechanisms in Mobile Robots.](web/gsoc/2018/cristina_mg/index.md)
+2. [First approximation to the system](web/gsoc/2018/cristina_mg/post2.md)
