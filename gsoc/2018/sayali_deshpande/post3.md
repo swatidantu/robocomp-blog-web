@@ -36,9 +36,13 @@ I spent almost 3 days in correctly labelling the images. This was a mammoth task
 
 I trained the model again after cleaning the dataset. This time, the test accuracy did not go beyond 56%. However, in practice, this model worked way better than the previously trained model. It is able to detect extreme facial expressions quite well. That is, a slight sadness or anger in the expression may not be detected well, but extreme sadness or anger gets detected well.
 
-## Using the component
+**Some sample images from the FER2013 Dataset**
 
-Just go through my previous post and you will be able to test out the emotion recognition on your PC/Laptop! :)
+|![happiness1](images/happiness1.jpg)![happiness2](images/happiness2.jpg)|![sadness1](images/sadness1.jpg)![sadness2](images/sadness2.jpg)|![fear1](images/fear1.jpg)![fear2](images/fear2.jpg)|
+|:---:|:---:|:---:|
+|Happiness|Sadness|Fear|
+|![surprise1](images/surprise1.jpg)![surprise2](images/surprise2.jpg)|![anger1](images/anger1.jpg)![anger2](images/anger2.jpg)|![neutral1](images/neutral1.jpg)![neutral2](images/neutral2.jpg)|
+|Surprise|Anger|Neutral|
 
 * * *
 Sayali Deshpande
