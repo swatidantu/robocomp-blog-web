@@ -10,13 +10,13 @@ The problem of the algorithm is that the personal space of human has a fixed for
 
 ### Adaptable spatial density function
 
-The main idea is to change independently the values of σ_s, σ_r~ and σ_h, in order to adapt the personal space to allow the robot to navigate around the person without problems.
+The main idea is to change independently the values of σ_s, σ_r and σ_h, in order to adapt the personal space to allow the robot to navigate around the person without problems.
 
 First, the algorithm calculates the distances from human to the walls in the four directions of the person. Then, for each distance, it is calculated if the robot is able to navigate in this space. If not, the personal space is adapted by varying the corresponding variance of the asymmetric Gaussian function.
 
 In order to measure distances to each wall, different straight lines along the orientations of the person are generated and it is calculated the intersection point of each line with the walls. That allows to calculate the distance of each wall to the human (d_i). Knowing this distance, it is possible to calculate if the robot is able to navigate between the wall and the human, as the diameter of the robot is known. 
 
-Being d_r the diameter of the robot plus a safety margin and d_min and d_max the minimum and maximum distances that define the comfort zone. For each d_i, the algorithm calculates the distance: d_s=d_i-d_r
+Being d_r the diameter of the robot plus a safety margin and d_min and d_max the minimum and maximum distances that define the comfort zone. For each d_i, the algorithm calculates the distance: d_s = d_i - d_r
 If d_min < d_s < d_max, the personal space would be reduced in that orientation of the human.  
 
 If the personal space needs to be reduced, its necessary to select a value of σ that generate the desired distance to the personal space d_s. For this aim, the distances from human to the personal space with differents σ has been calculated, obtaining the next graph:
