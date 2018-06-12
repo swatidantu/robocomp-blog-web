@@ -21,7 +21,7 @@ There is a lot of work to be done in order to achieve the goals set for this GSO
 
 * In the last year, the navigation component has been modified. So, first of all, it will be necessary to integrate in this component the social navigation algorithm.
 
-* Once it has been done, I would like to integrate the created algorithm in the Social Navigation Agent.
+* Once it has been done, I would like to integrate the created algorithm in the Social Navigation Agent, for this aim, it will be necessary to extract the information of the room from the DSR, which is a model of the world.
  
 * Besides, I would like to integrate new social behaviors during the navigation, such as approaching to a person located in the room or starting an interaction with humans if the path is blocked by them.
 
