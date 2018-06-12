@@ -35,7 +35,9 @@ Mentors: Marco A Gutiérrez
 **Araceli Vega Magro**
 
 Idea: Improving the Human-centered Robot Navigation Agent  
-Mentors: Luis Jesús Manso and Pedro Núñez Trujillo  
+Mentors: Luis Jesús Manso and Pedro Núñez Trujillo
+
+1. [Introduction: Social Navigation](/web/gsoc/2018/araceli_vega_magro/post1)
 
 **Piyush Pilaniya**
 
