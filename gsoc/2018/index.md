@@ -45,7 +45,9 @@ Mentors: Luis Jesús Manso and Pablo Bustos
 **José Alberto Andújar**
 
 Idea: JavaScript support  
-Mentors: Nicolas Gonzalez Flores and Luis V. Calderita  
+Mentors: Nicolas Gonzalez Flores and Luis V. Calderita
+
+1. [RoboComp- Javascript support](/web/gsoc/2018/jose_alberto_andujar/post1)
 
 **Prinshu Kumar**
 
