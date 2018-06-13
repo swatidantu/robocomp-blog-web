@@ -59,6 +59,9 @@ Mentors: Marco A Gutiérrez and Iván Barbecho Delgado
 Idea: RCIS: improving RoboComp simulator with contact physics  
 Mentors: Pablo Bustos and Ramon Cintas  
 
+1. [Introduction: RobocompInnerModel Editor](/web/gsoc/2018/sparsh_789/post1)
+2. [Creating new nodes](/web/gsoc/2018/sparsh_789/post2)
+
 **Cristina Mendoza Gutiérrez**
 
 Idea: RCIS: improving RoboComp simulator with contact physics  
