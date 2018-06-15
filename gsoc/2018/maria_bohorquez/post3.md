@@ -10,6 +10,9 @@ For questions or help for GSoC students, contact me at gabriellabohorquez@gmail.
 
 - Gifs are being made for the front page and tutorials. Videos were suggested, but they are usually ignored, as Markdown doesn't support them inside the documentation (clicking them takes to an external site). For this, [Peek](https://github.com/phw/peek) is being used. 
 
+![Example of Gif](https://media.giphy.com/media/3kyju4nOJxYbtNQrMq/giphy.gif)
+
+
 
 
 
