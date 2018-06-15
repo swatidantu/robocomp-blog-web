@@ -31,8 +31,8 @@ Idea: Generation of new use cases, tutorials and reference information for RoboC
 Mentors: Marco A Gutiérrez  
 
 1. [Generation of new use cases, tutorials and reference information: Introduction](/web/gsoc/2018/maria_bohorquez/post1)
-2. [Updating ReadTheDocs. Why is Travis failing?](/web/gsoc/2018/maria_bohorquez/post2)
-3. [Checking and Upgrading Docs](/web/gsoc/2018/maria_bohorquez/post3)
+2. [Updating ReadTheDocs. Why is Travis failing?](/web/blob/master/gsoc/2018/maria_bohorquez/post2.md)
+3. [Checking and Upgrading Docs](/web/blob/master/gsoc/2018/maria_bohorquez/post3.md)
 
 **Araceli Vega Magro**
 
