@@ -23,6 +23,7 @@ Mentors: Marco A Gutiérrez and Ramon Cintas
 3. [Gazebo Plugins](/web/gsoc/2018/akash_kumar_singh/post3)
 4. [Is there nothing other than Plugins?](/web/gsoc/2018/akash_kumar_singh/post4)
 5. [Gazebo-RoboComp Integration Tool: gazeboserver](/web/gsoc/2018/akash_kumar_singh/post5)
+6. [Gazebo Plugins: Demo](/web/gsoc/2018/akash_kumar_singh/post6)
 
 **Maria Bohórquez**
 
