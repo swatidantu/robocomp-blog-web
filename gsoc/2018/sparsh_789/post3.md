@@ -13,7 +13,9 @@ After that I worked on highlighting the node feature. As I had done changes in i
 
 **After** implementing above features I implemented one of the main feature "removing current node". For demo you can click [here](https://drive.google.com/file/d/16Fv-Vo0qKZjMp78t3NnILn-tstXXaWOU/view?usp=sharing).
 There was already a function named "removeNode" in innermodel.cpp which I thought would be sufficient. Like I have to just call the function from RCInnerModelEditor and it will remove node. But not all things can work fine for anyone. Initially I just called the function and result was a familiar name "Segmentation fault". After getting error I First tried to change my RcinnerModelEditor code as I thought that there must be some problem with overlapping signals in my code. But no after a number of tries I figured out that problem is with "removeNode" function in innerModel.cpp file. 
+
 First problem was that function was only removing specific node, not its children.
+
 Second problem(that took much time) was that function was deleting node and removing it from hash table. But not from its parent data. Means node's parent still have that node as its child but node does not exist. So when innerModel file is updated then node's parent call that node but as it is "NULL" so result is segmentation fault.
 But seriously while identifying second problem I got frequent with innerModel codebase.
 Now after removing node there were still some problems like unsynchronizing of "highlight node" and "remove current node" function, disconnecting some signals while removing nodes. But solutions to these problems were identifiable, hence solved.
