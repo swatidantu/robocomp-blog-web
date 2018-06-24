@@ -70,6 +70,7 @@ Mentors: Pablo Bustos and Ramon Cintas
 
 1. [Introduction: RobocompInnerModel Editor](/web/gsoc/2018/sparsh_789/post1)
 2. [Creating new nodes](/web/gsoc/2018/sparsh_789/post2)
+3. [Adding new features in Tool](/web/gsoc/2018/sparsh_789/post3)
 
 **Cristina Mendoza Gutiérrez**
 
