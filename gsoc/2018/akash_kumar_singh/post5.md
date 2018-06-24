@@ -8,7 +8,7 @@ So, the model is not integrated with the robocomp's current code base. But I did
 
 Here is a demo video for the testing with I did with a ICE `client` and a `server`. 
 
-[![Watch the video](https://github.com/ksakash/README/blob/master/gsoc18.png)](https://youtu.be/Sy3LZV5b3e8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sy3LZV5b3e8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 `server` instantiates a `LaserI` object which is responsible for connecting to the gazebo simulator. `client` will have the `proxy` to connect with the `server` to listen to its request. For if we do give signal to the `server` then it will print out the laser scan data of the laser sensor used in the simulator.
 
