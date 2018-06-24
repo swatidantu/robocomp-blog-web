@@ -12,6 +12,7 @@ For demo Video you can check [here](https://drive.google.com/file/d/1wgS0mN0rlc_
 After that I worked on highlighting the node feature. As I had done changes in innermodelviewer for updating texture spontaneously, so doing this task was somewhat less tiresome. For this I have to write one function "highlight node" in RcInnerModelEditor. In highlight node, node on which user is currently working is highlighted with blue texture. Once user change any property of node then it comes to original texture.
 
 **After** implementing above features I implemented one of the main feature "removing current node". For demo you can click [here](https://drive.google.com/file/d/16Fv-Vo0qKZjMp78t3NnILn-tstXXaWOU/view?usp=sharing).
+
 There was already a function named "removeNode" in innermodel.cpp which I thought would be sufficient. Like I have to just call the function from RCInnerModelEditor and it will remove node. But not all things can work fine for anyone. Initially I just called the function and result was a familiar name "Segmentation fault". After getting error I First tried to change my RcinnerModelEditor code as I thought that there must be some problem with overlapping signals in my code. But no after a number of tries I figured out that problem is with "removeNode" function in innerModel.cpp file. 
 
 First problem was that function was only removing specific node, not its children.
