@@ -42,6 +42,7 @@ Mentors: Luis Jesús Manso and Pedro Núñez Trujillo
 
 1. [Introduction: Social Navigation](/web/gsoc/2018/araceli_vega_magro/post1)
 2. [Adaptive Personal Space](/web/gsoc/2018/araceli_vega_magro/post2)
+3. [Modifications in the Navigation Agent](/web/gsoc/2018/araceli_vega_magro/post3)
 
 **Piyush Pilaniya**
 
