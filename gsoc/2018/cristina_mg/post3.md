@@ -32,7 +32,7 @@ After contextualize, I can continue with the post.
 ### *Predict* state
 This is the first state, where the machine starts. This initial state goes through the complete list of objects *listObjects* and, for each of them, it checks if it is within the limits of the capture of the camera, that is, if the robot would see it at that moment. If this condition is met, the box that is printed later on the green image is created, as shown in the next figure and, in addition, the object is added to the list of visible objects.
 
-![Camera RGBD capture.](images/captura_camara.png)
+![Camera RGBD capture.](images/captura_camara)
 
 To perform this check, we obtain from the *innermodel* the camera on which we want to work, then, for each coordinate vector that forms the bounding-box of the object, it is transformed from the reference system of the object to the camera one and project on the camera.
 
