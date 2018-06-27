@@ -30,7 +30,7 @@ It has been done in the same form it was done last year, however, it has not bee
 
 This is the main difference between the previous version of the component and the current version. In the pictures below can be seen the difference between the previous and the current graph.
  
-![Last graph](pictures/grafosin.png)  ![Actual graph](pictures/grafoahora.png) 
+![Last graph](pictures/grafosin.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![Actual graph](pictures/grafoahora.png) 
 
 The old graph was defined by a set of nodes and edges that described the free space. To modify the graph in order to consider the personal space and the cluster of individuals as occupied, it was required to remove the edges and the nodes that crossed the personal space. That caused some issues when the people moved because it was necessary to regenerate again the nodes and edges. This regeneration was a slow process.
 
