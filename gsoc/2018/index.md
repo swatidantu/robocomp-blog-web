@@ -60,7 +60,7 @@ Mentors: Pablo Bustos and Ramon Cintas
 
 **Cristina Mendoza Gutiérrez**
 
-Idea: RCIS: improving RoboComp simulator with contact physics  
+Idea: Visual Detection Mechanisms in Mobile Robots
 Mentors: Pablo Bustos and Ramon Cintas  
 
 1. [Introduction: Visual Detection Mechanisms in Mobile Robots.](/web/gsoc/2018/cristina_mg/post1)
