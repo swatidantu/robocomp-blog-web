@@ -26,6 +26,7 @@ Mentors: Marco A Gutiérrez and Ramon Cintas
 5. [Gazebo-RoboComp Integration Tool: gazeboserver](/web/gsoc/2018/akash_kumar_singh/post5)
 6. [Gazebo Plugins: Demo](/web/gsoc/2018/akash_kumar_singh/post6)
 7. [Slice](/web/gsoc/2018/akash_kumar_singh/post7)
+8. [ICE Interface](/web/gsoc/2018/akash_kumar_singh/post8)
 
 **Maria Bohórquez**
 
