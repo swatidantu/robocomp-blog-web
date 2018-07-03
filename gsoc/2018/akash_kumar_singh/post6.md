@@ -19,3 +19,6 @@ As I have already described in my earlier posts, gazebo plugins are at the most 
 
 ## IMU Plugin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kbWhc3YBzFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+* * *
+*Akash Kumar Singh*

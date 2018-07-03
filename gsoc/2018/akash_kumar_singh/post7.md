@@ -117,3 +117,6 @@ module RoboCompBumper {
 ```
 
 This is the code of `bumper.ice`, one of the interfaces that is used in the integration.
+
+* * *
+*Akash Kumar Singh*
