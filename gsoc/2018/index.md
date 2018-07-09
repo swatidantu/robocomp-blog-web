@@ -84,4 +84,5 @@ Mentors: Pablo Bustos and Ramon Cintas
 1. [Introduction: Visual Detection Mechanisms in Mobile Robots.](/web/gsoc/2018/cristina_mg/post1)
 2. [First approximation to the system](/web/gsoc/2018/cristina_mg/post2)
 3. [Deepening in the state machine](/web/gsoc/2018/cristina_mg/post3)
-2. [Explanation of other system parts](/web/gsoc/2018/cristina_mg/post4)
+4. [Explanation of other system parts](/web/gsoc/2018/cristina_mg/post4)
+5. [First improvement: thermal map](/web/gsoc/2018/cristina_mg/post5)
