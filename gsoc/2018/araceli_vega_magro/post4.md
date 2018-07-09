@@ -18,15 +18,23 @@ Thanks to this idea, it is no longer necessary to derform the personal space in 
 
 In the figures can be shown the three spaces, in colour red is shown the intimate space, in purple, the personal space and in blue the social space. The points of the graph have been coloured according its costs. To determine the costs of each point, it has been calculated if the point is inside the polyline. 
 
-![Path plannification](pictures/post4_6.png)
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Path plannification](pictures/post4_6.png)
 
-In the last picture, can be shown that the path planning takes into account the costs so it is planned getting away of the spaces defined around the person.
+The last picture shows that the planned path takes into account the costs so it moves away from the defined spaces around the person.
 
 ### Taking into account the personal interactions in the clustering.
 
-![No interaction](pictures/post4_3.png) 
+The initial navigation algorithm uses a cluster algorithm in order to group the people in the environment according the distance. It is usefull but not always desirable, for example, in certain situations, the algorithm clusters persons even if they are not interacting to each other, what makes that the robot has less space to navigate. 
 
+I have modified the navigation algorithm in order to cluster the people only if they are interacting. To this aim, the human agent has been modified to add interacting links between  persons. The navigation algorithm reads this links and separates people who are interacting from those who are not. If two people are interacting, the personal space of both is considered as occupied, so that the robot can not interfere in the conversation.
+ 
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![No interaction](pictures/post4_3.png) 
+
+ In this picture shows two person who are not interacting so no clustering is done even if they are close. That allows the robot to navigate between them if it is necessary. 
+ 
 ![Human interface](pictures/post4_4.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![Interaction](pictures/post4_5.png) 
+
+In the left can be seen the Human Agent interface, which adds the interacting link. In the right is shown the two interacting persons and the resulting graph. All the points of the graph inside the personal space are set as occupied. 
 
 * * *
 Araceli Vega Magro
