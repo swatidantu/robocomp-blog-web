@@ -4,7 +4,7 @@ Development of connection between robocomp and gazebo was started approx. two mo
 
 Following from the previous two posts in which we get to know about the Slice language and Ice interface, that are actually doing the work, now it's the time to explain how these customized classes are actually used to communicate with gazebo. A general idea about the integration can be obtained from this figure.
 
-![Integration Overview](https://github.com/ksakash/README/blob/master/gsoc.png)
+![Integration Overview](https://raw.githubusercontent.com/ksakash/README/master/gsoc.png)
 
 As you can see all the interfaces are included inside a `server` which is listening to the requests of any `client` that has access to the `endpoint` of the ice objects created inside the `server`. The interfaces uses the base classes generated from the slice definition of interfaces and has all the ice runtime tools needed to have a communication middleware. The classes derived from the base classes have all the transportation tools needed to communicate with gazebo plugins which in turn communicates with the simulator Gazebo. So, whenever a client makes a request, the `server` looks up to its servant object and calls the method needed to get information the interface. Interface returns the data which they have stored in their data members which is then filled from time to time inside the callback funtion, which is called when gazebo plugins publishes something on the corresponding topics. Here is an example of how it's done in the code:
 
