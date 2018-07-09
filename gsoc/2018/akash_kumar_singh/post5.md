@@ -28,3 +28,6 @@ Next we initiate the `client` by `./client 1`. This makes a request to the `serv
 This way we are able to communicate with gazebo with the help of ICE interface.
 
 Of course the real tool, which I have named `gazeboserver` which will be very different from it and have presentation and logging techniques, but the idea is the same.
+
+* * *
+*Akash Kumar Singh*
