@@ -20,10 +20,16 @@ An example of the published information looks like this:
 ``` Robot 1 'move_left' ```
 
 # Subscribe function for users :
-I have also created an additional tab 'collaborative' which looks like this:
-![collaborative](images/subscribe.png)
+I have also created an additional tab 'collaborative' which looks similar to the functions such as ``` move_left ``` and ``` set_move(10,0) ```
 
 I have also created a block namely ``` subscribe ``` which takes two argument. The first one is the robot id to which the user wants to subscribe and the second one is the waiting time to which the program should wait. An example looks like this :
-![Example](images/example.png)
+
+Robot 2:
+```
+main :
+	if subscribe(1,10) == "move_left"
+		lbot.move_right
+	end
+```
 
 In the above example ```Robot 2``` waits for 10 second. If the ```Robot 1``` moves left within that time then the other Robot moves Right.
