@@ -67,6 +67,8 @@ Idea: Learnblock (Learnbot programming language) extension for collaborative rob
 Mentors: Marco A Gutiérrez and Iván Barbecho Delgado  
 
 1. [Learnblock extension for collaborative robotics : Introduction](/web/gsoc/2018/prinshu_kumar/post1)
+2. [Creating the tabular structure](/web/gsoc/2018/prinshu_kumar/post2)
+3. [publishing and subscribing using paho-mqtt](/web/gsoc/2018/prinshu_kumar/post3)
 
 **Sparsh Garg**
 
