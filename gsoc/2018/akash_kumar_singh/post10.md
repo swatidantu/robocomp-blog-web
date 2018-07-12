@@ -1,6 +1,6 @@
 # Gazebo-RoboComp Integration: TimeLine
 
-In this post I wanted to describe the whole progress that I made in these two months, the things I have done so far and how did I do it. So I have a separate repo where I have kept all the code away from the integration this is nearly the same code which has been integrated in the code base. Here is the directory layout of the repo which can be found [here](https://github.com/kskash/gazebo-robocomp):
+In this post I wanted to describe the whole progress that I made in these two months, the things I have done so far and how did I do it. So I have a separate repo where I have kept all the code away from the integration. This is nearly the same code which has been integrated in the code base. Here is the layout of the repo which can be found [here](https://github.com/kskash/gazebo-robocomp):
 
 ```
 gazebo-robocomp
