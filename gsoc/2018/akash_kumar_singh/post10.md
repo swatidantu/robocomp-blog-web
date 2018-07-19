@@ -188,3 +188,6 @@ The final task was to merge the integration with the main code base of robocomp.
 ## Installing the Dependencies
 
 Next I had to figure out how to install the dependencies of the integration. They were two major dependencies: `ice-3.6` and `gazebo-7`. Ice-3.6 can be installed using `sudo apt-get install` but to install the binaries for `gazebo-7`, it is more that. The installation for gazebo can be found [here](http://gazebosim.org/tutorials?tut=install_ubuntu&cat=install). This is the tentative method that is going to be used to installed `gazebo-7`.
+
+* * *
+*Akash Kumar Singh*
