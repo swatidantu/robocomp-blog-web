@@ -94,3 +94,4 @@ Mentors: Pablo Bustos and Ramon Cintas
 3. [Deepening in the state machine](/web/gsoc/2018/cristina_mg/post3)
 4. [Explanation of other system parts](/web/gsoc/2018/cristina_mg/post4)
 5. [First improvement: thermal map](/web/gsoc/2018/cristina_mg/post5)
+6. [Second improvement: new object level](/web/gsoc/2018/cristina_mg/post6)
