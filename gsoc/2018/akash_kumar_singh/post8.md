@@ -66,3 +66,6 @@ string device_name_;
 ```
 
 And then these interfaces are ready to go. You just need to include these inside your server to use the object and serve the client.
+
+* * *
+*Akash Kumar Singh*
