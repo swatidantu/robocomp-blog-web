@@ -43,7 +43,7 @@ Finally, a CheckBox called pass on right has been created. With this it can be s
 
 The following picture shows the new gaussian that makes the robot plan the shortest route going through the right of the person. It can be seen in green bars the path that the robot follows.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![New interface](pictures/interfaz.png) 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Pass on right](pictures/post5_por.png) 
 
 * * *
 Araceli Vega Magro
