@@ -51,6 +51,7 @@ Mentors: Luis Jesús Manso and Pedro Núñez Trujillo
 2. [Adaptive Personal Space](/web/gsoc/2018/araceli_vega_magro/post2)
 3. [Modifications in the Navigation Agent](/web/gsoc/2018/araceli_vega_magro/post3)
 4. [A flexible way to consider the personal spaces](/web/gsoc/2018/araceli_vega_magro/post4)
+5. [Human blocking detector and other new functions](/web/gsoc/2018/araceli_vega_magro/post5)
 
 **Piyush Pilaniya**
 
