@@ -4,11 +4,11 @@ Jul 10, 2018
 
 ## Introduction
 
-In the previous posts we showed how to create a Javascript client implemented in NodeJS. We are going to create a new client, that uses a new interface file, that can be run in a browser, that is, a web application using ZeroC Ice.
+In the previous posts we showed how to implement Javascript client in NodeJS. This time we are implementing a new client, using a new interface file. This client is a web application that uses ZeroC Ice.
 
 ## Interface
 
-First, we created a new interface file, adding new methods:
+First thing to do is create a new interface file, adding new methods:
 
 ```
 module RPCConection {
@@ -26,7 +26,7 @@ module RPCConection {
 
 ## Server
 
-The server, as before, has been developed and runs in Python, but we need to define the new methods of the interface:
+The server side has been developed using Python. For this part we had to define the new methods of the interface:
 
 ```
    def __init__(self):
@@ -55,8 +55,9 @@ The server, as before, has been developed and runs in Python, but we need to def
 
 ## Client
 
-Once we have both the Interface file and the server running in python, we create the client in Javascript, which will be a very basic application using the Bootstrap and Jquery framework for functionality and styles.
-First of all we create a basic structure, for that we create the following directories and files:
+Once we have the Interface file and the server running, we create the client in Javascript, which will be a very basic application using Bootstrap and Jquery.
+
+First of all we create a basic structure:
 
 ```
 css/          # app global css variables and theme
@@ -71,7 +72,7 @@ Once the structure of our project is created, we would like to point out its mos
 
 ### index.html
 
-Index.html contains five buttons, which make calls to functions defined in our app.js. file. These functions will be used to call the methods defined on the interface. The future target of the first four buttons is to move the robot, in the typically four directions of the 2D spaces, left, right, up and down, and, the last one is set the speed.
+Index.html contains five buttons that calls to our app.js file. These functions will be used to call the methods defined on the interface. The first four buttons are going to move the robot in the four directions left, right, up and down. The last button is there to set the speed.
 
 ```
 <button type="button" onclick="moveUp();" class="btn btn-primary arrow">Move Up</button>
@@ -80,7 +81,7 @@ Index.html contains five buttons, which make calls to functions defined in our a
 <button type="button" onclick="moveRight();" class="btn btn-primary arrow">Move Right</button>
 ```
 
-On the other hand, one of the most important parts of our index.html file is the inclusion of the Scripts for the correct use of ZeroC Ice. For this we first include the Ice.js and then our interface file already converted to Javascript.
+On the other hand, one of the most important parts of our index.html file is the inclusion of the Scripts for the correct use of ZeroC Ice. For this we first include the Ice.js and the interface file already converted to Javascript.
 
 ```
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ice/3.7.1/Ice.js"></script>
@@ -89,14 +90,14 @@ On the other hand, one of the most important parts of our index.html file is the
 
 ### app.js
 
-In this file, we first create our communicator and our proxy. It is important to note that the connection through the proxy will be made by WebSocket and not by TCP, using port 9000
+This file initializes Ice and set the connection through the proxy using WebSocket and not TCP, on port 9000.
 
 ```
 const communicator = Ice.initialize();
 const proxy = communicator.stringToProxy("RPCServerName:ws -h localhost -p 9000");
 ```
 
-Now we define the functions that are called from the Index.html by means of the buttons.
+Now we define the functions that are called from the Index.html when interacting with buttons.
 
 ```
 async function moveUp() {
