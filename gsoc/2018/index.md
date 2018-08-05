@@ -7,7 +7,9 @@ Mentors: Iván Barbecho Delgado and Pilar Bachiller
 
 1. [Hello, World!](/web/gsoc/2018/sayali_deshpande/post1)
 2. [Happy? Sad? Neutral?](/web/gsoc/2018/sayali_deshpande/post2)
-2. [The CNN-DSIFT Model](/web/gsoc/2018/sayali_deshpande/post3)
+3. [The CNN-DSIFT Model](/web/gsoc/2018/sayali_deshpande/post3)
+4. [Experimenting with Facial Landmarks](/web/gsoc/2018/sayali_deshpande/post4)
+5. [~~Problems~~ Solved](/web/gsoc/2018/sayali_deshpande/post5)
 
 **Mayank Kumar**
 
