@@ -8,7 +8,7 @@ As I explained in the previous post, certain situations can occur in which the r
 
 To check if a person is "soft-blocking" the robot, the path to the goal is planned. If a path is found, it means that the person is not blocking the robot and then proceeds to check if it is soft-blocking the robot. The planned path consists of a series of points of the free space graph. A new function has been created in which it is checked if any point of the planned path crosses the personal space of each human present in the environment. If this occurs, the id of the person is stored in a vector. 
 
-## Adding blocking and soft-blocking edges in the DSR
+## Adding block and soft-block edges in the DSR
 
 Once the people who block or soft-block the robot have been detected, it is necessary that the robot knows this information to later request permission. To do this, edges are added in the DSR between the person and the robot.
 
