@@ -89,6 +89,8 @@ Mentors: Pablo Bustos and Ramon Cintas
 2. [Creating new nodes](/web/gsoc/2018/sparsh_789/post2)
 3. [Adding new features in Tool](/web/gsoc/2018/sparsh_789/post3)
 4. [Making user friendly](/web/gsoc/2018/sparsh_789/post4)
+5. [Drag and Drop](/web/gsoc/2018/sparsh_789/post5)
+6. [Help & Support](/web/gsoc/2018/sparsh_789/post6)
 
 **Cristina Mendoza Gutiérrez**
 
