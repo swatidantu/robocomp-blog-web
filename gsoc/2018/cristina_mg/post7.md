@@ -62,7 +62,7 @@ In this second experimental section, movement is added to the camera, so that th
 This caused two possible errors:
 - The first was that it left areas of the table unexplored, because if there was no object in an area, nothing was going to make the robot look at that area during execution.
 
-- In turn, this problem implied another, if there was an object in a part of the table without exploring, the system could never know of its existence, because it would never explore that area of ​​the table.
+- In turn, this problem implied another, if there was an object in a part of the table without exploring, the system could never know of its existence, because it would never explore that area of the table.
 In this type of tests, therefore, information could only be obtained from objects that were initially loaded in the *innermodel* or from objects that were randomly found in the field of view of the camera at some time and were correctly detected by Yolo.
 
 #### Experiments with the thermal map
