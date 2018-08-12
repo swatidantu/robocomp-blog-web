@@ -1,6 +1,6 @@
 # First Half of Second Month 
 
-For questions or help for other GSoC students, contact me at gabriellabohorquez@gmail.com or robocomp.team@gmail.com  
+For questions or help for other GSoC students (or anyone really!), contact me at gabriellabohorquez@gmail.com or robocomp.team@gmail.com  
 
 ## Learning about how to write User-friendly Documentation
 

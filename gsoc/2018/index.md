@@ -42,8 +42,11 @@ Mentors: Marco A Gutiérrez
 2. [Updating ReadTheDocs. Why is Travis failing?](/web/gsoc/2018/maria_bohorquez/post2)
 3. [Checking and Upgrading Docs](/web/gsoc/2018/maria_bohorquez/post3)
 4. [Installation Script and Style Guide for Docs](/web/gsoc/2018/maria_bohorquez/post4)
-
-
+5. [Using the Installation Script](/web/gsoc/2018/maria_bohorquez/post5)
+6. [Remodelling ReadTheDocs](/web/gsoc/2018/maria_bohorquez/post6)
+7. [Creating the FAQ](/web/gsoc/2018/maria_bohorquez/post7)
+8. [After the Summer & Contact Info](/web/gsoc/2018/maria_bohorquez/post8)
+ 
 **Araceli Vega Magro**
 
 Idea: Improving the Human-centered Robot Navigation Agent  
