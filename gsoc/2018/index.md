@@ -73,6 +73,7 @@ Mentors: Nicolas Gonzalez Flores and Luis V. Calderita
 2. [First steps with ZeroC Ice](/web/gsoc/2018/jose_alberto_andujar/post2)
 3. [Add Javascript to ZeroC Ice](/web/gsoc/2018/jose_alberto_andujar/post3)
 4. [First Web application ZeroC Ice](/web/gsoc/2018/jose_alberto_andujar/post4)
+5. [Connection with the robot: Demo Test](/web/gsoc/2018/jose_alberto_andujar/post5)
 
 **Prinshu Kumar**
 
