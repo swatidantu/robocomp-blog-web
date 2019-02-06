@@ -266,6 +266,7 @@ C++, Python, RoboComp, 3D graphics
 >**l.manso**AT**aston**DOT**ac**DOT**uk**  
 Lecturer in Computer Science,  
 School of Engineering & Applied Science, Aston University, UK  
+[http://ljmanso.com](http://ljmanso.com) __
 
 ### Pilar Bachiller
 
