@@ -5,7 +5,7 @@
 Here we have a list of the final ideas and students selected for GSOC' 2019:  
 
 
-# Google Summer of Code 2018 Ideas
+# Google Summer of Code 2019 Ideas
 
 02 Feb 2019
 
