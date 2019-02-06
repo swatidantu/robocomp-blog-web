@@ -317,6 +317,10 @@ University of Extremadura
 
 ### Diego R. Faria
 
+>**d.faria**AT**aston**DOT**ac**DOT**uk**  
+Lecturer in Computer Science,  
+School of Engineering & Applied Science - Aston University  
+
 ### Sparsh Garg
 
 
