@@ -265,7 +265,7 @@ C++, Python, RoboComp, 3D graphics
 
 >**l.manso**AT**aston**DOT**ac**DOT**uk**  
 Lecturer in Computer Science,  
-School of Engineering & Applied Science - Aston University  
+School of Engineering & Applied Science, Aston University, UK  
 
 ### Pilar Bachiller
 
@@ -319,7 +319,7 @@ University of Extremadura
 
 >**d.faria**AT**aston**DOT**ac**DOT**uk**  
 Lecturer in Computer Science,  
-School of Engineering & Applied Science - Aston University  
+School of Engineering & Applied Science, Aston University, UK  
 
 ### Sparsh Garg
 
