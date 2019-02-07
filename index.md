@@ -8,7 +8,7 @@ _**RoboComp** is an open-source Robotics framework providing the tools to create
 
 ## General information on applications
 
-This is the list of ideas for the Google Summer of Code 2019, if you are interested in any of the ideas listed below we encourage you to apply.
+We just made available the list of ideas for the Google Summer of Code 2019. If you are interested in any of the ideas listed we encourage you to get involved in the project and apply if RoboComp gets accepted into GSoC'19.
 
 [Read more](/web/blog/gsoc/ideas2019)
 
