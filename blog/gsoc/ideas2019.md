@@ -294,9 +294,14 @@ Robocomp Developer
 ### Esteban Martinena
 
 >**emartinena**AT**unex**DOT**es**  
-Researcher, Robolab,  
+Researcher, Robolab  
+University of Extremadura  
 
 ### Cristian Vázquez
+
+>**cristianvzc**AT**unex**DOT**es**  
+Researcher, Robolab  
+University of Extremadura  
 
 ### Ramon Cintas
 
@@ -305,14 +310,22 @@ Researcher, Robolab,
 University of Extremadura  
 
 ### Pedro Núñez
-
+a
 >**pnuntru**AT**unex**DOT**es**  
 Professor, RoboLab,  
 University of Extremadura  
 
 ### Luis V. Calderita
 
+>**lvcalderita**AT**unex**DOT**es**  
+Professor, RoboLab  
+University of Extremadura  
+
 ### Araceli Vega
+
+>**avegamag**AT**alumnos**DOT**unex**DOT**es**  
+Researcher, Robolab  
+University of Extremadura  
 
 ### Francisco Andrés
 

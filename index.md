@@ -3,7 +3,7 @@ _**RoboComp** is an open-source Robotics framework providing the tools to create
 * * *
 
 # [RoboComp got accepted in GSoC 2019!](/web/blog/gsoc/faq2019)
-<span class="post-date">February 27th 2019</span>
+<span class="post-date">February 27th 2019</span>  
 Google officially announced the list of organisations participating in GSoC'19 and RoboComp is in! The next important deadlines are:
 * 26 February - 25 March: Students get involved in the project and disscuss ideas with the mentors. If you're thinking about participating as a student, please follow all the tutorials.
 * 25 March - April 9: Students submit their applications.
