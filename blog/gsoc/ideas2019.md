@@ -310,7 +310,7 @@ Researcher, Robolab,
 University of Extremadura  
 
 ### Pedro Núñez
-a
+
 >**pnuntru**AT**unex**DOT**es**  
 Professor, RoboLab,  
 University of Extremadura  
