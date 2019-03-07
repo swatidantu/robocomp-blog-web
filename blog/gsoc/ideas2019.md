@@ -81,7 +81,7 @@ python
 
 ### 5\. Interactive robotic simulator
 **Mentors**  
-Pablo Bustos, Sparsh Garg
+Pilar Bachiller, Sparsh Garg
 
 
 **Brief description**  
