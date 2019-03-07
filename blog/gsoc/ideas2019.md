@@ -81,24 +81,24 @@ python
 
 ### 5\. Interactive robotic simulator
 **Mentors**  
-Pilar Bachiller, Sparsh Garg
+Pablo Bustos, Sparsh Garg
 
 
 **Brief description**  
 RCIS is the robotic simulator of the RoboComp framework. This simulator is very useful for multiple purposes. It can simulate complex worlds and provides a hardware abstraction layer for simulated robots that facilitates testing robot behaviors without modifying any line of code of the high-level components. Thus, the simulated robot can perceive the environment through its sensors and act upon the environment through its actuator as the physical robot does. Nevertheless the simulated worlds are static. The user can not change the position of an object or add new elements during the simulation. The aim of this project is to improve RCIS, adding options that make modifications of the environment possible during a simulation. This new feature will allow the user for interacting with the simulated robot to test more complex situations.
 
 **Needed skills**  
-...
+C++, Python, RoboComp
 
 ### 6\. People identification component for the EBO educational robot
 **Mentors**  
-Pilar Bachiller, Nicolás González
+Pilar Bachiller, Sayali Deshpande
 
 **Brief description**  
 EBO is an educational robot created by RoboLab to help children to learn programming concepts. EBO can exhibit not only motor behaviors, but also emotional ones, which makes it an interesting tool for the design of activities related to emotional management. The programming tool of EBO includes a wide range of functionality, such as color detection, face detection, emotion recognition and mark identification. Despite the combinations of these skills give rise to a great variety of interactive behaviors between the robot and a human, we want to go a step further, endowing EBO with the ability to identify a known person and “meet” new people. To this end, this project aims to create a people identification component for our educational robot. The component should provide two operation modes: “classify a new person” and “identify known people”. In the first mode, the component will receive a set of images and a name identifying the person. In addition, images of previously classified persons can be sent to the component. Thus, incremental learning techniques should be applied for the implementation of this new component. In the second mode, the component will receive an image and, after classifying all the faces on it, will return a list of identified persons.
 
 **Needed skills**  
-...
+C++, Python, RoboComp, Machine learning, Computer Vision
 
 
 ### 7\. Bluetooth extension for RoboComp
@@ -110,17 +110,17 @@ Iván Barbecho, Marco A. Gutiérrez
 Components currently generated with RoboComp use Ethernet networks to communicate but these type of networks are not always available. This idea proposes to add another communication technology to RoboComp that can connect components in Ethernet deprived areas. This technology would be Bluetooth and it will be incorporated using the ZeroC IceBT plugin to the Ice middleware. It will be tested first and then integrated into the RoboComp’s source code generator, so it becomes available as an option to anyone creating a new component.  This technology will provide some additional advantages such as low power consumption and wireless communication over devices 10 meters apart.
 
 **Needed skills**  
-...
+C++, Python, RoboComp
 
 ### 8\. New examples and scenarios for swarm robotics in RoboComp
 **Mentors**  
-Francisco Andrés, Pilar Bachiller
+Francisco Andrés, Nicolás González
 
 **Brief description**  
 Nowadays technology is constantly changing, a great example is RoboComp. Thus, the creation of new context scenarios is constantly needed to test the devices with which we work. We must consider that the level of distributed communication in educational robotics scenarios is very complex. It is proposed to create examples of robots’ swarms that help deepen more effective communication mechanisms. The swarm intelligence is an approach to optimal solutions taking its inspiration from social living beings. Thanks to the data collected by the different individuals we will be able to achieve a great possibility of objectives. We believe that through this project we can find  examples that help improving the quality of our robots to achieve better results.
 
 **Needed skills**  
-...
+C++, Python, RoboComp, Qt5
 
 
 ### 9\. Neural Compute Stick 2 as a RoboComp hybrid component 
@@ -240,13 +240,14 @@ Qt3D, Qt5, Openscenegraph, C++
  
 ### 18\. Text detection, recognition and interpretation using DNNs 
 **Mentors**  
-Pilar Bachiller, Pablo Bustos
+Pilar Bachiller, Nicolás González
 
 **Brief description**  
 Social robots need to be understand their environments and the written text that humans write in them. With the recent release of DNN tools, such as PyText and Senna,  that can analyze the semantic structure of sentences signalling the role of the different elements, the robots can read and access information in the environment that was elusive before. This proposal aims at creating a RoboComp set of components that enable the robots for text reading in real time and during the execution of their daily tasks. Recognition of objects by reading labels and other kind of text annotations will be integrated with other visual recognition modalities such as YOLO object detection to increase the reliability of the process. Several experiments will be run in our ALab facility with our robot Shelly to test the results of the work.
 
 **Needed skills**  
 Python, RoboComp, Qt, DNNs
+
 ### 19\. Testing and comparison of alternative robotic simulators for RoboComp: Dartsim, V-REP, OpenGym
 **Mentors**  
 Sparsh Garg, Pablo Bustos
@@ -327,7 +328,17 @@ University of Extremadura
 Researcher, Robolab  
 University of Extremadura  
 
+### Sayali Deshpande
+
+>**avegamag**AT**alumnos**DOT**unex**DOT**es**  
+Robocomp Developer  
+University of Extremadura  
+
 ### Francisco Andrés
+
+>**pacoan**AT**unex**DOT**es**  
+Lecturer, Robolab  
+University of Extremadura  
 
 ### Diego R. Faria
 
