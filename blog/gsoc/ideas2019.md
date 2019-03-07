@@ -330,9 +330,9 @@ University of Extremadura
 
 ### Sayali Deshpande
 
->**avegamag**AT**alumnos**DOT**unex**DOT**es**  
+>**sayali.d.deshp**AT**gmail**DOT**com**  
 Robocomp Developer  
-University of Extremadura  
+Pune Institute of Computer Technology  
 
 ### Francisco Andrés
 
