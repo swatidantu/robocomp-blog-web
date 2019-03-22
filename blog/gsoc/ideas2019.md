@@ -348,6 +348,10 @@ School of Engineering & Applied Science, Aston University, UK
 
 ### Sparsh Garg
 
+>**ksparsh30**AT**gmail**DOT**com**  
+Robocomp Developer  
+International Institute of Information Technology, Hyderabad  
+
 
 
 
