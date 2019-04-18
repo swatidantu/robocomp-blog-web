@@ -4,7 +4,7 @@ _**RoboComp** is an open-source Robotics framework providing the tools to create
 
 # Working on ideas for Google Season of Docs 2019!
 <span class="post-date">April 14th 2019</span>  
-April 14th 2019 The aim of this project is to generate a general documentation of RoboComp that provides the user with all the necessary material to understand the fundamentals of RoboComp and start using the framework
+The aim of this project is to generate a general documentation of RoboComp that provides the user with all the necessary material to understand the fundamentals of RoboComp and start using the framework
 
 
 
