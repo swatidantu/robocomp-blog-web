@@ -1,8 +1,8 @@
-# Google Summer of Code 2019 Ideas
+# Google Summer of Docs 2019 Ideas
 
 April 14th 2019
 
-## IDEAS LIST for GSoC 2019
+## IDEAS LIST for GSoDs 2019
 
 ### A gentle introduction to RoboComp
 **Mentors**  
