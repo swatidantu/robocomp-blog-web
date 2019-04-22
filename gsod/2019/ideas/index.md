@@ -1,9 +1,10 @@
 # Google Summer of Docs 2019 Ideas
 RoboComp is an open-source robotic framework. It is made up of different robotic software components and the necessary tools to use them. The running components form a graph of processes that can be distributed over several cores and CPU’s using software component technology. Communications are handled by ZeroC’s Ice middleware. Our main goals in designing the system are efficiency, simplicity and reusability. To achieve these goals, components are created by a code generator that reads a simple description program written in a Domain Specific Language named CDSL. Components created with this tool are formally correct and provide an advanced starting point for the user to start coding. All communication aspects, project creation files, auxiliary libraries, internal concurrency and interchange data structures and initial documentation are provided with the generated code. Programming languages used in the project are mainly C++ and Python but the Ice framework makes possible to easily use components written in many other languages.  
 
-April 22th 2019
 
 ## IDEAS LIST for GSoDs 2019
+
+April 22th 2019
 
 ### A gentle introduction to RoboComp
 **Mentors**  
@@ -15,7 +16,7 @@ The first idea offered for the new GSoD program is the integration of many separ
 * Software components in RoboComp.
 * Installation guide of RoboComp.
 * Description of RoboComp’s tools and libraries. 
-* Quick reference guide of basic components. 
+* Quick reference guide of basic components.  
 This documentation should be created for a new RoboComp’s user. No details about the implementation of the framework are required at this level. A tool like ReadtheDocs or similar is advised to support dense hyperlinks inside and outside the text.  
 
 
