@@ -28,7 +28,7 @@ Basic knowledge of OO programming in C++ and Python
 
 ### Creating RoboComp’s components
 **Mentors**  
-Luis J. manso, Pilar Bachiller
+Luis J. manso, Ramón Cintas
  
 **Brief description**  
 RoboComp provides a powerful code generator to automatically create the basic software structure of components and their interfaces. This tool is based on two domain-specific languages with which the RoboComp developer defines components (CDSL) and interfaces (IDSL). This idea aims to create a guide to define groups of interconnected components using well-defined interfaces. Thus, the documentation will provide the specification of the CDSL and the IDSL according to their syntaxis, reserved words, etc. Different issues related to the creation of components will be included, such as implementing new interfaces, creating components from existing interfaces or including interfaces to communicate with other components. In addition, the structure of generated components will be detailed from the perspective of the proficient programmer, specifying not only those parts of the component that should be modified to include the specific functionality of the component but also fixed parts of the code that are automatically generated. Finally, additional documentation to explain how to create a deployable file with all necessary elements such as binaries, configuration files or interfaces will be added to the project.  
@@ -38,7 +38,7 @@ Basic knowledge of OO programming in C++ and Python
 
 ### RoboComp’s basic components
 **Mentors**  
-Ramón Cintas, Esteban Martinena
+Esteban Martinena, Pilar Bachiller
  
 **Brief description**  
 RoboComp includes a wide set of ready-to-use components for different robotic applications. These components deal with different important issues in Robotics such as low-level perception, motor control, localization and mapping, navigation, recognition (people, objects, ..), etc. Despite the variety of functionality, the usability of these components is limited since most of them lack proper documentation. This project aims to solve this situation by documenting each one of the basic components of RoboComp. This documentation will include a description of the function of the component, an explanation of every method it offers and specific issues about its configuration. In addition, a more general documentation will be generated providing examples of how to use these basic components in new projects to solve well-known problems in Robotics.  
