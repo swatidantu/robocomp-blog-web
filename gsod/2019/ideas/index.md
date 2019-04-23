@@ -38,7 +38,7 @@ Basic knowledge of OO programming in C++ and Python
 
 ### RoboComp’s basic components
 **Mentors**  
-Esteban Martinena, Pilar Bachiller
+Esteban Martinena, Marco A. Gutiérrez
  
 **Brief description**  
 RoboComp includes a wide set of ready-to-use components for different robotic applications. These components deal with different important issues in Robotics such as low-level perception, motor control, localization and mapping, navigation, recognition (people, objects, ..), etc. Despite the variety of functionality, the usability of these components is limited since most of them lack proper documentation. This project aims to solve this situation by documenting each one of the basic components of RoboComp. This documentation will include a description of the function of the component, an explanation of every method it offers and specific issues about its configuration. In addition, a more general documentation will be generated providing examples of how to use these basic components in new projects to solve well-known problems in Robotics.  
@@ -102,4 +102,9 @@ University of Extremadura
 >**emartinena**AT**unex**DOT**es**  
 Researcher, Robolab  
 University of Extremadura  
+
+### Marco A. Gutiérrez
+
+>**marcog**AT**unex**DOT**es**  
+Robocomp Developer
 
