@@ -4,10 +4,10 @@ First of all Welcome to Robocomp if you are new here! We are happy to see you ar
 
 This is the RoboComp's Frequently Asked Questions list for GSoD'19. New questions will be added. Please, take a look before asking.
 
-If you want to participate with on GSoD'19 you first have to read the [Tech Writer Guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide), specially the [Eligibility to participate in Season of Docs](https://developers.google.com/season-of-docs/docs/tech-writer-guide#eligibility_to_participate_in).  
+If you want to participate with on GSoD'19 you first have to read the [Tech Writer Guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide), specially the [Eligibility to participate in Season of Docs](https://developers.google.com/season-of-docs/docs/tech-writer-guide#eligibility_to_participate_in) section.  
 If you already meet these minimum requirements we invite you to continue reading this FAQ.
 
-You can se some of the suggested Ideas for GSoD'19 in this link:
+You can see some of the suggested Ideas for GSoD'19 in this link:
 [Robocomp Google Season of Docs Ideas 2019](/web/gsod/2019/ideas/)
 
 If you have any question we suggest to ask first in the community channel for GSoD on Gitter:  
@@ -26,7 +26,7 @@ The following is a list of the deadlines that are relevant to participate in GSo
 
 ### I have followed all the RoboComp tutorials. What should I do next?
 If you have followed all the tutorials, it is time to get in contact with the mentors.  
-You can find the mentors contact information for GSoD'19 at the end of this [page](/web/gsod/2019/ideas/#complete-list-of-mentors).
+You can find the mentors contact information for GSoD'19 at the end of the [Ideas page](/web/gsod/2019/ideas/#complete-list-of-mentors).
 
 
 
