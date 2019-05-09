@@ -17,8 +17,8 @@ Mentors: Ramón Cintas and Esteban Martinena
 
 
 **Alberto Andujar**
-Idea: Storage of the graph-based world representation used in RoboComp
 
+Idea: Storage of the graph-based world representation used in RoboComp
 Mentors: Luis V. Calderita and Ramón Cintas
 
 1. [First post](/web/gsoc/2019/alberto_andujar/post01)
