@@ -23,3 +23,10 @@ Mentors: Luis V. Calderita and Ramón Cintas
 
 1. [First post](/web/gsoc/2019/alberto_andujar/post01)
 
+**Aditya Aggarwal**
+
+Idea: People identification component for the EBO educational robot
+Mentors: Sayali Deshpande and Pilar Bachiller
+
+1. [First post](/web/gsoc/2019/aditya_aggarwal/post01)
+
