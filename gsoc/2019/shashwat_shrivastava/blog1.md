@@ -5,5 +5,5 @@ I am Shashwat Shrivastava pursuing BTech in Electronics and Communication from I
 
 ##Project Synopsis
 These days robots are made to deal with the real world, therefore we need a simulator which can provide a real world environment. Real world is dynamic in nature, therefore we have to provide robot with dynamic environment during the test time so that robot functions properly in the real world. 
-	The aim of this project is to build an interactive dynamic robotic simulator where user can give robot a real world environment. Simulator will provide various features to incorporate dynamic nature of the real world.. 
+	The aim of this project is to build an interactive dynamic robotic simulator where user can give robot a real world environment. Simulator will provide various features to incorporate dynamic nature of the real world. 
    
