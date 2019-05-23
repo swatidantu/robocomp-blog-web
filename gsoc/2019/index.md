@@ -30,3 +30,8 @@ Mentors: Sayali Deshpande and Pilar Bachiller
 
 1. [First post](/web/gsoc/2019/aditya_aggarwal/post01)
 
+**Shashwat Shrivastava**
+Idea: Interactive robotic simulator  
+Mentors: Pilar Bachiller, Sparsh Garg  
+
+1. [First post](/web/gsoc/2019/shashwat_shrivastava/blog1)
