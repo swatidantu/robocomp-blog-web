@@ -35,3 +35,21 @@ Idea: Interactive robotic simulator
 Mentors: Pilar Bachiller, Sparsh Garg  
 
 1. [First post](/web/gsoc/2019/shashwat_shrivastava/blog1)
+
+**Nikhil Bansal**
+Idea: Testing and comparison of alternative robotic simulators for Robocomp  
+Mentors: Pablo Bustos, Nicolás González  
+
+1. [First post](/web/gsoc/2019/nikhil_bansal/post01)
+
+**Isabel Najarro**
+Idea: Development of a Text To Speech component that operates offline for the EBO educational robot  
+Mentors: Iván Barbecho, Marco A. Gutiérrez  
+
+1. [First post](/web/gsoc/2019/isabel_najarro/post01)
+
+**José Manuel Agúndez**
+Idea: New examples and scenarios for swarm robotics in RoboComp  
+Mentors: Francisco Andrés, Cristian Vázquez  
+
+1. [First post](/web/gsoc/2019/jose_manuel_agundez/post01)
