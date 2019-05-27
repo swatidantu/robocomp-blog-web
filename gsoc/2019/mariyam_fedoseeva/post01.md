@@ -9,11 +9,11 @@ Hi, I'm Mariyam. I am a master student at Technical University of Munich, majori
 
 ## About the Project:
 
-Understanding actions and interactions of humans from the RGB-D sensor input can significantly improve cognitive functions of robots and help safely and smoothly incorporate them in the world of humans. Human activity recognition component will thus be a great addition to the functionality of RoboComp.
+Understanding actions and interactions of humans from RGB-D sensor input can significantly improve cognitive functions of robots and help safely and smoothly incorporate them in the world of humans. Human activity recognition component will thus be a great addition to the functionality of RoboComp.
 
 Human activity recognition in the video is an interesting and challenging task and recent research shows that there are different ways to address the spatial properties of human actions and their temporal dynamics. In the course of this  project I plan to start with a simpler classifier model for CAD-60 dataset and iteratively  test and improve the architecture to achieve state-of-the art results on this and other selected datasets with the final goal of providing ready-to-use RoboComp component.
 
-Expected Milestones are:
+**Expected Milestones are:**
 
  | Task Description | Phase of GSoC |
  | --- | --- |
