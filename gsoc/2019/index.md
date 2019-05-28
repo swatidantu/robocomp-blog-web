@@ -64,3 +64,12 @@ Idea: RCManager 2.0: a tool to deploy and monitor large sets of RoboComp compone
 Mentors: Esteban Martinena and Pablo Bustos  
 
 1. [First post](/web/gsoc/2019/paras_kumar/post01)
+
+
+**Mariyam Fedoseeva**
+Idea: Development of a Human Activity Recognition Component
+Mentors: Diego R. Faria, Luis Manso
+
+1. [First post](/web/gsoc/2019/mariyam_fedoseeva/post01)
+
+
