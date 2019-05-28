@@ -67,8 +67,10 @@ Mentors: Esteban Martinena and Pablo Bustos
 
 
 **Mariyam Fedoseeva**
+
 Idea: Development of a Human Activity Recognition Component
-Mentors: Diego R. Faria, Luis Manso
+
+Mentors: Diego R. Faria, Luis J. Manso
 
 1. [First post](/web/gsoc/2019/mariyam_fedoseeva/post01)
 
