@@ -75,3 +75,10 @@ Mentors: Diego R. Faria, Luis J. Manso
 1. [First post](/web/gsoc/2019/mariyam_fedoseeva/post01)
 
 
+**Ahmed Madbouly**
+
+Idea: A Natural Language Understanding (NLU) component for RoboComp
+
+Mentors: Pedro Núñez, Araceli Vega
+
+1. [First post](/web/gsoc/2019/ahmed-madbouly/post01)
