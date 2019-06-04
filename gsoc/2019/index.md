@@ -37,7 +37,7 @@ Mentors: Pilar Bachiller and Sparsh Garg
 
 1. [First post](/web/gsoc/2019/shashwat_shrivastava/blog1)
 
-Nikhil Bansal
+## Nikhil Bansal
 
 Idea: Testing and comparison of alternative robotic simulators for Robocomp  
 Mentors: Pablo Bustos and Nicolás González  
