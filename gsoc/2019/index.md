@@ -83,3 +83,12 @@ Mentors: Pedro Núñez, Araceli Vega
 
 1. [First post](/web/gsoc/2019/ahmed-madbouly/post01)
 
+
+## Liubove Orlov Savko
+
+Idea: Develop a Human Activity Recognition (HAR) component for RoboComp
+
+Mentors: Diego R. Faria, Araceli Vega
+
+1. [First post](/web/gsoc/2019/liubove_orlov_savko/post01)
+
