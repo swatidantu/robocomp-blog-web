@@ -6,7 +6,7 @@ Idea: Learning acceptable social behaviour using machine learning techniques
 Mentors: Luis J. Manso and Pedro Nuñez  
 
 1. [First post](/web/gsoc/2019/ronit_jorvekar/post01)
-
+2. [RGCN and hyperparameter tuning](/web/gsoc/2019/ronit_jorvekar/post02)
 
 ## Elena Barranco
 
@@ -37,7 +37,7 @@ Mentors: Pilar Bachiller and Sparsh Garg
 
 1. [First post](/web/gsoc/2019/shashwat_shrivastava/blog1)
 
-## Nikhil Bansal
+# Nikhil Bansal
 
 Idea: Testing and comparison of alternative robotic simulators for Robocomp  
 Mentors: Pablo Bustos and Nicolás González  
