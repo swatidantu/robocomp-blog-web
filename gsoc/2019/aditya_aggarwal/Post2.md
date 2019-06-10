@@ -19,14 +19,14 @@ The output of P-Net passes through the R-Net which rejects the false cases. Thus
 **O-Net (Output Network)**
 This helps in predicting the facial landmarks such as eyes, nose and lips for each face. These facial landmarks are defining characterstic of the face and are further used in the face alignment.
 
-This process can be easily understood this [image](https://arxiv.org/pdf/1604.02878.pdf) which explains the complete pipeline in brief.
+This process can be easily understood through this [image](https://arxiv.org/pdf/1604.02878.pdf) which explains the complete pipeline in brief.
 
 ![MTCNN_pipeline](pipeline.png)
 
 ### Dlib Implementation
 dlib is a python library which contains an inbuilt face detection and alignment module. It uses a 68 dimensional vector to represent a face and is more accurate in face alignment. However it performs poor in cases of multi people and occlusions. Also since it regresses over larger number of variables, it is inefficient compared to MT-CNN in terms of speed. Here is a small comparison between both the implementations:
 
-|![sift](test_MTCNN.png)|![dsift](test_dlib.png)|
+|![sift](test_MTCNN.png) |![dsift](test_dlib.png)   | 
 |:----------------------:|:------------------------:|
 |MTCNN Implementation    |dlib Implementation       |
 
