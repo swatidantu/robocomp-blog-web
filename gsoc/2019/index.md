@@ -29,7 +29,7 @@ Idea: People identification component for the EBO educational robot
 Mentors: Sayali Deshpande and Pilar Bachiller  
 
 1. [First post](/web/gsoc/2019/aditya_aggarwal/post01)
-2. [Face Detection and Alignment](/gsoc/2019/aditya_aggarwal/Post2.md)
+2. [Face Detection and Alignment](/web/gsoc/2019/aditya_aggarwal/Post2)
 
 ## Shashwat Shrivastava
 
