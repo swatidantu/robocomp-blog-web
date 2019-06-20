@@ -7,6 +7,23 @@ After getting acquainted with Qtcreator, C++ Object Oriented Programming and Ope
 
 Now I needed to explore InnerModel Library to add sphere. Then I made required changes in innerModel library and then accordingly used them in my code to add sphere.
 
+![alt Step 1: Enter new object name and select type of object](pic1.png "Step 1: Enter new object name and select type of object")
+*Step 1: Enter new object name and select type of object*
+
+![alt Step 2: Enter properties of the object](pic2f.png "Step 2: Enter properties of the object")
+*Step 2: Enter properties of the object*
+
+![alt Result: Object Added](pic3.png "Result: Object Added")
+*Result: Object Added*
+
+![alt Sphere object addition output](pic4.png "Sphere object addition output")
+*Sphere object addition output*
+
+![alt Texture Change Dropdown](pic5f.png "Texture Change Dropdown")
+*Texture Change Dropdown*
+
+
+
 ## Floor Texture Change
 I added this functionality to change texture of the floor. I also added Icon of corresponding texture in the GUI so that user has a clear understanding of which texture is getting added.
 
