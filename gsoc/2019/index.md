@@ -37,6 +37,7 @@ Idea: Interactive robotic simulator
 Mentors: Pilar Bachiller and Sparsh Garg  
 
 1. [First post](/web/gsoc/2019/shashwat_shrivastava/blog1)
+2. [Object Detection, Texture Change and Tree Viewing option](/web/gsoc/2019/shashwat_shrivastava/blog2)
 
 ## Nikhil Bansal
 
