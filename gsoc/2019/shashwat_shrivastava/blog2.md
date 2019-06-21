@@ -29,3 +29,5 @@ I added this functionality to change texture of the floor. I also added Icon of 
 
 ## Modified GUI for non-expert user
 After talking to my mentor Pilar Ma'am, she told me to make GUI for a non-expert user hence I changed my GUI which is easy to use and simple to understand for the user. Thereafter I made necessary changes to the code and in the GUI.
+
+A bit of fine tuning is required when scene is reloaded. When I reload the scene, a new window opens everytime of RGBD. Therefore I will make sure that RGBD window does not opens up on reload.
