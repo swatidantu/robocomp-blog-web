@@ -48,7 +48,7 @@ June 22, 2019
 
 ## Remote Controlled V-REP
 
-##### Wrote a Library, available at [https://github.com/nikhil3456/VrepLibrary][https://github.com/nikhil3456/VrepLibrary] ([Reference](https://github.com/ctmakro/vrepper)), that could correctly handle the following routine:
+##### Wrote a Library, available at [VrepLibrary][https://github.com/nikhil3456/VrepLibrary] ([Reference](https://github.com/ctmakro/vrepper)), that could correctly handle the following routine:
 
 1. Start a V-REP instance from Python
 2. Connect to the instance you've started
