@@ -15,7 +15,7 @@ June 22, 2019
     - One other way is to convert ttt to some plain text format.
 
 
-  - **Need a way to remotely connect to the scene simulation in V-REP:****
+  - **Need a way to remotely connect to the scene simulation in V-REP:**
     - We decided to use: [Legacy remote API](http://www.coppeliarobotics.com/helpFiles/en/legacyRemoteApiOverview.htm)
     - [Remote API function list](http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionListAlphabetical.htm)
 
