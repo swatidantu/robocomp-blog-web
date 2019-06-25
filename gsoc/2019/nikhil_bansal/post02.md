@@ -1,69 +1,119 @@
-# Creating scene objects, Move a non-motor and motor object, obstacle sensing, headless mode
+# Integrating V-REP with RoboComp as an external simulator and as an in-the-loop simulator
 
 June 22, 2019
 
 [![N|Solid](./RoboComp_logo.png)](https://nodesource.com/products/nsolid)
 
 
-### In order to write components in python, we first need to find the ways to:
 
-  - **Convert Scene files of RoboComp written in XML to .ttt scene file types supported in V-REP**
-    - There are some old posts on vrep forum asking the same:
+## Goals:
+
+  ### Need a way to remotely connect to the scene simulation in V-REP
+  - To control the simulation running in V-REP, we need a way to remotely connect to the simulation to control the objects in the scene.
+  - **Advances:**
+    - We decided to use: [Legacy remote API](http://www.coppeliarobotics.com/helpFiles/en/legacyRemoteApiOverview.htm), which allows to control a simulation (or the simulator itself) from an external application.
+    - The [Remote API function list](http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionListAlphabetical.htm) is the list of functions that can be used to control the simulation remotely.
+
+  
+
+  ### Convert scene files of RoboComp written in XML to .ttt scene file types supported in V-REP
+
+  - The scene files (like simpleworld.xml) of RoboComp are in .xml format, so, our goal is to convert these xml file to the filetype supported by V-REP.
+  - V-REP supports binary file format with .ttt extension.
+
+
+  - **Advances:**
+    - The following are posts on the vrep-forum, that enquire about converting xml/text files into .ttt files:
       - http://www.forum.coppeliarobotics.com/viewtopic.php?t=437
       - http://www.forum.coppeliarobotics.com/viewtopic.php?t=4783
-    - The above posts describe some ways use xml in vrep, but they are not properly described and are not concrete.
-    - One other way is to convert ttt to some plain text format.
+    - V-REP does not directly support XML. We can however write XML importers/exporters. For writing importers/exporters, we can use the source code of the COLLADA importer/exporter, or the URDF importer plugins as reference.
+    - Or, another way is to go through the whole set of elements in the scene using the Python API and write them in a file using a text format (innermodel for instance). This, way we can go from ttt to other readable file formats.
+
+  
+
+  ### Creating objects in the scene remotely using python script
+  - We need the ability to create the objects in the scene(running in V-REP) remotely via a python script.
+  - **Advances:**
+    - There are no Remote API function to create objects in the scene. So, we can use the regular API function: [sim.createPureShape](http://www.coppeliarobotics.com/helpFiles/en/regularApi/simCreatePureShape.htm) to create objects. But, regular API functions cannot be used in a remote script.
+      - So, to use a regular API function, one can use:
+        - the generic remote API function [simxCallScriptFunction](http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctions.htm#simxCallScriptFunction), this will call a V-REP function in the embedded script in scene, which can then execute any type of operation locally, then return data.
+      - I have created a test script describing the procedure to create the primitive scenes in a vrep scene:
+        - [https://github.com/nikhil3456/V-REP/blob/addTestScripts/components/ebo/object_add.py](https://github.com/nikhil3456/V-REP/blob/addTestScripts/components/ebo/object_add.py)
+
+  
+
+  ### Moving an non-motor objects in the scene (eg Primitive shapes)
+  - We might require the ability to move a non-motor object in the scene.
+  - **Advances:**
+    - V-REP has no functionalities to give a velocity to non-motor objects.
+    - But, we can move non-motor objects by changing their position in each iteration of the loop using the function “simxSetObjectPosition (regular API equivalent: [sim.setObjectPosition](http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsPython.htm#simxSetObjectPosition))" API function.
+    - I have created a test scripts that demonstrates how we can move a non-motor objects:
+      - See the file “[cuboid_control.py](https://github.com/nikhil3456/V-REP/blob/addTestScripts/components/ebo/cuboid_control.py)” for more details on moving non-motor objects.
+
+  
 
 
-  - **Need a way to remotely connect to the scene simulation in V-REP:**
-    - We decided to use: [Legacy remote API](http://www.coppeliarobotics.com/helpFiles/en/legacyRemoteApiOverview.htm)
-    - [Remote API function list](http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionListAlphabetical.htm)
+  ### Moving the motors in vrep and sense the obstacles in VREP
+  - We might need the ability to move the motors in the scene remotely.
+  - We also need the ability to sense the obstacles/nearby-objects in the scene. 
+  - **Advances:**
+    - We can set the velocity of motor/joint using the Remote API function: 'simxSetJointTargetVelocity'.
+    - We can sense the nearby obstacles/objects by adding a proximity sensor to our robot in the scene and then using the Remote API function "simxReadProximitySensor" to get the position and other details of objects near the robot.
+    - I have created a test scripts that demonstrates the above mentioned functionalities:
+      - See the file “[moveMotorAndSenser.py](https://github.com/nikhil3456/V-REP/blob/addTestScripts/components/ebo/moveMotorAndSenser.py)” for more details.
+  
 
 
-  - **Creating objects in the scene remotely using python script:**
-    - The primitive shapes can be created using the regular API function: [sim.createPureShape](http://www.coppeliarobotics.com/helpFiles/en/regularApi/simCreatePureShape.htm).
-      - Only the cuboid, cone, sphere and cylinder can be added via this function.
-    - But, only a limited remote API functions are available in V-REP([Python Remote API functions List](http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsPython.htm)).  To use the regular API function, one can use:
-      - the generic remote API function [simxCallScriptFunction](http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctions.htm#simxCallScriptFunction), this will call a V-REP script function, which can then execute any type of operation locally, then return data.
-    - I have created a test script describing the procedure to create the primitive scenes in a vrep scene:
-      - [https://github.com/nikhil3456/V-REP/blob/addTestScripts/components/ebo/object_add.py](https://github.com/nikhil3456/V-REP/blob/addTestScripts/components/ebo/object_add.py)
-
-
-  - **Moving an non-motor objects in the scene (eg Primitive shapes):**
-    - V-REP has no functionalities to give a velocity to such objects.
-    - But, we can move such objects by changing their position in each iteration of the loop using the function “simxSetObjectPosition (regular API equivalent: [sim.setObjectPosition](http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsPython.htm#simxSetObjectPosition))" API function”.
-    - See the file “[cuboid_control.py](https://github.com/nikhil3456/V-REP/blob/addTestScripts/components/ebo/cuboid_control.py)” for more details on moving such objects.
-
-
-  - **Moving the motors in vrep and sense the obstacles in VREP**
-    - See the file “[moveMotorAndSenser.py](https://github.com/nikhil3456/V-REP/blob/addTestScripts/components/ebo/moveMotorAndSenser.py)” for more details on this.
-
-  - **Running the vrep in headless mode:**
+  ### Running the vrep in headless mode:
+  - We need the ability to run V-REP simulation of a scene and the associated scripts in headless mode(i.e. without any GUI).
+  - **Advances:**
     - A scene named "scene.ttt" can simulated in V-REP using the following command:
       ```sh
       ./vrep.sh -h -s5000 -q scene.ttt
       ```
-    - Refer this link for detailed description: [Headless mode](http://www.coppeliarobotics.com/helpFiles/en/commandLine.htm)
+      - -h: runs V-REP in headless mode (i.e. without any GUI)
+      - -sXXX: automatically start the simulation. XXX represents an optional simulation time in milliseconds after which simulation should stop again.
+      - -q: automatically quits V-REP after the first simulation run ended.
+    - Refer this link for detailed description: [Headless mode](http://www.coppeliarobotics.com/helpFiles/en/commandLine.htm) on running V-REP in headless mode.
+
+  
 
 
-## Remote Controlled V-REP
 
-##### Wrote a Library, available at [https://github.com/nikhil3456/VrepLibrary](https://github.com/nikhil3456/VrepLibrary) ([Reference](https://github.com/ctmakro/vrepper)), that could correctly handle the following routine:
+## This section describes the Library to Remotely Control V-REP
 
-1. Start a V-REP instance from Python
-2. Connect to the instance you've started
-3. Load the scene file (the scene we are about to simulate)
-4. Start the simulation
-5. Step the simulation
-6. Read/Write something from/to V-REP to control the simulation and record data
-7. Goto 5 several times
-8. Stop the simulation
-9. Check to see if the simulation actually stopped.
-10. Goto 4 several times
-11. Kill the V-REP instance from python if no longer needed.
+- With the help of the library: 
+  - We can now run our script with just one command eg: "python script.py"
+    - The above command will automatically starts vrep in headless mode (as a subprocess) and perform the control using script.py (eg: moving an object, obstactle detection etc) and store the data and prints the data on terminal.
+
+- The Library, available at [https://github.com/nikhil3456/VrepLibrary](https://github.com/nikhil3456/VrepLibrary), can correctly handle the following routines:
+
+  1. Start a V-REP instance from Python
+  2. Connect to the instance you've started
+  3. Load the scene file (the scene we are about to simulate)
+  4. Start the simulation
+  5. Step the simulation
+  6. Read/Write something from/to V-REP to control the simulation and record data
+  7. Goto 5 several times
+  8. Stop the simulation
+  9. Check to see if the simulation actually stopped.
+  10. Goto 4 several times
+  11. Kill the V-REP instance from python if no longer needed.
 
 
-#### Usage
+- For testing the library
+  1. Clone this repository: [https://github.com/nikhil3456/VrepLibrary](https://github.com/nikhil3456/VrepLibrary)
+  2. Open the file VrepLibrary/moveMotorAndSenser.py in your favourite editor.
+  3. Change the arguments of this line 'venv = vrepper(dir_vrep='/home/nikhil/V-REP_PRO_EDU_V3_5_0_Linux/', headless=True)'.
+    - dir_vrep: denotes the path to vrep directory.
+    - headless: denotes whether to start the simulation in headless mode or not.
+  4. Save the above file
+  5. Run 'python moveMotorAndSenser.py' 
+
+
+
+
+#### Instructions on writing python script that uses above Library
 
 A python script to start the simulation (following above routine) in headless mode, can be written using following functions:
 ```sh
@@ -87,10 +137,10 @@ venv.start_simulation(is_sync=False)
 ```
 
 - See the following "[Readme.md](https://github.com/nikhil3456/VrepLibrary/blob/master/README.md)"  for detailed description.
-- Refer the following example files:
-1. [object_add.py](https://github.com/nikhil3456/VrepLibrary/blob/master/object_add.py)
-2. [cuboid_control.py](https://github.com/nikhil3456/VrepLibrary/blob/master/cuboid_control.py)
-3. [moveMotorAndSenser.py](https://github.com/nikhil3456/VrepLibrary/blob/master/moveMotorAndSenser.py)
+- Refer the following example files for detailed description:
+  1. [object_add.py](https://github.com/nikhil3456/VrepLibrary/blob/master/object_add.py)
+  2. [cuboid_control.py](https://github.com/nikhil3456/VrepLibrary/blob/master/cuboid_control.py)
+  3. [moveMotorAndSenser.py](https://github.com/nikhil3456/VrepLibrary/blob/master/moveMotorAndSenser.py)
 
 ## Todos
 
