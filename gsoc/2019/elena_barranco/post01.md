@@ -34,32 +34,28 @@ The initial idea is to design a window where the user can add and modify the dif
 
 The elements to take into consideration while creating the CDSL file are:
 -	Name of the component: the user must enter the name of the component that he wants to create.
-      - Conditions: alphanumeric, no spaces or symbols.
+      -	Conditions: alphanumeric, no spaces or symbols.
 -	Interfaces to import: interfaces that the component needs to work. They should be added automatically depending on the selected communication interfaces.
-      - Conditions: IDSL files.
-      - Example of available elements: Camera.idsl, GPS.idsl, Laser.idsl, Joystick.idsl.
+      -	Conditions: IDSL files.
+      -	Example of available elements: Camera.idsl, GPS.idsl, Laser.idsl, Joystick.idsl.
 -	Communications Interface: to create communications. Validator must check used interface existence.
       -	Implement: creates RPC server.
-      - Requires: creates Proxy to RPC Server.
-      - Publish: creates publication proxy to a specific topic.
-      - Subscribes to: subscribes to a specific topic.
-- Language: selected language in which the component will be written.
-      - Cpp: implements component using C++.
-      - Cpp11: implements component using C++11 to allow to use ICE implementation.
-      - Python: implements component using Python 2.7.
-- Window type (GUI): Includes visual interface in different windows types.
-      - QWidget.
-      - QDialog.
-      - QMainWindow.
-- Optional parameters:
-      - Agmagent: includes Cortex-Agent communication patterns.
-      - InnerModelViewer: includes innerModelViewer resources.
-      - New option modules: To incorporate third-party libraries to component. This option must be also modified in actual robocompdsl-core functionality.
+      -	Requires: creates Proxy to RPC Server.
+      -	Publish: creates publication proxy to a specific topic.
+      -	Subscribes to: subscribes to a specific topic.
+-	Language: selected language in which the component will be written.
+      -	Cpp: implements component using C++.
+      -	Cpp11: implements component using C++11 to allow to use ICE implementation.
+      -	Python: implements component using Python 2.7.
+-	Window type (GUI): Includes visual interface in different windows types.
+      -	QWidget.
+      -	QDialog.
+      -	QMainWindow.
+-	Optional parameters:
+      -	Agmagent: includes Cortex-Agent communication patterns.
+      -	InnerModelViewer: includes innerModelViewer resources.
+      -	New option modules: To incorporate third-party libraries to component. This option must be also modified in actual robocompdsl-core functionality.
 
 After the discussion with mentors, we agreed to add the option “Modules”. It will allow to generate the code to link with other tools. This new feature will be created adding some code to the file robocomdsl-core.
 
 At the end of the process a CDSL file will be created and processed to generate the new code of the component in the selected language. We can reuse the existing Robocompdsl-core to extract the required information of this file.
-
-
-
-
