@@ -59,5 +59,3 @@ The elements to take into consideration while creating the CDSL file are:
 After the discussion with mentors, we agreed to add the option “Modules”. It will allow to generate the code to link with other tools. This new feature will be created adding some code to the file robocomdsl-core.
 
 At the end of the process a CDSL file will be created and processed to generate the new code of the component in the selected language. We can reuse the existing Robocompdsl-core to extract the required information of this file.
-
-
