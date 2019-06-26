@@ -14,6 +14,7 @@ Idea: Development of a graphic interface for RoboComp’s code generator: roboco
 Mentors: Ramón Cintas and Esteban Martinena  
 
 1. [First post](/web/gsoc/2019/elena_barranco/post01)
+2. [CDSL file checker](/web/gsoc/2019/elena_barranco/post02)
 
 
 ## Alberto Andujar
@@ -45,6 +46,7 @@ Idea: Testing and comparison of alternative robotic simulators for Robocomp
 Mentors: Pablo Bustos and Nicolás González  
 
 1. [First post](/web/gsoc/2019/nikhil_bansal/post01)
+2. [Second post](/web/gsoc/2019/nikhil_bansal/post02)
 
 ## Isabel Najarro
 
