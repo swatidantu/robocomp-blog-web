@@ -54,6 +54,7 @@ Idea: Development of a Text To Speech component that operates offline for the EB
 Mentors: Iván Barbecho and Marco A. Gutiérrez  
 
 1. [First post](/web/gsoc/2019/isabel_najarro/post01)
+2. [New text2Speech](/web/gsoc/2019/isabel_najarro/post02)
 
 ## José Manuel Agúndez
 
