@@ -65,6 +65,8 @@ Idea: New examples and scenarios for swarm robotics in RoboComp
 Mentors: Francisco Andrés and Cristian Vázquez  
 
 1. [First post](/web/gsoc/2019/jose_manuel_agundez/post01)
+2. [Second post](/web/gsoc/2019/jose_manuel_agundez/post02)
+
 
 ## Paras Kumar
 
