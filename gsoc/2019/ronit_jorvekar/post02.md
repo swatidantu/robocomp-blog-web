@@ -1,4 +1,4 @@
-# Getting Smart With Hyperparameter tuning Optimization!
+# Automating hyperparameter tuning optimization!
 
 June  8, 2019
 
@@ -7,7 +7,7 @@ Hello, this is an update to the work being done now. RGCN was already implemente
 
 ## Hyperparameter tuning Optimization:
 
-So with 3 baseline implementations (GAT, GCN, RGCN), the next task for me was to design a REST service for hyperparameter tuning optimization. It was a client server architecture where the server assigns a configuration with hyperparameters from a pool of configurations to the client. This service helps us to implement a distributed hyperparameter tuning optimization technique. It is actually analogous to the master slave architecture. The server is the master which assigns task to clients with are analogous to slave.
+So with 3 baseline implementations (GAT, GCN, RGCN), the next task for me was to design a REST service for hyperparameter tuning optimization. It was a client server architecture where the server assigns a configuration with hyperparameters from a pool of configurations to the client. This service helps us to implement a distributed hyperparameter tuning optimization technique. It is actually analogous to the master slave architecture. The server is the master which assigns task to clients which are analogous to slave.
 ### Steps :
 #### 1) The client requests a task
 #### 2) The server sends task ie. configuration with hyperparameters to the client
@@ -18,9 +18,9 @@ The server side service was developed in flask and client side code was develope
 ### Advantages :
 We can train multiple models parallelly which saves huge amount of time. Also anyone can run the client with proper support and environment, which makes it platform independent.  
 
- #### Problem
+#### Problem
  A problem faced by me when actually sending big model was: the server wasn’t accepting big files. The model is saved as a file.
- #### Solution
+#### Solution
  After doing some research for the problem, it turned out that I had to modify server side configuration to accept client size body of size more than 1 mb which is set as default by the nginx service.
 
 * * *
