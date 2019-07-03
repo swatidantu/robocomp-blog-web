@@ -7,6 +7,7 @@ Mentors: Luis J. Manso and Pedro Nuñez
 
 1. [First post](/web/gsoc/2019/ronit_jorvekar/post01)
 2. [RGCN and hyperparameter tuning](/web/gsoc/2019/ronit_jorvekar/post02)
+3. [Pytorch geometric support and Additional feature on server ](/web/gsoc/2019/ronit_jorvekar/post03)
 
 ## Elena Barranco
 
@@ -101,4 +102,3 @@ Idea: Develop a Human Activity Recognition (HAR) component for RoboComp
 Mentors: Diego R. Faria, Araceli Vega
 
 1. [First post](/web/gsoc/2019/liubove_orlov_savko/post01)
-
