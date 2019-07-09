@@ -19,3 +19,4 @@ We are coding the robocompdsl-gui core at the moment. The list of completed task
 - The user can modify the main text editor with the highlighter fully working.
 - The user can change language using the combo box.
 - The user can select/deselect "window", "agmagent" and "innerModelViewer" parameters, including the corresponding code in the main editor.
+![Graphical interface](robocompdslgui_v1.png)
