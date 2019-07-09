@@ -8,6 +8,8 @@ The previous version of robocompdsl-gui had some shortcomings, so we have restru
 - On the right side the rest of the parameters can be configured. It includes language, gui and optional features selection.
 - At the bottom of the window we placed a terminal to bring the user a feedback with information and errors and we can also find the creation buttons. In our GUI version the user has the possibility to reset the template, create a cdsl file or generate a component directly.
 
+![Robocomdslgui_v1](https://github.com/elebarr/web/blob/master/gsoc/2019/elena_barranco/robocompdslgui_v1.png)
+
 **Higlighter**
 
 We have also developed a highlighter for the main text editor, so that the user can easily recognize the correct keywords. These keywords are highlighted in bold and a different color.
