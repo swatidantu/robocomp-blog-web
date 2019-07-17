@@ -18,24 +18,24 @@ RoboComp also had a beta version of the application developed as a component. Th
 
 In this section, I will show the different screens of the existing component in robocomp, along with a brief description of its behavior. In the same way, its most important elements will be explained.
 
-![capture_1](alberto_andujar/capture_5.jpeg)
+![capture_1](capture_5.jpeg)
 
 - The first screen we find is the typical login screen, its transformation into the new version is simple. This screen should check that the user is actually in the system and provide access.
 The behavior to add a new user automatically is not implemented in the component but it will be in the web version.
 
-![capture_2](alberto_andujar/capture_4.jpeg)
+![capture_2](capture_4.jpeg)
 
 - Once the user has logged into the system, a number of options related to his profile will be displayed. Basically you have to choose a serious game and start the session.   A session may consist of more than one game. These will run sequentially. Therefore, it is possible to add more than one game before starting. 
 
-![capture_3](alberto_andujar/capture_3.jpeg)
+![capture_3](capture_3.jpeg)
 
 - Before starting the game, an informative window appears with the characteristics of the game. This allows the user to check that he has chosen the correct game before starting. The user is also allowed to end the session if necessary.
 
-![capture_4](alberto_andujar/capture_2.jpeg)
+![capture_4](capture_2.jpeg)
 
 - The control panel will implement a system of alerts and notifications in real time, such as the one shown in the figure, which occurs when the game does not detect the hand of the patient on the table.
 
-![capture_5](alberto_andujar/capture_1.jpg)
+![capture_5](capture_1.jpg)
 
 - While the game is running, the application will refresh the game information.  It can be seen that it is the same screen as Figure in which the start and end session buttons have been disabled. At the same time the pause and end buttons have been enabled. These refer to the execution of the current game.
 This screen shows general information about the serious-game, as well as  real time information related to the game execution.
