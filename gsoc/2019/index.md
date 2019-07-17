@@ -26,7 +26,7 @@ Idea: Storage of the graph-based world representation used in RoboComp
 Mentors: Luis V. Calderita and Ramón Cintas  
 
 1. [First post](/web/gsoc/2019/alberto_andujar/post01)
-2. [Developing a Serious-Game using RoboComp: First steps] (/web/gsoc/2019/alberto_andujar/post02)
+2. [Developing a Serious-Game using RoboComp: First steps](/web/gsoc/2019/alberto_andujar/post02)
 
 ## Aditya Aggarwal
 
