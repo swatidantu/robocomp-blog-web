@@ -18,6 +18,7 @@ Mentors: Ramón Cintas and Esteban Martinena
 2. [CDSL file checker](/web/gsoc/2019/elena_barranco/post02)
 3. [Improve interfaces search](/web/gsoc/2019/elena_barranco/post03)
 4. [First Graphical Interface version and implementation of highlighter](/web/gsoc/2019/elena_barranco/post04)
+5. [Custom interfaces list widget](/web/gsoc/2019/elena_barranco/post05)
 
 
 ## Alberto Andujar
