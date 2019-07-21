@@ -20,14 +20,14 @@ One tiny comment: I also trained the models taking the z coordinate movement, as
 
 
 A drawback of the described feature vector is that it only represents one frame, i. e. an instant of the activity in the video. Hence it is not surprising that the trained SVM performed badly; the accuracy was lower than 60%. Therefore I crafted an additional set of features that could better represent the whole activity. First, my algorithm takes a subset of frames (how many frames to take is another hyperparameter to be tunned). I suggested to take the "extreme" ones: the frames where the movement changes direction. In those frames the position change must be nearly zero (I focus only on the displacement of hands). By taking 7 frames of video with lowest displacement of hands, the accuracy of the model increased more that 20% in each environment, achieveng accuracies between 75-85%. The highest accuracies were obtained using a Convolutional Neural Network. Still with the eye on goal, I hope to achieve an accuracy that is higher than 95%.
-![cm1](Bathroom.png)
-![cm2](Bedroom.png)
+![cm1](images/Bathroom.png)
+![cm2](images/Bedroom.png)
 ![cm3](Livingroom.png)
 ![cm4](Kitchen.png)
 ![cm5](Office.png)
 
 
-##Further steps
+## Further steps
 - [ ] Continue tunning the hyperparameters of the model. 
 - [ ] Add PCA analysis in the selection of features.
 - [ ] Train a districted neural network to compare its results with CNN. Also to respect time order, train an LSTM.
