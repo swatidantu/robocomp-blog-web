@@ -1,7 +1,9 @@
 # Dynamic Object Addition, Object Properties Alteration and Linking scene and tree to highlight corresponding object that are selected in tree and vice versa 
 July 22, 2019
-	RCInnerModelSimulator had the option to add object of box shape and sphere shape with any specifications. User can also view the tree of the scene and can also change the texture of the floor. Now user can also add object of cone and cylinder shape. 
-	Manytimes users want to change the properties of already existing objects in the scene. Therefore functionality to edit existing objects/nodes has been provided. Accompanying this feature a must have feature was to highlight selected object in the scene that is selected in the tree whose property needs to be changed is also added.
+
+RCInnerModelSimulator had the option to add object of box shape and sphere shape with any specifications. User can also view the tree of the scene and can also change the texture of the floor. Now user can also add object of cone and cylinder shape.
+
+Manytimes users want to change the properties of already existing objects in the scene. Therefore functionality to edit existing objects/nodes has been provided. Accompanying this feature a must have feature was to highlight selected object in the scene that is selected in the tree whose property needs to be changed is also added.
 
 ## Change Object properties dynamically
 Previously user had no idea of how the object will look in the scene when added. Thus there were chances that the object added by user will not be what he/she wanted or thought. Therefore, I have added a feature where user can edit the properties of the object he/she added. User can change the texture, dimensions, positionand rotation of the object dynamically. This feature not only works for objects such of plane or transform type rather it works for everything that is present in the scene from camera to robot.
@@ -14,7 +16,7 @@ To accomplish this task of dynamically changing properties of node changes were 
 ![alt](pic2_e2.png "Preview option - Object getting added when selecting type of object with default values")
 *Preview option - Object getting added when selecting type of object with default values*
 ## Add object with a preview feature
-Thus object addition has been provided with a feature to preview what exactly is getting added.
+Thus object addition has been provided with a feature to preview what exactly is getting added after selecting **Type of Object**.
 
 ## Linking tree and scene in order to find corresponding objects in scene that are selected in tree and vice versa 
 When a user wants to change the properties of an object in scene he/she should know which object he has selected in the scene before changing it's properties. Therefore a node in the scene will get highlighted when a corresponding node is selected in the tree and the same also works vice versa.
