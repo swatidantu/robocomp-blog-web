@@ -104,3 +104,5 @@ Idea: Develop a Human Activity Recognition (HAR) component for RoboComp
 Mentors: Diego R. Faria, Araceli Vega
 
 1. [First post](/web/gsoc/2019/liubove_orlov_savko/post01)
+2. [Second post](/web/gsoc/2019/liubove_orlov_savko/post02)
+
