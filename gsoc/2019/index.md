@@ -45,6 +45,7 @@ Mentors: Pilar Bachiller and Sparsh Garg
 
 1. [First post](/web/gsoc/2019/shashwat_shrivastava/blog1)
 2. [Object Detection, Texture Change and Tree Viewing option](/web/gsoc/2019/shashwat_shrivastava/blog2)
+1. [Dynamic object modifications](/web/gsoc/2019/shashwat_shrivastava/blog3)
 
 ## Nikhil Bansal
 
