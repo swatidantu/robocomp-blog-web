@@ -8,7 +8,7 @@ Manytimes user wants to change the properties of already existing objects in the
 ## Change Object properties dynamically
 Previously user had no idea of how the object will look in the scene when added. Thus there were chances that the object added by user will not be what he/she wanted or thought. Therefore, I have added a feature where user can edit the properties of the object he/she added. User can change the texture, dimensions, position and rotation of the object dynamically. This feature not only works for objects such as plane or transform type rather it works for everything that is present in the scene from camera to robot.
 
-## Add object with a preview feature	
+## Add object after preview	
 But even after adding this feature it was bit frustrating for the user to not able to see what exactly will be added when he/she inputs dimensions, position and texture of the object. Therefore my Mentor Pilar Ma'am suggected me to modify object addition in such a way that we have default values in dimensions, position and texture of the object and that object gets added in first place when we select **type of object** option. Thereafter user can dynamically change the properties of object and finally added the object of his choice. Here as before in object addition user will get all the fields to change the properties of object. 
 
 To accomplish this task of dynamically changing properties of node changes were made to innerModelviewer file in innerModel library.
