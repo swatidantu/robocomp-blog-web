@@ -86,7 +86,8 @@ Idea: Development of a Human Activity Recognition Component
 Mentors: Diego R. Faria, Marco A. Gutiérrez
 
 1. [First post](/web/gsoc/2019/mariyam_fedoseeva/post01)  
-2. [Classifying CAD-60](/web/gsoc/2019/mariyam_fedoseeva/post02)
+2. [Classifying CAD-60](/web/gsoc/2019/mariyam_fedoseeva/post02)  
+3. [Improving accuracy of activity recognition](/web/gsoc/2019/mariyam_fedoseeva/post03)
 
 
 ## Ahmed Madbouly
