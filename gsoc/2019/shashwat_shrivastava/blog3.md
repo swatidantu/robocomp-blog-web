@@ -14,9 +14,10 @@ But even after adding this feature it was bit frustrating for the user to not ab
 To accomplish this task of dynamically changing properties of node changes were made to innerModelviewer file in innerModel library.
 
 ![alt](pic1_e2.png "Select object in tree and corresponding object getting highlighted ")
-*Select object in tree and corresponding object getting highlighted in the scene*
-![alt](pic2_e2.png "Preview option - Object getting added when selecting type of object with default values")
 *Preview option - Object getting added when selecting 'type of object' with some default values*
+![alt](pic2_e2.png "Preview option - Object getting added when selecting type of object with default values")
+*Select object in tree and corresponding object getting highlighted in the scene*
+
 
 ## Linking tree and scene in order to find corresponding objects in scene that are selected in tree and vice versa 
 When a user wants to change the properties of an object in scene he/she should know which object he has selected in the scene before changing it's properties. Therefore a node in the scene will get highlighted when a corresponding node is selected in the tree and the same also works vice versa.
