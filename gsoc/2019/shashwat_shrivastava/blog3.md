@@ -10,9 +10,9 @@ But even after adding this feature it was bit frustrating for the user to not ab
 
 To accomplish this task of dynamically changing properties of node changes were made to innerModelviewer file in innerModel library.
 ![alt](pic1_e2.png "Select object in tree and corresponding object getting highlighted ")
-
+(*Select object in tree and corresponding object getting highlighted*)
 ![alt](pic2_e2.png "Preview option - Object getting added when selecting type of object with default values")
-
+(*Preview option - Object getting added when selecting type of object with default values*)
 ## Add object with a preview feature
 Thus object addition has been provided with a feature to preview what exactly is getting added.
 
