@@ -38,11 +38,11 @@ Ossian is a python based tool for automatically building speech synthesis front 
 
 
 ### Dependencies
-```
+
 **Perl 5** is required.
 
 **Python 2.7** is required.
-```
+
 
 First of all you should do all following steps with **Python 2.7** not **Python 3.7**
 
