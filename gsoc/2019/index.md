@@ -98,7 +98,7 @@ Idea: A Natural Language Understanding (NLU) component for RoboComp
 Mentors: Pedro Núñez, Araceli Vega
 
 1. [First post](/web/gsoc/2019/ahmed-madbouly/post01)
-2. [Create Your Own Text to Speech synthesizer with Ossian](/web/gsoc/2019/ahmed-madbouly/post01)
+2. [Create Your Own Text to Speech synthesizer with Ossian](/web/gsoc/2019/ahmed-madbouly/post02)
 
 
 ## Liubove Orlov Savko
