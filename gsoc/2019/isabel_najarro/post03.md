@@ -10,7 +10,7 @@ It uses two neural networks to achieve an humanized voice in text-to-speech (TTS
  - The second one, nicknamed WaveNet, reads this spectrogram and generates the corresponding audio.
 
 ## Train.
-A computer with an *NVIDIA GeForce GTX 1080* graphics card was used for network training. When attempting to run the training, numerous problems were encountered with the versions that the network satisfied. Searching for the problems encountered it is eventually opted to use **Mimic2 from MicroftAI** which is based on Tacotron. The training of this one has been carried out in a container gpu of docker in which we have trained it and testing it during several steps to see its progress.
+A computer with an *NVIDIA GeForce GTX 1080* graphics card was used for network training. When attempting to run the training, numerous problems were encountered with the versions that the network satisfied. Searching for the problems encountered it is eventually opted to use **Mimic2 from MycroftAI** which is based on Tacotron. The training of this one has been carried out in a container gpu of docker in which we have trained it and testing it during several steps to see its progress.
 
 ### Examples of training:
 [Audio examples of the differents epochs](https://github.com/inajarrob/AudioSamples/tree/master)
