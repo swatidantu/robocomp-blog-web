@@ -63,6 +63,7 @@ Mentors: Iván Barbecho and Marco A. Gutiérrez
 
 1. [First post](/web/gsoc/2019/isabel_najarro/post01)
 2. [New text2Speech](/web/gsoc/2019/isabel_najarro/post02)
+3. [Be careful,the voice is taking shape!](/web/gsoc/2019/isabel_najarro/post03)
 
 ## José Manuel Agúndez
 
