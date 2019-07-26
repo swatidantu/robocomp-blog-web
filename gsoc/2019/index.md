@@ -36,7 +36,8 @@ Mentors: Sayali Deshpande and Pilar Bachiller
 
 1. [First post](/web/gsoc/2019/aditya_aggarwal/post01)
 2. [Face Detection and Alignment](/web/gsoc/2019/aditya_aggarwal/Post2)
-2. [New components created](/web/gsoc/2019/aditya_aggarwal/Post3)
+3. [New components created](/web/gsoc/2019/aditya_aggarwal/Post3)
+4. [Face Recognition](/web/gsoc/2019/aditya_aggarwal/Post4)
 
 ## Shashwat Shrivastava
 
