@@ -38,6 +38,62 @@ July 22, 2019
     - Here, is the basic introduction to V-REP, and a tutorial on  V-REP Remote API:
       - [https://github.com/nikhil3456/V-REP/blob/documentation/tutorial/V-REP_API.md](https://github.com/nikhil3456/V-REP/blob/documentation/tutorial/V-REP_API.md)
 
+## Create a controller using RoboComp bridge components to control a EV3_Lego
+  
+  - The [component](https://github.com/nikhil3456/robocomp/tree/V-REP_testing/components/EV3_VREP) has a DifferentialRobot interface (see DifferentialRobot.idsl on robocomp interfaces). The component also has all of the necessary methods to implement the interface successfully.
+
+  - For testing, the EV3_LEGO robot is used with the following V-REP model-types:
+    1. [LEGO_EV3_GROUP](./LEGO_EV3_GROUP.ttm)
+    2. [LEGO_EV3_MERGE](./LEGO_EV3_MERGE.ttm)
+
+  ![LEGO_EV3](./lego_ev3.jpg)
+
+  - The following are the components that makes up the model:
+
+    ```python
+    __COMPONENTS = {
+            'robot': 'LEGO_EV3',
+            'camera': 'Camara',
+            'camera_bumper': 'Camara_bumper',
+            'camera_sonar': 'Camara_sonar',
+            'sensor_color_LR': 'Sensor_Color_LR',
+            'sensor_color_RC': 'Sensor_Color_RC',
+            'sonar': 'Sonar',
+            'bumper': 'Bumper',
+            'motor_b': 'Motor_B',
+            'motor_c': 'Motor_C',
+            'slider': 'Slider_SF',
+            'giroscope': 'Giroscopio'
+        }
+    ```
+
+    - The robot has two motors named "Motor_B", and "Motor_C" which are used to control the movement(rotation and translation). And, it also has two sensors for sensing the surroundings.
+
+  - The V-REP scene act as a Server and the corresponding client logic is implemented in [vrep_client_controller.py](https://github.com/nikhil3456/robocomp/blob/V-REP_testing/components/EV3_VREP/src/vrep_client_controller.py). This is the code snippet to initialize the client in robocomp component to connect to V-REP server:
+
+    ```python
+    class VRepClientController:
+    def __init__(self, host, port):
+        self.host = host
+        self.port = port
+        self.client_id = -1
+        self.console_id = -1
+        self.debug = False
+
+        self.connect()
+
+        if not self.is_connected():
+            if self.debug:
+                err_print(prefix="COMPONENT CREATION",
+                          message=["CANNOT CONNECT TO REMOTE API"])
+            raise Exception("CANNOT CONNECT TO REMOTE API")
+    ```
+
+  - [remote_demo.ttt](https://github.com/nikhil3456/robocomp/blob/V-REP_testing/components/remote_demo.ttt) is the V-REP scene file for testing the robot.
+
+  - [EV3_LEGO_controller](https://github.com/nikhil3456/robocomp/blob/V-REP_testing/components/EV3_VREP/src/EV3_LEGO_controller.py) is the python file containing the functions used to control the robot.
+
+  - The compute function in [specificworker.py](https://github.com/nikhil3456/robocomp/blob/V-REP_testing/components/EV3_VREP/src/specificworker.py) has the logic for the robot to follow a line in the scene. This file basically calls the function in the file [EV3_LEGO_controller](https://github.com/nikhil3456/robocomp/blob/V-REP_testing/components/EV3_VREP/src/EV3_LEGO_controller.py) to control the robot.
 
 ***
 Nikhil Bansal
