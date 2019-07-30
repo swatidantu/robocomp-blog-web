@@ -7,7 +7,8 @@ Mentors: Luis J. Manso and Pedro Nuñez
 
 1. [First post](/web/gsoc/2019/ronit_jorvekar/post01)
 2. [RGCN and hyperparameter tuning](/web/gsoc/2019/ronit_jorvekar/post02)
-3. [Pytorch geometric support and Additional feature on server ](/web/gsoc/2019/ronit_jorvekar/post03)
+3. [Pytorch geometric support and Additional feature on server](/web/gsoc/2019/ronit_jorvekar/post03)
+3. [Integration of previous work with Robocomp’s DSR](/web/gsoc/2019/ronit_jorvekar/post04)
 
 ## Elena Barranco
 
