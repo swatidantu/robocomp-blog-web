@@ -4,7 +4,7 @@ July  30, 2019
 
 ## What is DSR?
 DSR is Deep state representation. It is a graph-like world models for robots. We need a service, called AGMExecutive, which can run as a mere world-model representation service. The executive is in charge of updating the plan for a list of agents.
-I created 4 agents or components with DSR(Deep State Representation) to generate random scenarios. The scenario contains a room, a robot, humans, objects and their interaction with one another which is saved as a graph or DSR.
+I created 5 agents or components with DSR(Deep State Representation) to generate random scenarios. The scenario contains a room, a robot, humans, objects and their interaction with one another which is saved as a graph or DSR.
 The 5 agents that i generated are room handler agent, human and interaction agent, object agent, predict score agent and transport agent.
 
 ## Scoring mechanism
@@ -25,7 +25,4 @@ All generations done by the agents(room, human and interactions, and objects ) a
 
 ### A demonstration video:
 The slider depicts the social acceptibility score of the robot in the current scenario. The robot is colored as red, humans as blue and objects as green.
-
-
-
 [![Social Navigation](http://img.youtube.com/vi/QVvuywgomTE/0.jpg)](https://youtu.be/QVvuywgomTE "Social Navigation")
