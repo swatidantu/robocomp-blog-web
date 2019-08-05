@@ -20,6 +20,7 @@ Mentors: Ramón Cintas and Esteban Martinena
 3. [Improve interfaces search](/web/gsoc/2019/elena_barranco/post03)
 4. [First Graphical Interface version and implementation of highlighter](/web/gsoc/2019/elena_barranco/post04)
 5. [Custom interfaces list widget](/web/gsoc/2019/elena_barranco/post05)
+6. [Real-time parser](/web/gsoc/2019/elena_barranco/post06)
 
 
 ## Alberto Andujar
