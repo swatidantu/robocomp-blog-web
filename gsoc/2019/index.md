@@ -21,7 +21,7 @@ Mentors: Ramón Cintas and Esteban Martinena
 4. [First Graphical Interface version and implementation of highlighter](/web/gsoc/2019/elena_barranco/post04)
 5. [Custom interfaces list widget](/web/gsoc/2019/elena_barranco/post05)
 6. [Real-time parser](/web/gsoc/2019/elena_barranco/post06)
-
+7. [Project resume](/web/gsoc/2019/elena_barranco/post07)
 
 ## Alberto Andujar
 
@@ -50,7 +50,7 @@ Mentors: Pilar Bachiller and Sparsh Garg
 
 1. [First post](/web/gsoc/2019/shashwat_shrivastava/blog1)
 2. [Object Detection, Texture Change and Tree Viewing option](/web/gsoc/2019/shashwat_shrivastava/blog2)
-1. [Dynamic object modifications](/web/gsoc/2019/shashwat_shrivastava/blog3)
+3. [Dynamic object modifications](/web/gsoc/2019/shashwat_shrivastava/blog3)
 
 ## Nikhil Bansal
 
