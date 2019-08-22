@@ -61,6 +61,7 @@ Mentors: Pablo Bustos and Nicolás González
 1. [First post](/web/gsoc/2019/nikhil_bansal/post01)
 2. [Second post](/web/gsoc/2019/nikhil_bansal/post02)
 3. [Integrating V-REP with RoboComp](/web/gsoc/2019/nikhil_bansal/post03)
+4. [differentialrobotVREP and keyboardrobotcontroller Component](/web/gsoc/2019/nikhil_bansal/post04)
 
 ## Isabel Najarro
 
