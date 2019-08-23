@@ -1,0 +1,15 @@
+# EBO, can you say hello?
+As mentioned in the previous issue, work began on the results obtained after training the neural network. The tests were not giving us good results and, since there was not a valid checkpoint with a clean and understandable voice, we proceeded to contact with the creator of the neural network and he offered us a checkpoint with which we have worked.
+The component has been connected to the block programming interface, Learnblock, through Robocomp components. An interface has been generated that uses Learnblock with the necessary methods to carry out the generation and reproduction of the generated audios. When everything has been connected correctly, tests have been carried out on the robot simulator.
+In addition, as mentioned in the first post, EBO includes alternative phrases of greeting and farewell, as well as methods for knowing the phrases it contains and being able to modify them to the child's preferences.
+## Tests.
+As we have commented, the tests have been carried out with the EBO simulator. With the results obtained, the conclusion reached is that the synthesis of the audios had to be improved since it slows down the operation of this function, therefore, we have focused on improving this with temporary files.
+## Found problems and theirs solutions.
+    Understandable audios. In the project we started working with a library called Pyttsx3 that didn't give us good results because the voice it generates seemed very robotic and not suitable for children and we decided to train a neural network to get better results. With this one, after the training we didn't get the results we expected and thanks to the creator who left us a valid checkpoint we now have cleaner and more understandable audios.
+    The speed of synthesis. After training the neural network, the main problem we have found is the speed at which the output audio is generated. This one took a long time and temporary files have been created for repeating phrases so that it doesn't take so long to generate. Even so, we are studying how to further improve the time to obtain audio.
+    The time. In order to be able to train the neural network in its original language, English, we found many problems until we could launch it and obtain favorable results. It has been necessary to launch the network to train in Spanish during this last week, and soon we will begin to work with the results we are getting.
+The emotions. It has been difficult to modulate the audios but we have achieved that the robot has intonation and does not look like a flat audio. We are still studying how to modulate the voice in order to express emotions.
+The languages. EBO has the ability to be programmed in different languages such as English or Spanish. The component was created for English only and has been modified so that it can be used from other languages that are available.
+## Future ideas.
+In addition to what has been done, it has been thought to generate a simulation when the robot speaks so that when it performs that action seems to move the mouth as if it were really speaking.
+
