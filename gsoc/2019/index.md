@@ -30,6 +30,7 @@ Mentors: Luis V. Calderita and Ramón Cintas
 
 1. [First post](/web/gsoc/2019/alberto_andujar/post01)
 2. [Developing a Serious-Game using RoboComp: First steps](/web/gsoc/2019/alberto_andujar/post02)
+3. [Developing a Serious-Game using RoboComp: Web project](/web/gsoc/2019/alberto_andujar/post03)
 
 ## Aditya Aggarwal
 
@@ -60,6 +61,7 @@ Mentors: Pablo Bustos and Nicolás González
 1. [First post](/web/gsoc/2019/nikhil_bansal/post01)
 2. [Second post](/web/gsoc/2019/nikhil_bansal/post02)
 3. [Integrating V-REP with RoboComp](/web/gsoc/2019/nikhil_bansal/post03)
+4. [differentialrobotVREP and keyboardrobotcontroller Component](/web/gsoc/2019/nikhil_bansal/post04)
 
 ## Isabel Najarro
 

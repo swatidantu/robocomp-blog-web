@@ -8,6 +8,8 @@ This post will describe how to create **differentialrobotVREP** component and im
 
 This component allows user to interact with differentialRobot(being simulated on V-REP) using arrow keys on keyboard. The below gif shows the key pressed on terminal and the corresponding response of robot that is simulated in V-REP.
 
+**NOTE**: One can also use [joystickComp](https://github.com/robocomp/robocomp-robolab/tree/master/components/joystickComp) and [keyboardrobotcontroller](https://github.com/robocomp/robocomp-robolab/tree/master/components/keyboardrobotcontroller) components found in https://github.com/robocomp/robocomp-robolab/tree/master/components as client with **differentialrobotVREP** as server. But, I have used  [keyboardrobotcontroller](https://github.com/robocomp/robocomp-robolab/tree/master/components/keyboardrobotcontroller) component of robocomp-robolab component as it is with just changing port in etc/config file for testing. I will be explaining how to change the port in forthcoming sections.
+
 ![robotController](robotController.gif)
 
 
@@ -98,6 +100,19 @@ Component keyboardrobotcontroller
 This component takes the keyboard input from the user's device and performs the logic to increase/decrease advance/rotation speed accordingly by communicating with the client (here, it is differentialrobotVREP component). Specifically, the components uses **setSpeedBase** interface offered by the differentialrobotVREP component.
 
 ## Testing the Component
+
+1. Copy the [differentialrobotVREP](https://github.com/nikhil3456/V-REP/tree/keyboardRobotController/components/keyboardRobotController/differentialrobotVREP) component and [keyboardrobotcontroller](https://github.com/robocomp/robocomp-robolab/tree/master/components/keyboardrobotcontroller) from [robocomp-robolab/tree/master/components/](https://github.com/robocomp/robocomp-robolab/tree/master/components/) inside your local copy of robocomp/components/.
+
+2. open this config file: ~robocomp/components/differentialrobotVREP/etc/config in your favourite editor.
+3. copy, the port on which the server port endpoints for interfaces are implemented.
+4. open this config file: ~robocomp/components/keyboardrobotcontroller/etc/config in your favourite editor.
+5. paste, the port(copied in step-2) in DifferentialRobotProxy port for required interfaces replacing 0.
+
+**NOTE:** One can also use [joystickComp](https://github.com/robocomp/robocomp-robolab/tree/master/components/joystickComp) component found in https://github.com/robocomp/robocomp-robolab/tree/master/components in place of [keyboardrobotcontroller](https://github.com/robocomp/robocomp-robolab/tree/master/components/keyboardrobotcontroller) in step-1 for testing.
+
+**NOTE:** The Scene file can be found [here](https://github.com/nikhil3456/V-REP/blob/keyboardRobotController/components/hexapod/ePuck_test.ttt).
+
+-----------------------------------------------------or--------------------------------------------------------------
 
 My current repository can be found [here](https://github.com/nikhil3456/V-REP/tree/keyboardRobotController/components/keyboardRobotController). For testing copy the folder *keyboardRobotController* inside robocomp/components/. And the scene file can be found [here](https://github.com/nikhil3456/V-REP/blob/keyboardRobotController/components/hexapod/ePuck_test.ttt).
 
