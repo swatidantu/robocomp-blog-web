@@ -14,7 +14,7 @@ Just to easy the user experience drag and drop functionality for objects is adde
 The toughest part of the project was to remove the previously opened RGBD window whenever the world reloads.
 Removal of RGBD was accomplished successfully during this coding period.
 
-## Uudo functionality
+## Undo functionality
 The last hurdle was to implement Undo functionality. If the user deletes an object by mistake or regrets his/her decision of deleting the object he/she will have the option to undo the deletion. Undo functionality can also get the object back to its initial position after doing undo few times, if the object was dragged to a new position.
  
 In the future hover functionality can be improved, redo option can be provided and reset too in the simulator. 
