@@ -2,7 +2,7 @@
 August 25, 2019
 
 ## Deletion functionality
-Addition of new object is important for an interactive simulator in the way deletion of object is also very important. Hence I implemented object deletion. The preview option also requires hidden deletion functionality in case user decides to add object and goes in the preview mode but realises he does not want to add and goes out of the preview option then the object added for preview purpose must be deleted internally.
+Addition of new object is important for an interactive simulator in the way deletion of object is also very important. Hence I implemented object deletion. The preview option also requires hidden deletion functionality in case the user decides to add object and goes in the preview mode but realises he does not want to add and goes out of the preview option then the object added for preview purpose must be deleted internally.
 
 ## Addition of all types of object
 Sparsh Sir asked me to implement addition of all types of object for example camera, mesh, laser, imu, rgbd and joint. Now simulator has options to add all types of object as mentioned above apart from box, sphere, cylinder and cone that was already there.
