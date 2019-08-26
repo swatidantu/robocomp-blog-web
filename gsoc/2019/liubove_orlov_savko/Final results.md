@@ -25,5 +25,7 @@ Transfer learning results surprised me. Due to random weight initialization, I s
 Ensemblence learning made my network robust. It is composed of several classifiers of the activities, which are merged at a later stage into a big model that learns the activity a person is performing due to the predictions of the previous classifiers. The classification improved by 1-2%.
 
 What is left to do is to implement it in RoboComp directly, with joint data obtained by an Astra camara. I do not have an Astra camera, but one of my mentors offered to provide an output file of the Astra camera, so that I can adapt my code to online data. Additionally, the expansion of classification to a wider range of activities needs to be done, since currently my network works only on 3-4 activities. Until now, the accuracy achieved for all 11 activities from CAD-60 data set is 76%.
+ ![Image](images/1-layer_[20]unitallcnn-ConfusionMatrixacc: 76.34%.png)
+
 
 This summer was fun, and this project inspires me to continue contributing and developing the acitivity recognition model, and getting closer to the tool for active and assistive living for elderly and people in need. The development of this project excites me and Google Summer of Code passed my expectation. It was amazing! I recommend it to anyone that enjoys coding.
