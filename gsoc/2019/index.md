@@ -63,7 +63,7 @@ Mentors: Pablo Bustos and Nicolás González
 3. [Integrating V-REP with RoboComp](/web/gsoc/2019/nikhil_bansal/post03)
 4. [differentialrobotVREP and keyboardrobotcontroller Component](/web/gsoc/2019/nikhil_bansal/post04)
 5. [linefollowingVREP Component](/web/gsoc/2019/nikhil_bansal/post05)
-
+6. [obstacleAvoidanceVREP Component](/web/gsoc/2019/nikhil_bansal/post06)
 
 ## Isabel Najarro
 
