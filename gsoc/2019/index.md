@@ -73,9 +73,10 @@ Mentors: Pablo Bustos and Nicolás González
 Idea: Development of a Text To Speech component that operates offline for the EBO educational robot  
 Mentors: Iván Barbecho and Marco A. Gutiérrez  
 
-1. [First post](/web/gsoc/2019/isabel_najarro/post01)
-2. [New text2Speech](/web/gsoc/2019/isabel_najarro/post02)
+1. [First post.](/web/gsoc/2019/isabel_najarro/post01)
+2. [New text2Speech.](/web/gsoc/2019/isabel_najarro/post02)
 3. [Be careful,the voice is taking shape!](/web/gsoc/2019/isabel_najarro/post03)
+4. [Final results.](/web/gsoc/2019/isabel_najarro/post04)
 
 ## José Manuel Agúndez
 
