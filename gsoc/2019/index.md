@@ -128,6 +128,6 @@ Mentors: Diego R. Faria, Araceli Vega
 1. [First post](/web/gsoc/2019/liubove_orlov_savko/post01)
 2. [First attemp of classification](/web/gsoc/2019/liubove_orlov_savko/First_attempt_of_classification)
 3. [Improving classification](/web/gsoc/2019/liubove_orlov_savko/Improving_classification)
-4. [Final results.md](/web/gsoc/2019/liubove_orlov_savko/Final_results)
+4. [Final results](/web/gsoc/2019/liubove_orlov_savko/Final_results)
 
 
