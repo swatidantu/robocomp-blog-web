@@ -2,24 +2,28 @@ _**RoboComp** is an open-source Robotics framework providing the tools to create
 
 * * *
 
-# [Working on ideas for Google Season of Docs 2019!](/web/gsod/2019/ideas)
+# [Working on ideas for Google Summer of Code 2020!](/web/gsoc/2020/ideas)
 <span class="post-date">April 22th 2019</span>  
-The list of [ideas](/web/gsod/2019/ideas/) for the Google Season of Docs 2019 is now avalaible.
+The list of [ideas](/web/gsoc/2020/ideas/) for the Google summer of Code 2020 will be available soon.
 
-# [RoboComp got accepted in GSoC 2019!](/web/blog/gsoc/faq2019)
-<span class="post-date">February 27th 2019</span>  
-Google officially announced the list of organisations participating in GSoC'19 and RoboComp is in! The next important deadlines are:
-* 26 February - 25 March: Students get involved in the project and disscuss ideas with the mentors. If you're thinking about participating as a student, please follow all the tutorials.
-* 25 March - April 9: Students submit their applications.
-* May 6: The list of accepted students is announced.
+[//] # [Working on ideas for Google Season of Docs 2019!](/web/gsod/2019/ideas)
+[//] <span class="post-date">April 22th 2019</span>  
+[//] The list of [ideas](/web/gsod/2019/ideas/) for the Google Season of Docs 2019 is now avalaible.
 
-Please, read the [RoboComp/GSoC'19 FAQ](/web/blog/gsoc/faq2019) if you are interested in participating as a student in RoboComp/GSoC'19. Google has also made available a generic [GSoC'19 FAQ](https://developers.google.com/open-source/gsoc/faq).
+[//] # [RoboComp got accepted in GSoC 2019!](/web/blog/gsoc/faq2019)
+[//] <span class="post-date">February 27th 2019</span>  
+[//] Google officially announced the list of organisations participating in GSoC'19 and RoboComp is in! The next important deadlines are:
+[//] * 26 February - 25 March: Students get involved in the project and disscuss ideas with the mentors. If you're thinking about participating as a student, please follow all the tutorials.
+[//] * 25 March - April 9: Students submit their applications.
+[//] * May 6: The list of accepted students is announced.
+
+[//] Please, read the [RoboComp/GSoC'19 FAQ](/web/blog/gsoc/faq2019) if you are interested in participating as a student in RoboComp/GSoC'19. Google has also made available a generic [GSoC'19 FAQ](https://developers.google.com/open-source/gsoc/faq).
 
 
 
-# [Google Summer of Code 2019 Ideas](/web/blog/gsoc/ideas2019)
-<span class="post-date">February 06th 2019</span> 
-## General information on applications
-We just made available the list of ideas for the Google Summer of Code 2019. If you are interested in any of the ideas listed we encourage you to get involved in the project and apply if RoboComp gets accepted into GSoC'19.
-[Read more](/web/blog/gsoc/ideas2019)
+[//] # [Google Summer of Code 2019 Ideas](/web/blog/gsoc/ideas2019)
+[//] <span class="post-date">February 06th 2019</span> 
+[//] ## General information on applications
+[//] We just made available the list of ideas for the Google Summer of Code 2019. If you are interested in any of the ideas listed we encourage you to get involved in the project and apply if RoboComp gets accepted into GSoC'19.
+[//] [Read more](/web/blog/gsoc/ideas2019)
 
