@@ -3,7 +3,7 @@ _**RoboComp** is an open-source Robotics framework providing the tools to create
 * * *
 
 # [Working on ideas for Google Summer of Code 2020!](/web/gsoc/2020/ideas)
-<span class="post-date">April 22th 2019</span>  
+<span class="post-date">January 31th 2020</span>  
 The list of [ideas](/web/gsoc/2020/ideas/) for the Google summer of Code 2020 will be available soon.
 
 [//] # [Working on ideas for Google Season of Docs 2019!](/web/gsod/2019/ideas)
