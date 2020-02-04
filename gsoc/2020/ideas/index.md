@@ -265,6 +265,20 @@ In this project, we want to build a component capable of recognizing the speech 
 Python, Any Computer vision and NLU library e.g. Pytorch, TensorFlow, Qt, C++.
 
 
+
+
+### 22\. Integration of an emotion recognition component in RoboComp
+**Mentors**  
+Diego R. Faria, Daniel Rodriguez
+
+**Brief description**  
+Advances in social robotics and the development of new technologies are allowing the introduction of assistant and service robots in our daily lives. To create such applications, a robot should be able to coexist and co-operate with the human presence in a friendly way. For this to happen, a number of issues need to be solved, including modelling and recognition of emotions in order to establish an affective loop between users and robots, aiming at a proper communication through Human-Robot Interaction (HRI). Emotion perception is a topic pursued by different fields such as psychology, computer science and engineering, including advanced robotics. A robot can be endowed with the ability to analyse verbal and non-verbal behavioural cues displayed by the user to infer the underlying emotions. In this slot, we will design an emotion recognition system for human-robot interaction towards establishing an affective loop between humans and robots. The challenge will be focused on machine learning techniques to autonomously select robust models for real-time emotion recognition. The implemented algorithm will be integrated into RoboComp as part of an HRI framework that can be linked to action/activity recognition, or any other robot communication abilities within different scenarios.
+
+**Needed skills**  
+Python, DLib, user-level machine learning libraries
+
+
+
 ## Complete list of Mentors:
 
 ### Pablo Bustos
