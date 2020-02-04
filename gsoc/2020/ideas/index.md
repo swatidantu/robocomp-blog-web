@@ -43,7 +43,7 @@ Python3, Qt5,  MongoDB,  JSON, XML, V-REP.
 Daniel Rodriguez, Pilar Bachiller
  
 **Brief description**  
-The detection and implementation of social skills is usually handcrafted by developers writing hardcoded if-then-else constructs in the robots’ code. This code usually consists of a series of queries to the robots’ world representations (e.g., if the robot is closer than 400mm to a human the person might consider the behaviour inappropriate, if two humans are interacting the robot should not interrupt their visual contact). Although this is a valid approach, it is very time consuming and scales poorly. The aim of this slot is to improve the efficiency of the component in charge of this, generating a heat map instead of a single value per query. The input information to compute such heat maps will be the robot’s world representation (a graph) and the output a two-dimensional array. The machine learning techniques used will be Graph Neural Networks and Convolutional Neural Networks. We will be building on top of a similar slot that took place last year. The current implementation is available at https://github.com/robocomp/sngnn.
+The detection and implementation of social skills is usually handcrafted by developers writing hardcoded if-then-else constructs in the robots’ code. This code usually consists of a series of queries to the robots’ world representations (e.g., if the robot is closer than 400mm to a human the person might consider the behaviour inappropriate, if two humans are interacting the robot should not interrupt their visual contact). Although this is a valid approach, it is very time consuming and scales poorly. The aim of this slot is to improve the efficiency of the component in charge of this, generating a heat map instead of a single value per query. The input information to compute such heat maps will be the robot’s world representation (a graph) and the output a two-dimensional array. The machine learning techniques used will be Graph Neural Networks and Convolutional Neural Networks. We will be building on top of a similar slot that took place last year. The current implementation is available at [https://github.com/robocomp/sngnn](https://github.com/robocomp/sngnn).
 
 **Needed skills**  
 Python, DGL/Pythorch-geometric.
@@ -252,6 +252,18 @@ The intelligent control of humanoid robots (HR) was the reason RoboComp was crea
 **Needed skills**  
 C++, Python, DNN.
 
+### 21\. An Automatic Speech Recognition (ASR) component for RoboComp
+**Mentors**  
+Sparsh Garg, Carlos Muñoz
+ 
+**Brief description**  
+Nowadays, Speech is playing a significant part in Human Robot Interaction e.g. speaker detection system or voice command detection. Different ASR modules have been developed so far for their use in different speech-input based applications.
+
+In this project we want to build a component capable of recognizing the speech of different users that can work offline. One can consider using DeepSpeech architecture. DeepSpeech is an open source Tensorflow-based speech-to-text processor with a reasonably high accuracy. It uses the latest and state-of-the-art machine learning algorithms. The student will also have to evaluate the quality of the captured signal and the transcriptions obtained, for the development of future dialogue systems between humans and robots.
+
+**Needed skills**  
+Python, Any Computer vision and NLU library e.g. Pytorch, tensorflow, Qt, C++.
+
 
 ## Complete list of Mentors:
 
@@ -284,6 +296,7 @@ University of Extremadura
 
 >**aditya.aggarwal**AT**students**DOT**iiit**DOT**ac**DOT**in**
 RoboComp Developer  
+International Institute of Information Technology, Hyderabad
 
 ### Francisco Andrés
 
@@ -325,6 +338,12 @@ School of Engineering & Applied Science, Aston University, UK
 >**juancarlos97gg**AT**gmail**DOT**com**   
 Researcher, Robolab,  
 University of Extremadura  
+
+### Sparsh Garg
+
+>**ksparsh30**AT**gmail**DOT**com**  
+Robocomp Developer  
+International Institute of Information Technology, Hyderabad  
 
 ### Marco A. Gutiérrez
 
