@@ -165,7 +165,7 @@ Python, C++.
 
 ### 10\. Human recognition (identification) using multi-modal perception system
 **Mentors**  
-Pedro Núñez, Diego Faria
+Diego Faria, Aditya Aggarwal
  
 **Brief description**  
 Detecting people in an environment is a task of enormous interest in robotics. In addition, the ability to identify the person among a finite number of users is a very interesting challenge for later complex tasks such as personalized interaction, social navigation, etc. This project aims to implement a software agent with RoboComp that allows, from a multi-modal RGBD sensor, the identification of people in the robot environment. The identification should not only use the face of the detected people but also using other information related to the skeleton or silhouette of the body, even with semantic information previously extracted (or manually introduced from a GUI). 
