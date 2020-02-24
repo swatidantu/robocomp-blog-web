@@ -336,9 +336,9 @@ University of Extremadura
 
 ### Aditya Aggarwal
 
->**aditya.aggarwal**AT**students**DOT**iiit**DOT**ac**DOT**in**
+>**aditya.aggarwal**AT**students**DOT**iiit**DOT**ac**DOT**in**  
 RoboComp Developer  
-International Institute of Information Technology, Hyderabad
+International Institute of Information Technology, Hyderabad  
 
 ### Francisco Andrés
 
@@ -390,13 +390,13 @@ International Institute of Information Technology, Hyderabad
 ### Marco A. Gutiérrez
 
 >**marcog**AT**unex**DOT**es**  
-Robocomp Developer
+Robocomp Developer  
 
 ### Ronit Jorvekar
 
->**ronitjorvekar007**AT**gmail**DOT**com**
+>**ronitjorvekar007**AT**gmail**DOT**com**  
 RoboComp Developer  
-Pune Institute of Technology, Pune India
+Pune Institute of Technology, Pune India  
 
 ### Esteban Martinena
 
@@ -412,13 +412,13 @@ University of Extremadura
 
 ### Francisco M. Rico
 
->**francisco**DOT**rico**AT**urjc**DOT**es**
+>**francisco**DOT**rico**AT**urjc**DOT**es**  
 Associate Professor,  
 University Rey Juan Carlos  
 
 ### Daniel Rodríguez
 
->**190229717**AT**aston**DOT**ac**DOT**uk**
+>**190229717**AT**aston**DOT**ac**DOT**uk**  
 PhD Student,  
 School of Engineering & Applied Science, Aston University, UK  
 
