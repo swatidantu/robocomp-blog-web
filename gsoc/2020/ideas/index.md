@@ -55,7 +55,7 @@ Among these functionalities, the user interface must allow sending the robot to 
 
 ### 3\. Randomly generation and storage of the graph-based world representation used in RoboComp
 **Mentors**  
-Luis V. Calderita, Ramón Cintas
+Luis V. Calderita, Alberto Serrano
  
 **Brief description**  
 Currently, RoboComp keeps in real-time the state of the robot and the world around it. For this, RoboComp uses a graph-based world representation that evolves over time. This graph represents the robot's perception of its environment and is maintained by the sensors onboard the robot.
@@ -68,7 +68,7 @@ Python3, Qt5,  MongoDB,  JSON, XML, V-REP.
 
 ### 4\. Efficient acceptable social behaviour using machine learning techniques
 **Mentors**  
-Daniel Rodriguez, Pilar Bachiller
+Ronit Jorvekar, Pilar Bachiller
  
 **Brief description**  
 The detection and implementation of social skills are usually handcrafted by developers writing hardcoded if-then-else constructs in the robots’ code. This code usually consists of a series of queries to the robots’ world representations (e.g., if the robot is closer than 400mm to a human the person might consider the behaviour inappropriate, if two humans are interacting the robot should not interrupt their visual contact). Although this is a valid approach, it is very time consuming and scales poorly. This slot aims to improve the efficiency of the component in charge of this, generating a heat map instead of a single value per query. The input information used to compute such heat maps will be the robot’s world representation (a graph) and the output a two-dimensional array. The machine learning techniques used will be Graph Neural Networks and Convolutional Neural Networks. We will be building on top of a similar slot that took place last year. The current implementation is available at [https://github.com/robocomp/sngnn](https://github.com/robocomp/sngnn).
@@ -196,7 +196,7 @@ Python3, C++17, RoboComp, ROS, ROS2
 
 ### 13\. Automatic and systematic generation of RoboComp components for testing
 **Mentors**  
-Esteban Martinena, Pablo Bustos
+Esteban Martinena, Alberto Serrano
  
 **Brief description**  
 RoboComp is a Robotics framework based on software components. Building new components is done using the domain-specific language CDSL. RoboComp currently has the rocobocompdsl tool to generate and modify components based on this language and files. 
@@ -297,7 +297,7 @@ Python, Any Computer vision and NLU library e.g. Pytorch, TensorFlow, Qt, C++.
 
 ### 22\. Integration of an emotion recognition component in RoboComp
 **Mentors**  
-Diego R. Faria, Daniel Rodriguez
+Daniel Rodriguez, Diego R. Faria
 
 **Brief description**  
 Advances in social robotics and the development of new technologies are allowing the introduction of assistant and service robots in our daily lives. To create such applications, a robot should be able to coexist and co-operate with the human presence in a friendly way. For this to happen, a number of issues need to be solved, including modelling and recognition of emotions in order to establish an affective loop between users and robots, aiming at a proper communication through Human-Robot Interaction (HRI). Emotion perception is a topic pursued by different fields such as psychology, computer science and engineering, including advanced robotics. A robot can be endowed with the ability to analyse verbal and non-verbal behavioural cues displayed by the user to infer the underlying emotions. In this slot, we will design an emotion recognition system for human-robot interaction towards establishing an affective loop between humans and robots. The challenge will be focused on machine learning techniques to autonomously select robust models for real-time emotion recognition. The implemented algorithm will be integrated into RoboComp as part of an HRI framework that can be linked to action/activity recognition, or any other robot communication abilities within different scenarios.
@@ -391,7 +391,13 @@ International Institute of Information Technology, Hyderabad
 
 >**marcog**AT**unex**DOT**es**  
 Robocomp Developer
-  
+
+### Ronit Jorvekar
+
+>**ronitjorvekar007**AT**gmail**DOT**com**
+RoboComp Developer  
+Pune Institute of Technology, Pune India
+
 ### Esteban Martinena
 
 >**emartinena**AT**unex**DOT**es**  
@@ -415,6 +421,12 @@ University Rey Juan Carlos
 >**190229717**AT**aston**DOT**ac**DOT**uk**
 PhD Student,  
 School of Engineering & Applied Science, Aston University, UK  
+
+### Alberto Serrano
+
+>**aserranokw**AT**alumnos**DOT**unex**DOT**es**   
+Researcher, Robolab,  
+University of Extremadura  
 
 ### Araceli Vega
 
