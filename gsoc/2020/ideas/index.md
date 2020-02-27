@@ -284,7 +284,7 @@ C++, Python, DNN.
 
 ### 21\. An Automatic Speech Recognition (ASR) component for RoboComp
 **Mentors**  
-Sparsh Garg, Carlos Muñoz
+Sparsh Garg, Pablo Bustos
  
 **Brief description**  
 Nowadays, Speech is playing a significant part in Human-Robot Interaction e.g. speaker detection system or voice command detection. Different ASR modules have been developed so far for their use in different speech-input based applications.
@@ -293,8 +293,6 @@ In this project, we want to build a component capable of recognizing the speech 
 
 **Needed skills**  
 Python, Any Computer vision and NLU library e.g. Pytorch, TensorFlow, Qt, C++.
-
-
 
 
 ### 22\. Integration of an emotion recognition component in RoboComp
