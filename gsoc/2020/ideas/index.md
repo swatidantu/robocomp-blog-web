@@ -11,7 +11,7 @@ This is the list of ideas for the Google Summer of Code 2020. If you are interes
 * Please read all the information posted in this page before applying.
 * Make sure you are familiar with the required skills for the idea.
 * Since several of the mentioned RoboComp tools and components are not explained here to keep this list short, we encourage everyone to check the RoboComp documentation linked below.
-* Mentors and backup mentors are listed right after the idea explanation. All mentors contact info is at the end of the page. Contact them directly for specific questions on the idea.
+* Mentors and backup [mentors](/web/gsoc/2020/ideas/#complete-list-of-mentors) are listed right after the idea explanation. All [mentors](/web/gsoc/2020/ideas/#complete-list-of-mentors) contact info is at the end of the page. Contact them directly for specific questions on the idea.
 
 
 Robocomp installation and tutorials: [https://github.com/robocomp/robocomp/tree/stable/doc#tutorials](https://github.com/robocomp/robocomp/tree/stable/doc#tutorials)
@@ -27,7 +27,7 @@ You are encouraged to go through these steps for a better understanding and foll
 3.  Once you are familiar with RoboComp and the components and tools involved in the particular idea you want to contribute to, try to understand how these components/tools work and, if possible, their design.
 4.  Participate in gsoc [gitter](https://gitter.im/robocomp/robocomp/robocomp-gsoc) asking any question you might have.
 5.  Create a schedule with the milestones you plan to follow during the GSoC 2020 program.
-6.  **Send the schedule and any code you might have written along with your CV and other application materials to the mentor of your idea and the backup mentor.**
+6.  **Send the schedule and any code you might have written along with your CV and other application materials to the [mentor](/web/gsoc/2020/ideas/#complete-list-of-mentors) of your idea and the backup mentor(/web/gsoc/2020/ideas/#complete-list-of-mentors).**
 
 For general questions about RoboComp please use: The [gitter chat](https://gitter.im/robocomp/robocomp).
 
