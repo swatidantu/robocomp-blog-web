@@ -7,8 +7,8 @@ Google officially announced the list of organisations participating in GSoC'20 a
 
 * February 20 - March 16: Students get involved in the project and disscuss ideas with the mentors. If you're thinking about participating as a student, please follow all the tutorials.  
 * March 16 - March 31: Students submit their applications.  
-* March 31 - April 27: Applications are reviewed and selected.  
-* April 27: The list of accepted students is announced.  
+* March 31 - April 30: Applications are reviewed and selected.  
+* May 4: The list of accepted students is announced.  
 
 Please, read the [RoboComp/GSoC'20 FAQ](/web/gsoc/2020/faq2020) if you are interested in participating as a student in RoboComp/GSoC'20. Google has also made available a generic [GSoC FAQ](https://developers.google.com/open-source/gsoc/faq).
 
