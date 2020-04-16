@@ -1,0 +1,5 @@
+# Google Season of Docs 2020 Ideas
+RoboComp is an open-source robotic framework. It is made up of different robotic software components and the necessary tools to use them. The running components form a graph of processes that can be distributed over several cores and CPU’s using software component technology. Communications are handled by ZeroC’s Ice middleware. Our main goals in designing the system are efficiency, simplicity and reusability. To achieve these goals, components are created by a code generator that reads a simple description program written in a Domain Specific Language named CDSL. Components created with this tool are formally correct and provide an advanced starting point for the user to start coding. All communication aspects, project creation files, auxiliary libraries, internal concurrency and interchange data structures and initial documentation are provided with the generated code. Programming languages used in the project are mainly C++ and Python but the Ice framework makes possible to easily use components written in many other languages.  
+
+
+## List of Ideas for GSoDs 2020
