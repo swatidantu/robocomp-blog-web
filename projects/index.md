@@ -104,13 +104,13 @@ They are controlled by custom made 3 Amps PWM amplifiers driven by the AtMega32 
 
 The compass and the motor controllers can be coupled in a higher order loop to follow an externally commanded magnetic direction. In the front we have placed a URG Laser -4 meters range and .5 degrees res.- connected also through a USB port.
 
-Other microncontroller board controls the three servos of the steroscopic head that hold two ISight Firewire cameras. Still another one controls a custom made “vestibular” board.
+Other microcontroller board controls the three servos of the stereoscopic head that hold two ISight Firewire cameras. Still another one controls a custom made “vestibular” board.
 
 ![Smiley face](https://robolab.unex.es/images/stories/robots/family_robex_grande.jpg)
 
 8 **Tornasol**
 
-Tornasol is our first medium-sized robot. He has an aluminium frame and 4-wheels (not very good idea) carrying all the electronics and computer on board. We designed and built for him the power amplifiers and a microcontroller-based board using a risc 100MHz Hitachi SH3 for PID control of the electrical motors. On top of these elements an AMD K7 processor takes care of image adquisition and processing, and navigation control. In addition, it is connected to the world through a Gbit Ethernet link.
+Tornasol is our first medium-sized robot. He has an aluminium frame and 4-wheels (not very good idea) carrying all the electronics and computer on board. We designed and built for him the power amplifiers and a microcontroller-based board using a risc 100MHz Hitachi SH3 for PID control of the electrical motors. On top of these elements an AMD K7 processor takes care of image acquisition and processing, and navigation control. In addition, it is connected to the world through a Gbit Ethernet link.
 
 In the upper structure we have placed a robotic stereo head with three degrees of freedom and two Firewire cameras. The robot is able of generating an approximated 3D reconstruction of its environment at a frame rate of 4Hz. Here you can see some snapshots of these results.
 
@@ -146,13 +146,13 @@ Here you can see a video of the animated 3D model before its construction.
 
 12 **Insex**
 
-Insex is a hexapod machine built by last year undergraduates. It’s parts are made with a Nylon-Fiberglass compound. Joints are powered by 12 servo motors controlled by three cascaded commertial boards. It’s small brain is C++ coded in a computer outside the body following a fairly complex component-based distributed design. The main limitation is the absence of force-feedback from the feet.
+Insex is a hexapod machine built by last year undergraduates. It’s parts are made with a Nylon-Fiberglass compound. Joints are powered by 12 servo motors controlled by three cascaded commercial boards. It’s small brain is C++ coded in a computer outside the body following a fairly complex component-based distributed design. The main limitation is the absence of force-feedback from the feet.
 
 ![Smiley face](https://robolab.unex.es/images/stories/robots/bot.jpg)
 
 13 **Miura**
 
-Miura is the stereo version of Pulguita. Five degrees of freeedom with digital PID controlled servos and two ISight Firewire cameras. Specially indicated for the new dual-core processors.
+Miura is the stereo version of Pulguita. Five degrees of freedom with digital PID controlled servos and two ISight Firewire cameras. Specially indicated for the new dual-core processors.
 
 ![Smiley face](https://robolab.unex.es/images/stories/robots/miura1.jpg)
 
