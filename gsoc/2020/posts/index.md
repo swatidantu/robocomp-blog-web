@@ -2,7 +2,7 @@
 
 ## Anshul Lahoti	
 
-Idea: An Automatic Speech Recognition(ASR) Component for RoboComp
+Idea: An Automatic Speech Recognition(ASR) Component for RoboComp  
 
 Mentors: 
 
@@ -18,7 +18,7 @@ Mentors:
 
 ## Rishabh Baghel
 
-Idea: Efficient acceptable social behaviour using machine learning techniques
+Idea: Efficient acceptable social behaviour using machine learning techniques  
 
 Mentors: 
 
@@ -27,7 +27,7 @@ Mentors:
 
 ## Kanav
 
-Idea: Hand Gesture Recognition Component
+Idea: Hand Gesture Recognition Component  
 
 Mentors: 
 
@@ -36,7 +36,7 @@ Mentors:
 
 ## Shubh Maheshwari
 
-Idea: Human recognition (identification) using multi-modal perception system
+Idea: Human recognition (identification) using multi-modal perception system  
 
 Mentors: 
 
@@ -52,7 +52,7 @@ Mentors:
 
 ## Palash Agarwal
 
-Idea: Integration of an emotion recognition component in RoboComp
+Idea: Integration of an emotion recognition component in RoboComp  
 
 Mentors: 
 
@@ -60,7 +60,7 @@ Mentors:
 
 ## Akash Kumar Singh
 
-Idea: Python3 bindings for InnerModel Library
+Idea: Python3 bindings for InnerModel Library  
 
 Mentors: 
 
@@ -68,7 +68,7 @@ Mentors:
 
 ## Rahul Katiyar
 
-Idea: Robocomp GUI development
+Idea: Robocomp GUI development  
 
 Mentors: 
 
@@ -77,7 +77,7 @@ Mentors:
 
 ## Nivedita Rufus
 
-Idea: Software agent for estimating occupancy in medium and large buildings using RGB cameras
+Idea: Software agent for estimating occupancy in medium and large buildings using RGB cameras  
 
 Mentors: 
 
@@ -86,7 +86,7 @@ Mentors:
 
 ## José Miguel Sánchez
 
-Idea: Syntax-error highlighter for LearnBlock
+Idea: Syntax-error highlighter for LearnBlock  
 
 Mentors: 
 
