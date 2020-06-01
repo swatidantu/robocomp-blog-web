@@ -4,7 +4,7 @@
 
 Idea: An Automatic Speech Recognition(ASR) Component for RoboComp  
 
-Mentors: 
+Mentors: Sparsh Garg, Pablo Bustos, Marco Antonio
 
 1. [First post](/web/gsoc/2020/posts/anshul_lahoti/post01)
 
@@ -12,7 +12,7 @@ Mentors:
 
 Idea: DNN’s for precise manipulation of household objects  
 
-Mentors:
+Mentors: Pablo Bustos, Marco Antonio
 
 1. [First post](/web/gsoc/2020/posts/mohamed_shawky/post01)
 
@@ -20,7 +20,7 @@ Mentors:
 
 Idea: Efficient acceptable social behaviour using machine learning techniques  
 
-Mentors: 
+Mentors: Daniel Rodriguez Criado, Pilar Bachiller, Ronit Jorvekar
 
 1. [First post](/web/gsoc/2020/posts/rishabh_baghel/post01)
 
@@ -29,7 +29,7 @@ Mentors:
 
 Idea: Hand Gesture Recognition Component  
 
-Mentors: 
+Mentors: Francisco Andrés, Aditya Aggarwal
 
 1. [First post](/web/gsoc/2020/posts/kanav/post01)
 
@@ -38,7 +38,7 @@ Mentors:
 
 Idea: Human recognition (identification) using multi-modal perception system  
 
-Mentors: 
+Mentors: Diego R. Faria, Aditya Aggarwal
 
 1. [First post](/web/gsoc/2020/posts/shubh_maheshwari/post01)
 
@@ -46,7 +46,7 @@ Mentors:
 
 Idea: Testing and comparison of alternative robotic simulators for Robocomp  
 
-Mentors: 
+Mentors: Pedro Núñez Trujillo, Juan Carlos García
 
 1. [First post](/web/gsoc/2020/posts/rishi_gondkar/post01)
 
@@ -54,7 +54,7 @@ Mentors:
 
 Idea: Integration of an emotion recognition component in RoboComp  
 
-Mentors: 
+Mentors: Luis J. Manso, Daniel Rodriguez Criado, Diego R. Faria
 
 1. [First post](/web/gsoc/2020/posts/palash_agarwal/post01)
 
@@ -62,7 +62,7 @@ Mentors:
 
 Idea: Python3 bindings for InnerModel Library  
 
-Mentors: 
+Mentors: Luis J. Manso, Esteban Martinena, Ramon Cintas
 
 1. [First post](/web/gsoc/2020/posts/akash_kumar_singh/post01)
 
@@ -70,7 +70,7 @@ Mentors:
 
 Idea: Robocomp GUI development  
 
-Mentors: 
+Mentors: Araceli Vega Magro, Pedro Núñez Trujillo, Ramon Cintas
 
 1. [First post](/web/gsoc/2020/posts/rahul_katiyar/post01)
 
@@ -79,7 +79,7 @@ Mentors:
 
 Idea: Software agent for estimating occupancy in medium and large buildings using RGB cameras  
 
-Mentors: 
+Mentors: Pedro Núñez Trujillo, Sergio Barroso Ramírez, Juan Carlos García
 
 1. [First post](/web/gsoc/2020/posts/nivedita_rufus/post01)
 
@@ -88,7 +88,7 @@ Mentors:
 
 Idea: Syntax-error highlighter for LearnBlock  
 
-Mentors: 
+Mentors: Ivan Barbecho Delgado, Pilar Bachiller, Luis V. Calderita
 
 1. [First post](/web/gsoc/2020/posts/jose_miguel_sanchez/post01)
 
