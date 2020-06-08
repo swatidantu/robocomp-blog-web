@@ -1,6 +1,6 @@
 # GSoC'20 RoboComp project: NAME OF THE PROJECT
  
-DATE
+8th June 2020
  
 ## About me
  
