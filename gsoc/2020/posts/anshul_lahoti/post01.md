@@ -11,9 +11,7 @@ I am Anshul Lahoti. I am a fourth year undergraduate pursuing B.Tech and MS by r
 
 Since the evolution of machines, there has been a need to make their interaction with humans user-friendly. A number of modes of communication have been considered for this purpose. Speech, being the natural mode of communication among humans, is a lucrative option to make the Human-Robot Interaction (HRI) as free as possible. Hence, in this project I will be using the current Speech Recognition technologies (deep speech techniques and libraries) that can be used in the RoboComp framework. The incorporation of speech recognition would mean that the spoken utterances of a person would be converted to text for the
 understanding of the robot.
-
 Automatic Speech Recongiton component develops in this project will be able to acheive following objectives-
-
 1. It will transcribe speech to text with high accuracy.
 2. It will provide Human-Robot Interaction.
 
