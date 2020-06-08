@@ -4,7 +4,7 @@
  
 ## About me
  
-My name is Rishabh Baghel, I am an undergraduate student at the Indian Institute of Information Technology Guwahati, India. I am working with RoboComp as a part of GSoC'20 on the project which uses machine learning techniques such a graph neural networks and convolutional neural networks
+My name is Rishabh Baghel, I am an undergraduate student at the Indian Institute of Information Technology Guwahati, India. I am working with RoboComp as a part of GSoC'20 on the project which uses machine learning techniques such a graph neural networks and convolutional neural networks.
 
 ## About the Project
 
