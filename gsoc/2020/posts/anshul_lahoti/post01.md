@@ -1,4 +1,4 @@
-# GSoC'20 RoboComp project: NAME OF THE PROJECT
+# GSoC'20 RoboComp project: An Automatic Speech Recognition Component for Robocomp
  
 8th June 2020
  
