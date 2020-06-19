@@ -25,7 +25,7 @@ middle), but the resulting code is portable among a variety of robots!
 My goal with this project is to fix one critical flaw it has right now: lack
 of proper error reporting. In learning tools, it is crucial to have useful
 guidance through error resolution, since the target user usually lacks the
-intuition or expert that an experience developer has. The environment should
+intuition or experience that an expert developer has. The environment should
 not only point to the place where it found a problem, but also provide some
 tips which make the solution clear and explain why it is required. Then, the
 user has not only solved their problem but has also learned why the
