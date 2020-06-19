@@ -25,11 +25,11 @@ middle), but the resulting code is portable among a variety of robots!
 My goal with this project is to fix one critical flaw it has right now: lack
 of proper error reporting. In learning tools, it is crucial to have useful
 guidance through error resolution, since the target user usually lacks the
-intuition or experience that an experience developer has. The environment
-should not only point to the place where it found a problem, but also provide
-some tips which make the solution clear and explin why it is required. Then,
-the user has not only solver their problem but has also learned why the
-previous answer was incorrect and how to fix it in the future.
+intuition or expert that an experience developer has. The environment should
+not only point to the place where it found a problem, but also provide some
+tips which make the solution clear and explain why it is required. Then, the
+user has not only solved their problem but has also learned why the
+previous solution was incorrect and how to fix it in the future.
 
 I plan to implement a core error handling mechanism, not tied to any
 representation but to an internal tree-like mirror of the code, which allows
