@@ -1,6 +1,6 @@
 # GSoC'20 RoboComp DNN’s for precise manipulation of household objects
  
-DATE : June 1, 2020
+_DATE : June 1, 2020_
  
 ## About me
  
