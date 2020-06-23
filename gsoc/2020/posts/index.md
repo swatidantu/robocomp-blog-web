@@ -14,7 +14,8 @@ Idea: DNN’s for precise manipulation of household objects
 
 Mentors: Pablo Bustos, Marco Antonio
 
-1. [First post](/web/gsoc/2020/posts/mohamed_shawky/post01)
+1. [Introduction](/web/gsoc/2020/posts/mohamed_shawky/post01)
+2. [Complete work pipeline](/web/gsoc/2020/posts/mohamed_shawky/post02)
 
 ## Rishabh Baghel
 
