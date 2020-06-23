@@ -26,13 +26,14 @@ Mentors: Daniel Rodriguez Criado, Pilar Bachiller, Ronit Jorvekar
 1. [First post](/web/gsoc/2020/posts/rishabh_baghel/post01)
 
 
-## Kanav
+## Kanav Gupta
 
 Idea: Hand Gesture Recognition Component  
 
 Mentors: Francisco Andrés, Aditya Aggarwal
 
 1. [First post](/web/gsoc/2020/posts/kanav/post01)
+2. [Component Structure of Project](/web/gsoc/2020/posts/kanav/ComponentStructure)
 
 
 ## Shubh Maheshwari
