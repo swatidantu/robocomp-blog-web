@@ -14,7 +14,8 @@ Idea: DNN’s for precise manipulation of household objects
 
 Mentors: Pablo Bustos, Marco Antonio
 
-1. [First post](/web/gsoc/2020/posts/mohamed_shawky/post01)
+1. [Introduction](/web/gsoc/2020/posts/mohamed_shawky/post01)
+2. [Complete work pipeline](/web/gsoc/2020/posts/mohamed_shawky/post02)
 
 ## Rishabh Baghel
 
@@ -25,14 +26,15 @@ Mentors: Daniel Rodriguez Criado, Pilar Bachiller, Ronit Jorvekar
 1. [First post](/web/gsoc/2020/posts/rishabh_baghel/post01)
 
 
-## Kanav
+## Kanav Gupta
 
 Idea: Hand Gesture Recognition Component  
 
 Mentors: Francisco Andrés, Aditya Aggarwal
 
 1. [First post](/web/gsoc/2020/posts/kanav/post01)
-
+2. [Component Structure of Project](/web/gsoc/2020/posts/kanav/ComponentStructure)
+3. [Hand Detection in image feed](/web/gsoc/2020/posts/kanav/HandDetection)
 
 ## Shubh Maheshwari
 
