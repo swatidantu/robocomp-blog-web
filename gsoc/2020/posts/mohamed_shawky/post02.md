@@ -2,8 +2,8 @@
 
 _DATE : June 22, 2020_
 
-In this post, we share the recent updates of our work, along with some results.
-Also, we define the detailed strategy and work pipeline.
+In this post, I share the recent updates of our work, along with some results.
+Also, I define the detailed strategy and work pipeline.
 
 ## Workflow
 
@@ -111,3 +111,5 @@ Commit : https://github.com/robocomp/grasping/commit/3d629976f5c3fba4f66650ce7b1
 Complete data collection and labeling code for data augmentation.
 
 Commit : https://github.com/robocomp/grasping/commit/648ebf0d77d6f3f4b34ad99ff9fab929eebb1c2e
+
+__Mohamed Shawky__
