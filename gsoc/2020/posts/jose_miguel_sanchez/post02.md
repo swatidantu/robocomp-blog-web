@@ -86,3 +86,4 @@ equivalent, but now errors could be detected and located!
 I showed these results with my mentors, and made a PR which got merged
 afterwards.
 
+![example type error](images/example_type_error.jpeg)
