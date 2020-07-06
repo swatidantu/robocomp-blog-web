@@ -1,7 +1,7 @@
 # Speedup in graph creation, separation of GNNs and CNNs and support for DGL and PG
 
 ## Update about the work:
-We had an issue that the graph creation took a long time when training the model. Also we needed to separate the code such that we can have different files for GNNs and CNNs. 
+We had an issue that the graph creation took a long time when training the model, also we needed to separate the code such that we can have different files for GNNs and CNNs, along with that a better support for both DGL and PG.
 
 ## Speedup in graph creation:
 
