@@ -17,6 +17,7 @@ Mentors: Pablo Bustos, Marco Antonio
 1. [Introduction](/web/gsoc/2020/posts/mohamed_shawky/post01)
 2. [Complete Work Pipeline](/web/gsoc/2020/posts/mohamed_shawky/post02)
 3. [Component Structure and Pose Estimation DNN Improvements](/web/gsoc/2020/posts/mohamed_shawky/post03)
+4. [Final Pose Estimation Settings](/web/gsoc/2020/posts/mohamed_shawky/post04)
 
 ## Rishabh Baghel
 
