@@ -22,8 +22,11 @@ CSRNet and SS-DCNet are suited to cases when we have footage that is from within
 ![](images/SSDCNet.gif)  
 I had also encountered some problems with the accuracy of the count values given by the SS-DCNet based counter which sometimes gave unrealistic jumps in a continuous video feed, I had resorted to two major methods which proved to improve the performance of the count values return with the SS-DCNet model namely,  
 
-1. 1D Kalman Filter based approach
+1. 1D Kalman Filter based approach  
+<!-- [](images/demo.gif)   -->
+{{< figure src="/images/KalmanFilter.png" title="Effect of Kalman Filter" >}} 
+
 2. A moving average based approach
 
-I have modified the code so that the user can specify the filtering method wants according to the setting in which want it to work.
+I have modified the code so that the user can specify the filtering method wants according to the setting in which want it to work. This just a brief summary of my work during the first phase. More details can be found [here](https://niveditarufus.github.io/).  
 In the next phase, I will be working with getting the people-count from multiple views.
