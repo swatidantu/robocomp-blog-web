@@ -24,8 +24,7 @@ I had also encountered some problems with the accuracy of the count values given
 
 1. 1D Kalman Filter based approach  
 ![](images/KalmanFilter.png)  
-
-2. A moving average based approach
+2. A moving average based approach  
 ![](images/moving_average.png)  
 
 
