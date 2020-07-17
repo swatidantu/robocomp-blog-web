@@ -9,7 +9,7 @@ This is possible when we have cameras at the entrances to the building.
 This is possible when the cameras are placed facing the inside of the room, And the number of people inside the building is given by the sum of the count in all rooms of the building.  
 
 ### Implementation of the first approach:
-This implementation using the MobileNet SSD model was done to track and count people entering and exiting the building with cameras placed at the entrances. You can find the code[here](https://github.com/niveditarufus/People_counter).  
+This implementation using the MobileNet SSD model was done to track and count people entering and exiting the building with cameras placed at the entrances. You can find the code [here](https://github.com/niveditarufus/People_counter).  
 ![An implementation of tracking and counting people entering and exiting](images/demo.gif)  
 
 ### Implementation of the second approach:
