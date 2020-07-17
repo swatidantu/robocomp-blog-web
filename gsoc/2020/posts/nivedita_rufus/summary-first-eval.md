@@ -10,7 +10,7 @@ This is possible when the cameras are placed facing the inside of the room, And 
 
 ### Implementation of the first approach:
 This implementation using the MobileNet SSD model was done to track and count people entering and exiting the building with cameras placed at the entrances. You can find the code [here](https://github.com/niveditarufus/People_counter).  
-![An implementation of tracking and counting people entering and exiting](images/demo.gif)  
+![](images/demo.gif)  
 
 ### Implementation of the second approach:
 For this approach, I had a choice between: 
@@ -19,7 +19,7 @@ For this approach, I had a choice between:
 3. [SS-DCNet](https://arxiv.org/pdf/2001.01886.pdf)  
 
 CSRNet and SS-DCNet are suited to cases when we have footage that is from within the room by keeping a running count of the number of people in the room frame-by-frame. Both these networks work well for densely crowded places. On analysis, the SS-DCNet algorithm seems to work better based on factors like MAE, etc. I had implemented a People Counter based on the SS-DCNet algorithm [here](https://github.com/niveditarufus/PeopleCounter-SSDCNet).  
-
+![](images/SSDCNet.gif)  
 I had also encountered some problems with the accuracy of the count values given by the SS-DCNet based counter which sometimes gave unrealistic jumps in a continuous video feed, I had resorted to two major methods which proved to improve the performance of the count values return with the SS-DCNet model namely,  
 
 1. 1D Kalman Filter based approach
