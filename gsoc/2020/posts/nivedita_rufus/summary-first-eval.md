@@ -23,10 +23,10 @@ CSRNet and SS-DCNet are suited to cases when we have footage that is from within
 I had also encountered some problems with the accuracy of the count values given by the SS-DCNet based counter which sometimes gave unrealistic jumps in a continuous video feed, I had resorted to two major methods which proved to improve the performance of the count values return with the SS-DCNet model namely,  
 
 1. 1D Kalman Filter based approach  
-![](/images/KalmanFilter.png)  
+![](images/KalmanFilter.png)  
 
 2. A moving average based approach
-![](/images/moving_average.png)  
+![](images/moving_average.png)  
 
 
 I have modified the code so that the user can specify the filtering method wants according to the setting in which want it to work. This just a brief summary of my work during the first phase. More details can be found [here](https://niveditarufus.github.io/).  
