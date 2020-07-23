@@ -96,3 +96,4 @@ Mentors: Ivan Barbecho Delgado, Pilar Bachiller, Luis V. Calderita
 
 1. [First post](/web/gsoc/2020/posts/jose_miguel_sanchez/post01)
 2. [First coding period](/web/gsoc/2020/posts/jose_miguel_sanchez/post02)
+3. [Planning and discussing prior to coding](/web/gsoc/2020/posts/jose_miguel_sanchez/post03)
