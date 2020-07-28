@@ -13,7 +13,7 @@ After solving the issues with graph generation, we moved to build a tool with an
 ## Working of the tool:
 The Controller component takes in the data from the user input (Joystick) and the simulator. The tool uses subscribe/publish to communicate between different components. When the controller receives input from the joystick, it tells the simulator what to do. Some function of the controller are to move the robot, restarting the scenario, controlling the number of objects in a scene, e.t.c.
 
-The simulator is a GUI which shows a feed from the virtual camera in the scene, it simulates the scenario with the information available from the controller. It also publishes information to controller like co-ordinates of the different objects, relationships, interactions, velocities, orientation.
+The simulator instantiates the CoppeliaSim simulation, and handle robot's movement and regenerate scene on command from controller. It also publishes information to controller like co-ordinates of the different objects, relationships, interactions, velocities, orientation.
 
 The Joystick component takes in command from the user to make the robot move and publish it to the controller.
 
