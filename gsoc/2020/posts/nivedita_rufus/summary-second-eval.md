@@ -18,6 +18,6 @@ The next approach I had implemented was for multiple views from different perspe
 ![](images/cam2.jpg)  
 ![](images/cam3.jpg)
 ![](images/cam4.jpg)  
-This algorithm is implemented on the count values returned by the SS-DCNet Counter for each of the different perspective views to return the count value that forms the majority. If there is no clear majority, the element with the maximum count is returned and if all the elements are unique, the average of all count values is returned.  
+This algorithm is implemented on the count values returned by the SS-DCNet Counter for each of the different perspective views to return the count value that forms the majority. If there is no clear majority, the element with the maximum count is returned and if all the elements are unique, the average of all count values is returned. For more details refer to my [blog](https://niveditarufus.github.io/).  
 
 For the third phase, I will be working on integrating all my contributions till now as a working module into the RoboComp architecture.  
