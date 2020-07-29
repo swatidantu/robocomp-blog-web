@@ -13,7 +13,7 @@ Unlike many image stitching algorithms that are sensitive to the order of input 
 An example is hown below:  
 ![](images/stitchedVideo.gif)  
 
-The value og the count given from the stiched video is shown below: 
+The value of the count given from the stiched video is shown below: 
 ![](images/stitched.gif)  
 
 The next approach I had implemented was for multiple views from different perspectives where stitching cannot happen. I implemented the [Boyer-Moore Majority Vote algorithm](https://www.cs.utexas.edu/~moore/best-ideas/mjrty/) to return the count value from multiple views as shown below:  
@@ -22,7 +22,7 @@ The next approach I had implemented was for multiple views from different perspe
 ![](images/cam3.jpg)
 ![](images/cam4.jpg)  
 This algorithm is implemented on the count values returned by the SS-DCNet Counter for each of the different perspective views to return the count value that forms the majority. If there is no clear majority, the element with the maximum count is returned and if all the elements are unique, the average of all count values is returned. For more details refer to my [blog](https://niveditarufus.github.io/).  
-The example of the count value return through the given four perspective views is shown below:  
+The example of the count value return through the given four perspective views of 18 people is shown below:  
 ![](images/mv1.gif)  
 
 For the third phase, I will be working on integrating all my contributions until now as a working module into the RoboComp architecture.  
