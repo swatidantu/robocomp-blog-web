@@ -19,6 +19,7 @@ Mentors: Pablo Bustos, Marco Antonio
 3. [Component Structure and Pose Estimation DNN Improvements](/web/gsoc/2020/posts/mohamed_shawky/post03)
 4. [Final Pose Estimation Settings](/web/gsoc/2020/posts/mohamed_shawky/post04)
 5. [Pipeline Integration and First Grasping Demo](/web/gsoc/2020/posts/mohamed_shawky/post05)
+6. [Final Grasping Results and Integration with DSR](/web/gsoc/2020/posts/mohamed_shawky/post06)
 
 ## Rishabh Baghel
 
