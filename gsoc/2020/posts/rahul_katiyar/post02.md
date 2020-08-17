@@ -10,18 +10,18 @@ The Grahical User Interface is divided into subsection
 * Human-Robot interaction
 ***
 ### Activity Calender
-** Motive: **
+**Motive:**
 The Purpose to include this part in the GUI is to view and set event for the Robot. Using this we can instruct robot to perform specific task at specific time and location.
 
-** Requirement ** : This element require internet access, so make sure you have internet connectivity otherwise an error message will appear on terminal
+**Requirement** : This element require internet access, so make sure you have internet connectivity otherwise an error message will appear on terminal
 
 ```
 No internet connection detected
 Restart the application to to enable Activity Calendar
 ```
-It also require the client_secret.json which contains the api Key.
+It also require, the client_secret.json file which contains the api Key.
 
-** How This Element Works: **
+**How This Element Works:**
 To create a new activity select the date in the left side, and click on the new Activity button. This will popup a new dialog box
 
 ![](assets/activity_form.png)
@@ -30,7 +30,7 @@ Enter the details and click OK
 
 ``Note: The time specified here is in UTC``
 
-You can now view this event in the scrollBar.
+You can now view this event in the scrollBar.\
 To view all the event for particular day you can click on the View agenda. A Dialog box will popup which contain a table of all the event and their information.
 
 ![](assets/dailyActivity.png)
@@ -41,11 +41,11 @@ The event can also be added using Google Calendar using Browser
 ***
 
 ### Robot Navigation & control
-If u have started RCIS which contains omniRobot. We can use the buttons on the left side to move the robot. We can also use the GoTo section to position the robot at a particular coordinates and heading. <br/>
+If u have started RCIS which contains omniRobot. We can use the buttons on the left side to move the robot. We can also use the GoTo section to position the robot at a particular coordinates and heading. \
 There are two more buttons to view Laser & Camera (if robot has one).
 
 
-If you switch on the Keyboard control, you can use keyboard keys to navigate the robot.
+If you switch on the Keyboard control, you can use keyboard keys to navigate the robot.\
 w -> forward \
 s -> backward \
 a -> left \
