@@ -51,6 +51,11 @@ Idea: Human recognition (identification) using multi-modal perception system
 Mentors: Diego R. Faria, Aditya Aggarwal
 
 1. [First post](/web/gsoc/2020/posts/shubh_maheshwari/post01)
+2. [Second post](/web/gsoc/2020/posts/shubh_maheshwari/post02)
+3. [Third post](/web/gsoc/2020/posts/shubh_maheshwari/post03)
+4. [Fourth post](/web/gsoc/2020/posts/shubh_maheshwari/post04)
+5. [Fifth post](/web/gsoc/2020/posts/shubh_maheshwari/post05)
+6. [Sixth post](/web/gsoc/2020/posts/shubh_maheshwari/post06)
 
 ## Rishi Gondkar
 
