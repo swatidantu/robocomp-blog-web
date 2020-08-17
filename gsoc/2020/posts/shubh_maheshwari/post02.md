@@ -2,56 +2,68 @@
 
 11th June 2020
  
-## Current updates on the project
+### Benchmarking methods for face analysis 
+
+Facial analysis is used to automatically label an individualin by retrieving it's face features. It can be divided into 2 steps: 
+
+### Detection 
+
+In each frame of the video we need to find the bounding box for each person's face. To choose the technique to integrate, we compare their performance and computation time. 
+
+#### Top performers on [UTK](https://susanqq.github.io/UTKFace/) dataset
+  1. [Mt-CNN](https://github.com/ipazc/mtcnn) 
+  2. [Haar Cascade](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
+
+![Face Detection performance](./assets/facedetection_performance.png)
+
+![Face Detection time](./assets/facedetection_time.png)
+
+*Based on these results, we have choosen **Mt-cnn** as the face-detection model.* 
+
+
+
+### Recognition
+
+Face recognition is a method of identifying or verifying the identity of an individual using their face.
+
+#### Top performers on [LFW](http://vis-www.cs.umass.edu/lfw/) dataset
+
+1. [ArcFace](https://arxiv.org/pdf/1801.07698.pdf)
+```
+  2 versions of ArcFace are benchmarked. 
+  - Using Resnet-100 as the backbone
+  - Using MobileFacenet as the backbone 
+```
+2. [CosFace](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1797.pdf)  
+3. [Face-net](https://arxiv.org/abs/1503.03832)   
+
+![Face Recognition performance](./assets/performance_face.png)
+    
+![Face Recognition time](./assets/time_face.png)
+
+
+    
+*Based on these results, we have choosen **Arcface** as the face-recognition model.* 
+    
  
-We are mainly focusing on Face recognition and Gait recognition for multimodal human recognition. To choose which method works best for a particular modality we are going to focus on their generalizability. 
+[Back To The Top](#table-of-contents)
 
-When  the  distribution  of  training  data  and  testing  data are  the  same,  the  face  matching  methods  mentioned  aboveare  effective.  However,  there  is  always  a  distribution  changeor  domain  shift  between  two  domains  that  can  degrade  the performance. Hence we require transfer learning.
-  
-For each method, I will train it on a large dataset and evaluate its result on a smaller dataset. Moreover I will also use transfer learning to see how methods adapt to new scenarious. 
+---
 
-Overall by conducting these experiments we should find which methods can be used for the multi-modal component. 
+## Current updates on the project
+Please follow the following [link](https://colab.research.google.com/drive/1lgx0LabSedQi_3dUnqEgSdRJ3ru95IPq#scrollTo=385kRQXO99h_) for current evaluation of different methods of face recognition and gait recognition. 
 
+---
 
-### Face Recognition 
+#### References
 
-I followed [this](!https://arxiv.org/pdf/1804.06655.pdf) survey paper to get insight of what needs to be done. Another [paper](!https://doi.org/10.1016/j.cviu.2019.102805) was also very helpful.  
+> [**Deep Face Recognition: A Survey**](https://arxiv.org/pdf/1804.06655.pdf),            
+> Mei Wang, Weihong Deng,       
+> *arXiv technical report ([arXiv 1804.06655](https://arxiv.org/pdf/1804.06655.pdf))*
 
-1. Large dataset to train face recognition models:
-  1. Megaface dataset => Large in terms of number of subjects, which is similiar to our case 
-  2. Close test set / subject independant protocol  => (subjects in test set are not seen during training & a gallary must be created of the test images)
-  3. LFW dataset for testing transfer learning  
+> [**A survey on deep learning based face recognition**](https://doi.org/10.1016/j.cviu.2019.102805),            
+> Guodong Guo, Na Zhang,       
+> Computer Vision and Image Understanding ([DOI 10.1016](https://doi.org/10.1016/j.cviu.2019.102805))*
 
-2. Methods: 
-
-  1. Arcface (1st) => Found code https://github.com/deepinsight/insightface#pretrained-models, https://github.com/qidiso/mobilefacenet-V2
-  2. Cosface (2nd)  => https://github.com/yule-li/CosFace
-  3. Mobifacenet (Fast for mobile devices) => Found Code, https://github.com/qidiso/mobilefacenet-V2
-  4. Facenet (Previous SOTA) => Found code 
-  5. Fisher-face (Old method)  => Found Code 
-  6. GCN based methods  
-
-3. Metrics to compute: 
-  1. TAR 
-  2. FRR
-  3. Computation Time 
-
-4. Experiments: 
-  1. Results on Megaface 
-  2. Results of transfer learning 
-    1. Without fine tuning 
-    2. With fine tuning  
-  3. Test the the top 3 on real life video using face-recognition library for detection & alignment.  
-
-### Silhoute Based Gait Analysis 
-
-1. Gaiset: 
-  1. Run gaitset on CASIA-B
-
-2. GEI
-  1. https://github.com/nikitaomare/Gait-Recognition
-
-
-
-
+---
 Shubh Maheshwari
