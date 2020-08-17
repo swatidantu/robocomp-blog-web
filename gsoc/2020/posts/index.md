@@ -42,6 +42,7 @@ Mentors: Francisco Andrés, Aditya Aggarwal
 2. [Component Structure of Project](/web/gsoc/2020/posts/kanav/ComponentStructure)
 3. [Hand Detection in image feed](/web/gsoc/2020/posts/kanav/HandDetection)
 4. [Hand Keypoint Detection](/web/gsoc/2020/posts/kanav/HandKeypoint)
+5. [Dataset Creation and other updates](/web/gsoc/2020/posts/kanav/DatasetCreation)
 
 ## Shubh Maheshwari
 
