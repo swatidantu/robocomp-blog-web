@@ -40,7 +40,12 @@ Idea: Human recognition (identification) using multi-modal perception system
 
 Mentors: Diego R. Faria, Aditya Aggarwal
 
-1. [First post](/web/gsoc/2020/posts/shubh_maheshwari/post01)
+1. [First post](/web/gsoc/2020/posts/shubh_maheshwari/firstpost)
+2. [Face recognition](/web/gsoc/2020/posts/shubh_maheshwari/faceRecognition)
+3. [Gait recognition](/web/gsoc/2020/posts/shubh_maheshwari/gaitRecognition)
+4. [Multi person tracker](/web/gsoc/2020/posts/shubh_maheshwari/multiPersonTracker)
+5. [Pipeline/Component Design](/web/gsoc/2020/posts/shubh_maheshwari/pipeline)
+6. [Demo GUI](/web/gsoc/2020/posts/shubh_maheshwari/demoGUI)
 
 ## Rishi Gondkar
 
