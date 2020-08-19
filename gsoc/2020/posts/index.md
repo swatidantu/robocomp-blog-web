@@ -17,6 +17,9 @@ Mentors: Pablo Bustos, Marco Antonio
 1. [Introduction](/web/gsoc/2020/posts/mohamed_shawky/post01)
 2. [Complete Work Pipeline](/web/gsoc/2020/posts/mohamed_shawky/post02)
 3. [Component Structure and Pose Estimation DNN Improvements](/web/gsoc/2020/posts/mohamed_shawky/post03)
+4. [Final Pose Estimation Settings](/web/gsoc/2020/posts/mohamed_shawky/post04)
+5. [Pipeline Integration and First Grasping Demo](/web/gsoc/2020/posts/mohamed_shawky/post05)
+6. [Final Grasping Results and Integration with DSR](/web/gsoc/2020/posts/mohamed_shawky/post06)
 
 ## Rishabh Baghel
 
@@ -25,6 +28,8 @@ Idea: Efficient acceptable social behaviour using machine learning techniques
 Mentors: Daniel Rodriguez Criado, Pilar Bachiller, Ronit Jorvekar
 
 1. [First post](/web/gsoc/2020/posts/rishabh_baghel/post01)
+2. [Second post](/web/gsoc/2020/posts/rishabh_baghel/post02)
+3. [Third post](/web/gsoc/2020/posts/rishabh_baghel/post03)
 
 
 ## Kanav Gupta
@@ -36,6 +41,8 @@ Mentors: Francisco Andrés, Aditya Aggarwal
 1. [First post](/web/gsoc/2020/posts/kanav/post01)
 2. [Component Structure of Project](/web/gsoc/2020/posts/kanav/ComponentStructure)
 3. [Hand Detection in image feed](/web/gsoc/2020/posts/kanav/HandDetection)
+4. [Hand Keypoint Detection](/web/gsoc/2020/posts/kanav/HandKeypoint)
+5. [Dataset Creation and other updates](/web/gsoc/2020/posts/kanav/DatasetCreation)
 
 ## Shubh Maheshwari
 
@@ -43,7 +50,12 @@ Idea: Human recognition (identification) using multi-modal perception system
 
 Mentors: Diego R. Faria, Aditya Aggarwal
 
-1. [First post](/web/gsoc/2020/posts/shubh_maheshwari/post01)
+1. [First post](/web/gsoc/2020/posts/shubh_maheshwari/firstpost)
+2. [Face recognition](/web/gsoc/2020/posts/shubh_maheshwari/faceRecognition)
+3. [Gait recognition](/web/gsoc/2020/posts/shubh_maheshwari/gaitRecognition)
+4. [Multi person tracker](/web/gsoc/2020/posts/shubh_maheshwari/multiPersonTracker)
+5. [Pipeline/Component Design](/web/gsoc/2020/posts/shubh_maheshwari/pipeline)
+6. [Demo GUI](/web/gsoc/2020/posts/shubh_maheshwari/demoGUI)
 
 ## Rishi Gondkar
 
@@ -60,6 +72,8 @@ Idea: Integration of an emotion recognition component in RoboComp
 Mentors: Luis J. Manso, Daniel Rodriguez Criado, Diego R. Faria
 
 1. [First post](/web/gsoc/2020/posts/palash_agarwal/post01)
+2. [Hand Crafted Features](/web/gsoc/2020/posts/palash_agarwal/HandCraftedFeatures)
+3. [Face Detection](/web/gsoc/2020/posts/palash_agarwal/FaceDetection)
 
 ## Akash Kumar Singh
 
@@ -95,3 +109,4 @@ Mentors: Ivan Barbecho Delgado, Pilar Bachiller, Luis V. Calderita
 
 1. [First post](/web/gsoc/2020/posts/jose_miguel_sanchez/post01)
 2. [First coding period](/web/gsoc/2020/posts/jose_miguel_sanchez/post02)
+3. [Planning and discussing prior to coding](/web/gsoc/2020/posts/jose_miguel_sanchez/post03)
