@@ -82,6 +82,10 @@ Idea: Python3 bindings for InnerModel Library
 Mentors: Luis J. Manso, Esteban Martinena, Ramon Cintas
 
 1. [First post](/web/gsoc/2020/posts/akash_kumar_singh/post01)
+2. [Porting InnerModel APIs from C++ to Python](/web/gsoc/2020/posts/akash_kumar_singh/post02)
+3. [InnerModel and PyBullet](/web/gsoc/2020/posts/akash_kumar_singh/post03)
+4. [Adding ROS2 support in robocompdsl (Design)](/web/gsoc/2020/posts/akash_kumar_singh/post04)
+5. [Design Details (robocompdsl)](/web/gsoc/2020/posts/akash_kumar_singh/post05)
 
 ## Rahul Katiyar
 
