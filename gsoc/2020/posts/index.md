@@ -20,6 +20,7 @@ Mentors: Pablo Bustos, Marco Antonio
 4. [Final Pose Estimation Settings](/web/gsoc/2020/posts/mohamed_shawky/post04)
 5. [Pipeline Integration and First Grasping Demo](/web/gsoc/2020/posts/mohamed_shawky/post05)
 6. [Final Grasping Results and Integration with DSR](/web/gsoc/2020/posts/mohamed_shawky/post06)
+7. [Work Done with DSR Integration](/web/gsoc/2020/posts/mohamed_shawky/post07)
 
 ## Rishabh Baghel
 
