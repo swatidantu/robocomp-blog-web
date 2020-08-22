@@ -1,6 +1,6 @@
 # GSoC'20
 
-## Anshul Lahoti	
+## Anshul Lahoti
 
 Idea: An Automatic Speech Recognition(ASR) Component for RoboComp  
 
@@ -94,7 +94,10 @@ Idea: Robocomp GUI development
 
 Mentors: Araceli Vega Magro, Pedro Núñez Trujillo, Ramon Cintas
 
-1. [First post](/web/gsoc/2020/posts/rahul_katiyar/post01)
+1. [Introduction](/web/gsoc/2020/posts/rahul_katiyar/post01)
+2. [Human Observer Agent GUI](/web/gsoc/2020/posts/rahul_katiyar/post02)
+3. [Integrating Google Calendar with GUI](/web/gsoc/2020/posts/rahul_katiyar/post03)
+4. [Human Scene Simulation](/web/gsoc/2020/posts/rahul_katiyar/post04)
 
 
 ## Nivedita Rufus
