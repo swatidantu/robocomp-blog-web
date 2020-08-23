@@ -44,6 +44,7 @@ Mentors: Francisco Andrés, Aditya Aggarwal
 3. [Hand Detection in image feed](/web/gsoc/2020/posts/kanav/HandDetection)
 4. [Hand Keypoint Detection](/web/gsoc/2020/posts/kanav/HandKeypoint)
 5. [Dataset Creation and other updates](/web/gsoc/2020/posts/kanav/DatasetCreation)
+6. [Gesture Recognition and Future Work](/web/gsoc/2020/posts/kanav/GestureRecognition)
 
 ## Shubh Maheshwari
 
