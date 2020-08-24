@@ -8,7 +8,7 @@ The config file requires 6 parameters to be initialised:
 5. **stitch:** Set this to true if there are multiple video feeds and you want the count values to be obtained post stitching the videos together. setting this to false will assume majority voting.
 6. **video:** Path/URL of videos. You can set this None if you want to start a webcam stream.  
 The structure of the code follows the Finite State machine style which can be easily understood with the following diagram:  
-{{< figure src="/images/fsm.png" title="State Transition diagram" >}}  
+![]/images/fsm.png  
 This style of programming ensures easy upgrades in the future without much rewriting of code. The new blocks can just be plugged into the existing modules. The final result of the People counter working from the RoboComp architecture is given below(Image Source: [SALSA dataset](https://tev.fbk.eu/salsa)).  
-<figure src="/images/counting.gif" title=" RoboComp People Counter with SS-DCNet" >  
+![]/images/counting.gif  
 I have compiled all my contributions in this branch of the [Human-Detection](https://github.com/niveditarufus/human-detection/tree/gsoc) repository and made a [pull request](https://github.com/robocomp/human-detection/pull/6) for the same.  
