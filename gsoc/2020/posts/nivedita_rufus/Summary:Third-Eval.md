@@ -10,5 +10,5 @@ The config file requires 6 parameters to be initialised:
 The structure of the code follows the Finite State machine style which can be easily understood with the following diagram:  
 ![](images/fsm.png)  
 This style of programming ensures easy upgrades in the future without much rewriting of code. The new blocks can just be plugged into the existing modules. The final result of the People counter working from the RoboComp architecture is given below(Image Source: [SALSA dataset](https://tev.fbk.eu/salsa)).  
-![](/images/counting.gif)  
+![](images/counting.gif)  
 I have compiled all my contributions in this branch of the [Human-Detection](https://github.com/niveditarufus/human-detection/tree/gsoc) repository and made a [pull request](https://github.com/robocomp/human-detection/pull/6) for the same.  
