@@ -107,7 +107,10 @@ Idea: Software agent for estimating occupancy in medium and large buildings usin
 
 Mentors: Pedro Núñez Trujillo, Sergio Barroso Ramírez, Juan Carlos García
 
-1. [First post](/web/gsoc/2020/posts/nivedita_rufus/post01)
+1. [Indroduction](/web/gsoc/2020/posts/nivedita_rufus/Indroduction)
+2. [Summary:First-Eval](/web/gsoc/2020/posts/nivedita_rufus/Summary:First-Eval)  
+3. [Summary:Second-Eval](/web/gsoc/2020/posts/nivedita_rufus/Summary:Second-Eval)  
+4. [Summary:Third-Eval](/web/gsoc/2020/posts/nivedita_rufus/Summary:Third-Eval)
 
 
 ## José Miguel Sánchez
