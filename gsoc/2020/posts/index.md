@@ -21,6 +21,7 @@ Mentors: Pablo Bustos, Marco Antonio
 5. [Pipeline Integration and First Grasping Demo](/web/gsoc/2020/posts/mohamed_shawky/post05)
 6. [Final Grasping Results and Integration with DSR](/web/gsoc/2020/posts/mohamed_shawky/post06)
 7. [Work Done with DSR Integration](/web/gsoc/2020/posts/mohamed_shawky/post07)
+8. [Final Project Submission](/web/gsoc/2020/posts/mohamed_shawky/post08)
 
 ## Rishabh Baghel
 
