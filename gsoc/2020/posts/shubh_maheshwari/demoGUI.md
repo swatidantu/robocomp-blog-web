@@ -3,6 +3,12 @@
 14th August 2020
 
 ## Demo GUI
+
+### Demo Video
+---
+<a href="https://www.youtube.com/watch/Lt7oiOuUIJA" ><img width="560" height="315" src="./assets/poster.png" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"> </a>
+---
+
 Examples of using human identification module. 
 #### Adding person to database 
 <img src="./assets/database_add.gif" width="960" height="480"/>
