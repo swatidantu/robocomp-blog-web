@@ -29,10 +29,10 @@ Idea: Efficient acceptable social behaviour using machine learning techniques
 
 Mentors: Daniel Rodriguez Criado, Pilar Bachiller, Ronit Jorvekar
 
-1. [First post](/web/gsoc/2020/posts/rishabh_baghel/post01)
-2. [Second post](/web/gsoc/2020/posts/rishabh_baghel/post02)
-3. [Third post](/web/gsoc/2020/posts/rishabh_baghel/post03)
-3. [Fourth post](/web/gsoc/2020/posts/rishabh_baghel/post04)
+1. [Introduction about the project](/web/gsoc/2020/posts/rishabh_baghel/post01)
+2. [Speedup in graph creation, separation of GNNs and CNNs and support for DGL and PG](/web/gsoc/2020/posts/rishabh_baghel/post02)
+3. [A Toolkit to Generate Social Navigation Datasets](/web/gsoc/2020/posts/rishabh_baghel/post03)
+3. [A usecase for the toolkit](/web/gsoc/2020/posts/rishabh_baghel/post04)
 
 
 ## Kanav Gupta
