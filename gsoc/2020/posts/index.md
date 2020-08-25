@@ -101,7 +101,7 @@ Mentors: Araceli Vega Magro, Pedro Núñez Trujillo, Ramon Cintas
 2. [Human Observer Agent GUI](/web/gsoc/2020/posts/rahul_katiyar/post02)
 3. [Integrating Google Calendar with GUI](/web/gsoc/2020/posts/rahul_katiyar/post03)
 4. [Human Scene Simulation](/web/gsoc/2020/posts/rahul_katiyar/post04)
-
+5. [Automated tool to perform optimisation](/web/gsoc/2020/posts/rahul_katiyar/post05)
 
 ## Nivedita Rufus
 
