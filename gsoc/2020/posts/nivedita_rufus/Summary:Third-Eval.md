@@ -1,3 +1,5 @@
+## A Summary of my Contributions in the Third Phase    
+
 The last task left for me to do according to my proposal is the integration to the RoboComp architecture.    
 The ability to configure an application's properties externally provides a great deal of flexibility. One can use any combination of command-line options and configuration files to achieve the desired settings, all without having to modify source code of the application. Ice is a handy tool to use in this respect because at it run time automatically loads a configuration file during the creation of a property set, which is an instance of the `Ice::Properties` interface. So, on the same note, I have created a RoboComp Component [PeopleCounter_SSDCNET](https://github.com/niveditarufus/human-detection/tree/gsoc/components/peopleCounter_SSDCNet) which uses the SS-DCNet architecture for counting people in a video feed.  
 The config file requires 6 parameters to be initialised:  

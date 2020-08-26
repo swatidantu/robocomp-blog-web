@@ -8,7 +8,7 @@ I am Nivedita Rufus. I am an active researcher and very passionate about Robotic
 ## About the Project
 
 Humans and robots coexist together in today's world and to make these interactions more meaningful, one of the capacities that a robot must certainly perform is to understand the people it is interacting with human beings, and sometimes the knowledge of how many people the robot needs to interact with becomes crucial information.  
-This project aims to add upon the existing functionalities of the ‘People Counter’ in the ‘Human Detection Component’ allowing a more enriched interaction between robots and humans. This will allow the robot to make better decisions based on the density of people present in the area. This [blog](https://niveditarufus.github.io/) also goes into great detail of all work I have done so far in my GSoC journey.    
+This project aims to add upon the existing functionalities of the ‘People Counter’ in the ‘Human Detection Component’ allowing a more enriched interaction between robots and humans. This will allow the robot to make better decisions based on the density of people present in the area. This [blog](https://niveditarufus.github.io/) also goes into great detail of all work I have done in my GSoC journey.  
 
 * * *
 Nivedita Rufus
