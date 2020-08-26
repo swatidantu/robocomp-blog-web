@@ -21,6 +21,7 @@ Mentors: Pablo Bustos, Marco Antonio
 5. [Pipeline Integration and First Grasping Demo](/web/gsoc/2020/posts/mohamed_shawky/post05)
 6. [Final Grasping Results and Integration with DSR](/web/gsoc/2020/posts/mohamed_shawky/post06)
 7. [Work Done with DSR Integration](/web/gsoc/2020/posts/mohamed_shawky/post07)
+8. [Final Project Submission](/web/gsoc/2020/posts/mohamed_shawky/post08)
 
 ## Rishabh Baghel
 
@@ -28,9 +29,10 @@ Idea: Efficient acceptable social behaviour using machine learning techniques
 
 Mentors: Daniel Rodriguez Criado, Pilar Bachiller, Ronit Jorvekar
 
-1. [First post](/web/gsoc/2020/posts/rishabh_baghel/post01)
-2. [Second post](/web/gsoc/2020/posts/rishabh_baghel/post02)
-3. [Third post](/web/gsoc/2020/posts/rishabh_baghel/post03)
+1. [Introduction about the project](/web/gsoc/2020/posts/rishabh_baghel/post01)
+2. [Speedup in graph creation, separation of GNNs and CNNs and support for DGL and PG](/web/gsoc/2020/posts/rishabh_baghel/post02)
+3. [A Toolkit to Generate Social Navigation Datasets](/web/gsoc/2020/posts/rishabh_baghel/post03)
+3. [A usecase for the toolkit](/web/gsoc/2020/posts/rishabh_baghel/post04)
 
 
 ## Kanav Gupta
@@ -99,7 +101,7 @@ Mentors: Araceli Vega Magro, Pedro Núñez Trujillo, Ramon Cintas
 2. [Human Observer Agent GUI](/web/gsoc/2020/posts/rahul_katiyar/post02)
 3. [Integrating Google Calendar with GUI](/web/gsoc/2020/posts/rahul_katiyar/post03)
 4. [Human Scene Simulation](/web/gsoc/2020/posts/rahul_katiyar/post04)
-
+5. [Automated tool to perform optimisation](/web/gsoc/2020/posts/rahul_katiyar/post05)
 
 ## Nivedita Rufus
 
