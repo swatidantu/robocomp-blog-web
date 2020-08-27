@@ -80,6 +80,8 @@ Mentors: Luis J. Manso, Daniel Rodriguez Criado, Diego R. Faria
 1. [First post](/web/gsoc/2020/posts/palash_agarwal/post01)
 2. [Hand Crafted Features](/web/gsoc/2020/posts/palash_agarwal/HandCraftedFeatures)
 3. [Face Detection](/web/gsoc/2020/posts/palash_agarwal/FaceDetection)
+4. [Facial Emotion Recognition](/web/gsoc/2020/posts/palash_agarwal/FacialEmotionRecognition)
+5. [Graph Convolutional Networks for Emotion Recognition](/web/gsoc/2020/posts/palash_agarwal/GraphBasedNetworks)
 
 ## Akash Kumar Singh
 
