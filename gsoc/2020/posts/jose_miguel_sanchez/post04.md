@@ -25,11 +25,11 @@ highlighting.
 
 ### Before
 
-![](block-text-before.png)
+![](images/block-text-before.png)
 
 ### After
 
-![](block-text-after.png)
+![](images/block-text-after.png)
 
 ### Changes
 
@@ -55,11 +55,11 @@ other representations and the target of the main Notification class.
 
 ### Before
 
-![](visual-block-before.png)
+![](images/visual-block-before.png)
 
 ### After
 
-![](visual-block-after.png)
+![](images/visual-block-after.png)
 
 ### Changes
 
