@@ -18,8 +18,8 @@ thoughts. Let's review them!
 ### Changes
 
 A custom widget has been made, which is used whenever a piece of code has to
-be shown or edited. It features line numbering (with customizable offset) and
-highlighting.
+be shown or edited. It features line numbering (with customizable offset),
+highlighting and current line marking.
 
 ## Block-Text notification area
 
