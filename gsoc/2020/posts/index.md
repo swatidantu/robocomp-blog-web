@@ -69,6 +69,8 @@ Mentors: Pedro Núñez Trujillo, Juan Carlos García
 
 1. [First post](/web/gsoc/2020/posts/rishi_gondkar/post01)
 2. [conversationalAgent RASA part](/web/gsoc/2020/posts/rishi_gondkar/post02)
+3. [Usecases and Writing Mission Files](/web/gsoc/2020/posts/rishi_gondkar/post03)
+
 
 ## Palash Agarwal
 
