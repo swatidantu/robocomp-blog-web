@@ -13,7 +13,7 @@ All the task proposed for this project have been successfully completed.
 
 ## Example of Final simulated conversation
 
-![](assets/example.jpg)  
+![](assets/example.png)  
 
 ## Future Scope
 
