@@ -1,7 +1,8 @@
 # GUI for conversationalAgent
 
 ## Main GUI
-![](assets/main_ui.jpg)  
+![](assets/main_gui.jpg)  
+
 This is the Main UI of my component, it starts when you start the component.  
 Following are the functions of the buttons:
 * **Rasa Server:** This button is for starting or killing the Rasa Server. It is a color coded button, Red implies the server is offline and Green colour implies Server is active.
@@ -15,7 +16,8 @@ Following are the functions of the buttons:
 > Closing this Main window will call the Agent destructor, terminating the Agent.
 
 ## Interaction GUI
-![](assets/interaction_gui.jpg)
+![](assets/interaction_gui.jpg)  
+
 This UI becomes visible when my agent is activated by Mission Agent. It is similar to a Texting application which is used to send and recieve messages between the robot and the person.  
 Following are the functions of the buttons:
 * **Rasa Server:** This button is only for starting the Rasa Server. It is a color coded button, Red implies the server is offline and Green colour implies Server is active. The button can only start the Rasa server if its offline and not kill it.
@@ -29,7 +31,8 @@ Following are the functions of the buttons:
 * **Listen Button:** This button is to convert the last message recieved from the robot to Audio and play it.
 
 ## Rasa GUI
-![](assets/rasa_gui.jpg)
+![](assets/rasa_gui.jpg)  
+
 This UI becomes visible when You press the **Open Rasa Dialog Box** on the ***Main GUI***. It contains buttons to which execute a few useful Rasa commands making it easier for user while working with the chatbot.  
 Following are the functions of the buttons:
 * **Action Server:** This button is for starting or killing the Action Server. It is a color coded button, Red implies the server is offline and Green colour implies Server is active.
