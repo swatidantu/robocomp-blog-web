@@ -45,6 +45,7 @@ Following are the functions of the buttons:
 
 * **Rasa Visualize:** This button creates a visualization of all the story paths you have trained the model on. It creates a flowchart connecting the intents, actions and slots. A HTML file is generated which opens in the browser on you computer.
 
+***
 Rishi Gondkar
 
 
