@@ -68,8 +68,10 @@ Idea: Testing and comparison of alternative robotic simulators for Robocomp
 Mentors: Pedro Núñez Trujillo, Juan Carlos García
 
 1. [First post](/web/gsoc/2020/posts/rishi_gondkar/post01)
-2. [conversationalAgent RASA part](/web/gsoc/2020/posts/rishi_gondkar/post02)
+2. [conversationalAgent RASA](/web/gsoc/2020/posts/rishi_gondkar/post02)
 3. [Usecases and Writing Mission Files](/web/gsoc/2020/posts/rishi_gondkar/post03)
+4. [GUI for conversationalAgent](/web/gsoc/2020/posts/rishi_gondkar/post04)
+5. [Final Post](/web/gsoc/2020/posts/rishi_gondkar/post05)
 
 
 ## Palash Agarwal
