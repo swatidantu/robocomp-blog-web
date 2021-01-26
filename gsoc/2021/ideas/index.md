@@ -31,14 +31,6 @@ You are encouraged to go through these steps for a better understanding and foll
 
 For general questions about RoboComp please use: The [gitter chat](https://gitter.im/robocomp/robocomp).
 
-## TIPS
-If you want to contribute to Robocomp here are some tips:
-- Don't go in and ask what you can do. Only you know what skills you have and what you are interested in. Look at the [repositories](https://github.com/robocomp/) that depend on Robocomp. Look at their names and recent activity. Are you interested in any of thos with recent activity? Go in and take a look.
-- The [ideas](/web/gsoc/2020/ideas/) proposed in previous years for GSOC are a good source of inspiration and show you what the organization was interested in
-- The [posts](/web/gsoc/2020/posts/index) of other participants can give you an idea of the state in which some ideas were left in case you want to take them up again to make a proposal. 
-- You can also see last year's [mentors](/web/gsoc/2020/ideas/#complete-list-of-mentors). This may change this year, but if you combine it with a look at the [latest commits](https://github.com/robocomp/robocomp/commits/development) from the most active Robocomp repositories you will be able to see what is being worked on right now in the organization. You will know who to ask about specific topics.
-
-
 ## LIST of IDEAS for GSoC 2021
 
 ### 1\. ___
