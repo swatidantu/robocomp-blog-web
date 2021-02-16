@@ -11,7 +11,7 @@ The list of ideas for Google Summer of Code 2021. If you have any suggestion you
 * Please read all the information posted in this page before applying or asking.
 * Make sure you are familiar with the required skills for the idea.
 * Since several of the mentioned RoboComp tools and components are not explained here to keep this list short, we encourage everyone to check the RoboComp documentation linked below.
-* Mentors and backup [mentors](/web/gsoc/2020/ideas/#complete-list-of-mentors)  of the previous year are listed right after the idea explanation. All [mentors](/web/gsoc/2020/ideas/#complete-list-of-mentors) contact info is at the end of the page. Contact them directly for specific questions on the idea.
+* Mentors and backup [mentors](/web/gsoc/2021/ideas/#complete-list-of-mentors)  of the previous year are listed right after the idea explanation. All [mentors](/web/gsoc/2021/ideas/#complete-list-of-mentors) contact info is at the end of the page. Contact them directly for specific questions on the idea.
 
 
 Robocomp installation and tutorials: [https://github.com/robocomp/robocomp/tree/stable/doc#tutorials](https://github.com/robocomp/robocomp/tree/stable/doc#tutorials)
@@ -98,46 +98,30 @@ RoboComp Developer
 Researcher, Robolab,  
 University of Extremadura  
 
-### Luis V. Calderita
+[//]: <> (### Luis V. Calderita)
 
->**lvcalderita**AT**unex**DOT**es**  
-Researcher, RoboLab  
-University of Extremadura  
+[//]: <> (>**lvcalderita**AT**unex**DOT**es**  )
+[//]: <> (Researcher, RoboLab  )
+[//]: <> (University of Extremadura  )
 
-### Ramon Cintas
+[//]: <> (### Ramon Cintas)
 
->**rcintas**AT**unex**DOT**es**  
-Researcher, Robolab,  
-University of Extremadura  
+[//]: <> (>**rcintas**AT**unex**DOT**es**  )
+[//]: <> (Researcher, Robolab,  )
+[//]: <> (University of Extremadura  )
 
-### Diego R. Faria
+[//]: <> (### Juan Carlos García)
 
->**d.faria**AT**aston**DOT**ac**DOT**uk**  
-Lecturer in Computer Science,  
-School of Engineering & Applied Science, Aston University, UK  
+[//]: <> (>**juancarlos97gg**AT**gmail**DOT**com**   )
+[//]: <> (Researcher, Robolab,  )
+[//]: <> (University of Extremadura  )
 
-### Juan Carlos García
 
->**juancarlos97gg**AT**gmail**DOT**com**   
-Researcher, Robolab,  
-University of Extremadura  
+[//]: <> (### Marco A. Gutiérrez)
 
-### Sparsh Garg
+[//]: <> (>**marcog**AT**unex**DOT**es**  )
+[//]: <> (Robocomp Developer  )
 
->**ksparsh30**AT**gmail**DOT**com**  
-Robocomp Developer  
-International Institute of Information Technology, Hyderabad  
-
-### Marco A. Gutiérrez
-
->**marcog**AT**unex**DOT**es**  
-Robocomp Developer  
-
-### Ronit Jorvekar
-
->**ronitjorvekar007**AT**gmail**DOT**com**  
-RoboComp Developer  
-Pune Institute of Technology, Pune India  
 
 ### Esteban Martinena
 
@@ -145,29 +129,18 @@ Pune Institute of Technology, Pune India
 Researcher, Robolab  
 University of Extremadura  
 
-### Carlos Muñoz
+[//]: <> (### Carlos Muñoz)
 
->**cmzar97**AT**gmail**DOT**com**   
-Researcher, Robolab,  
-University of Extremadura  
+[//]: <> (>**cmzar97**AT**gmail**DOT**com**   )
+[//]: <> (Researcher, Robolab,  )
+[//]: <> (University of Extremadura  )
 
-### Francisco M. Rico
+### Mohamed Shawky
 
->**francisco**DOT**rico**AT**urjc**DOT**es**  
-Associate Professor,  
-University Rey Juan Carlos  
+>**mohamedshawky911**AT**gmail**DOT**com**  
+RoboComp Developer  
+Cairo University  
 
-### Daniel Rodríguez
-
->**190229717**AT**aston**DOT**ac**DOT**uk**  
-PhD Student,  
-School of Engineering & Applied Science, Aston University, UK  
-
-### Alberto Serrano
-
->**aserranokw**AT**alumnos**DOT**unex**DOT**es**   
-Researcher, Robolab,  
-University of Extremadura  
 
 ### Araceli Vega
 
