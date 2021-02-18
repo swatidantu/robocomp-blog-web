@@ -50,31 +50,6 @@ Python, Qt5, Natural Language Processing , C++
 
 ## Complete list of Mentors:
 
-### Pablo Bustos
-
->**pbustos**AT**unex**DOT**es**  
-Associate Professor, RoboLab,  
-University of Extremadura  
-
-### Pilar Bachiller
-
->**pilarb**AT**unex**DOT**es**  
-Associate Professor, RoboLab,  
-University of Extremadura  
-
-### Luis J. Manso
-
->**l.manso**AT**aston**DOT**ac**DOT**uk**  
-Lecturer in Computer Science,  
-School of Engineering & Applied Science, Aston University, UK  
-[http://ljmanso.com](http://ljmanso.com)
-
-### Pedro Núñez
-
->**pnuntru**AT**unex**DOT**es**  
-Associate Professor, RoboLab,  
-University of Extremadura  
-
 ### Aditya Aggarwal
 
 >**aditya.aggarwal**AT**students**DOT**iiit**DOT**ac**DOT**in**  
@@ -87,9 +62,15 @@ International Institute of Information Technology, Hyderabad
 Lecturer, Robolab  
 University of Extremadura  
 
+### Pilar Bachiller
+
+>**pilarb**AT**unex**DOT**es**  
+Associate Professor, RoboLab,  
+University of Extremadura  
+
 ### Ivan Barbecho
 
->**ibarbech**AT**alumnos**DOT**unex**DOT**es**   
+>**ibarbechodelgado**AT**gmail**DOT**com**   
 RoboComp Developer  
 
 ### Sergio Barroso
@@ -98,23 +79,23 @@ RoboComp Developer
 Researcher, Robolab,  
 University of Extremadura  
 
-[//]: <> (### Luis V. Calderita)
+### Pablo Bustos
 
-[//]: <> (>**lvcalderita**AT**unex**DOT**es**  )
-[//]: <> (Researcher, RoboLab  )
-[//]: <> (University of Extremadura  )
+>**pbustos**AT**unex**DOT**es**  
+Associate Professor, RoboLab,  
+University of Extremadura  
 
-[//]: <> (### Ramon Cintas)
+### Luis V. Calderita
 
-[//]: <> (>**rcintas**AT**unex**DOT**es**  )
-[//]: <> (Researcher, Robolab,  )
-[//]: <> (University of Extremadura  )
+>**lv**DOT**calderita**AT**unileon**DOT**es**  
+Lecturer in Computer Science,  
+University of León  
 
-[//]: <> (### Juan Carlos García)
+### Ramon Cintas
 
-[//]: <> (>**juancarlos97gg**AT**gmail**DOT**com**   )
-[//]: <> (Researcher, Robolab,  )
-[//]: <> (University of Extremadura  )
+>**rcintas**AT**unex**DOT**es**  
+Researcher, Robolab,  
+University of Extremadura  
 
 
 [//]: <> (### Marco A. Gutiérrez)
@@ -122,6 +103,24 @@ University of Extremadura
 [//]: <> (>**marcog**AT**unex**DOT**es**  )
 [//]: <> (Robocomp Developer  )
 
+### Rishi Gondkar
+
+>**rishigondkar**AT**gmail**DOT**com**  
+RoboComp Developer  
+Pune Institute of Computer Technology  
+
+### Kanav Gupta
+
+>**kanavgupta0711**AT**gmail**DOT**com**  
+RoboComp Developer  
+International Institute of Information Technology, Hyderabad  
+
+### Luis J. Manso
+
+>**l.manso**AT**aston**DOT**ac**DOT**uk**  
+Lecturer in Computer Science,  
+School of Engineering & Applied Science, Aston University, UK  
+[http://ljmanso.com](http://ljmanso.com)
 
 ### Esteban Martinena
 
@@ -129,18 +128,24 @@ University of Extremadura
 Researcher, Robolab  
 University of Extremadura  
 
-[//]: <> (### Carlos Muñoz)
 
-[//]: <> (>**cmzar97**AT**gmail**DOT**com**   )
-[//]: <> (Researcher, Robolab,  )
-[//]: <> (University of Extremadura  )
+### Pedro Núñez
+
+>**pnuntru**AT**unex**DOT**es**  
+Associate Professor, RoboLab,  
+University of Extremadura  
+
+### Nivedita Rufus
+
+>**nive**DOT**hardy**AT**gmail**DOT**com**  
+RoboComp Developer  
+IIIT-Hyderabad  
 
 ### Mohamed Shawky
 
 >**mohamedshawky911**AT**gmail**DOT**com**  
 RoboComp Developer  
 Cairo University  
-
 
 ### Araceli Vega
 
