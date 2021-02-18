@@ -6,7 +6,7 @@
 
 The list of ideas for Google Summer of Code 2021. If you have any suggestion you can tell us about it [here](https://gitter.im/robocomp/robocomp/robocomp-gsoc).
 
-* It is important to first familiarize with the [software]([https://github.com/robocomp/robocomp](https://github.com/robocomp/robocomp)).
+* It is important to first familiarize with the [software]((https://github.com/robocomp/robocomp).
 * Please, go through the available tutorials and direct your questions to the [gitter chat](https://gitter.im/robocomp/robocomp/robocomp-gsoc).
 * Please read all the information posted in this page before applying or asking.
 * Make sure you are familiar with the required skills for the idea.
