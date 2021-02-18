@@ -103,7 +103,7 @@ Pilar Bachiller, Luis Manso
  
 **Brief description**  
 SNGNN1D was developed for one of the GSoC’19 slots. It is a graph neural network model that can be used to assess user discomfort in robot navigation scenarios. Despite the estimates it produces are very accurate, using it for real navigation requires searching in the navigation state space and performing multiple queries (one per state explored). This is a relatively slow process that we want to accelerate. The goal of this project is to build on top of the previous implementation and develop a more lightweight solution.
-To test the algorithms we will be using SONATA (a sub-project of RoboComp that we use to generate randomised social navigation environments). You will find SNGNN1D’s and SONATA’s code in [github.com/robocomp/sngnn](github.com/robocomp/sngnn).
+To test the algorithms we will be using SONATA (a sub-project of RoboComp that we use to generate randomised social navigation environments). You will find SNGNN1D’s and SONATA’s code in [https://github.com/robocomp/sngnn](https://github.com/robocomp/sngnn).
 
 **Needed skills**  
 Python, RoboComp, previous experience with graph neural networks
