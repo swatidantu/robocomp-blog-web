@@ -89,7 +89,7 @@ Python, C++, RoboComp, Machine Learning, Computer Vision
 
 ### 5\. Webots integration with RoboComp
 **Mentors**  
-
+Pablo Bustos, Pedro Núñez
  
 **Brief description**  
 WeBots is a free open-source 3D robot simulator widely used in industry, education and research. We need to integrate WeBots to RoboComp and use it as an alternative to the currently-used simulator (CoppeliaSim), then explore pros and cons. The main reason behind this is that CoppeliaSim seems to introduce some compatibility issues due to Qt plugins. Consequently, we have to find workarounds for these issues. For this reason, we decided to explore other widely-used 3D robot simulators and decided on WeBots. The simulator interface is to be tested on different scenarios including different scenes and tasks.
@@ -135,7 +135,7 @@ RoboComp, Deep Learning, Python3, Qt5
 
 ### 9\. Revamping AGGLPlanner and AGM
 **Mentors**  
-Pedro Núñez, Luis Manso
+Luis Manso, Araceli Vega
  
 **Brief description**  
 AGM (Active Grammar-based modeling) is a core for robotic architectures capable of performing perception-aware planning (that means that, besides any regular planning-related task, you can use AGM to plan goals that involve detecting and modeling new objects). AGM relies on a visual language named AGGL (Active Graph Grammar Language) that is used to describe the possible changes that robots can make to their world models and the behavior that they should adopt if such changes are desired (see more information in http://ljmanso.com/agm/index.html).  
