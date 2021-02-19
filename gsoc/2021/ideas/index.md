@@ -176,13 +176,43 @@ Python3, Tensorflow/Pytorch, Machine Learning, Computer Vision
 
 ### 12\. Designing Python agents for CORTEX
 **Mentors**  
-Juan Carlos García, Pablo Bustos
+Juan Carlos García, Esteban Martinena
  
 **Brief description**  
 CORTEX is a cognitive architecture created on top of RoboComp that provides a set of agents with a shared data structure (G) removing the need for topics, interfaces and ports. All development has been done using C++. The goal of this project is to complete the tools to automatically create Python agents using RoboComp’s code generator and the pybind11 wrapping tool. This project has already started and the most complex part is completed with the G API already ported. The student will work with the developing team to complete the UI where G is displayed in several forms: a dynamic graph, a 2D view of the scene (Qt), a 3D view of the scene (Qt3D) and an editable tree (textual). We expect that with the release of Python agents, more people will become interested in CORTEX and a larger community involved in Cognitive Robotics will surely thrive.
 
 **Needed skills**  
 RoboComp, C++, Python, Qt5
+
+### 13\. Simultaneous path planning and following using Model Predictive Control (SPAF)
+**Mentors**  
+Pablo Bustos, Ramón Cintas
+ 
+**Brief description**  
+Model predictive control is an optima control technique that is being recently used in mobile robotics for path following avoiding dynamic obstacles. The main advantage of this approach is that given a model of the robot, an updated description of the navigable regions and a target, an optimization algorithm (Gurobi) can provide in real-time the control values to drive the robot, satisfying all its kino-dynamic constraints and other additional restrictions included to modulate its overall behavior. This project will improve the current effort on MPC navigation, extending our promising initial results in simple environments to more complex situations and robots. We will pursue one specific idea: to improve the current code and create a higher-level, more expressive layer to interact with the optimization algorithm. We want a simpler and more flexible way to express penalty costs and constraints for the optimizer. Furthermore, we want to express simple navigation conditions in a simple, intuitive way and let the code translate it into the language of the optimizer.
+
+**Needed skills**  
+RoboComp, C++, Basic optimization theory
+
+### 14\. Designing software patterns for CORTEX agents
+**Mentors**  
+Juan Carlos García, Pablo Bustos
+ 
+**Brief description**  
+CORTEX is a cognitive architecture created on top of RoboComp that provides a set of agents with a shared data structure (G) removing the need for topics, interfaces and ports. The initial tests and developments so far have been highly successful.  After some time working with this software we have detected several patterns to which coders turn to with certain frequency. These patterns mostly appear in the way the elements in G are accessed and in the reaction to changes in those elements. The graph G emits signals (Qt) when any of its nodes, edges or attributes have changed (edited by other agents), and developers usually fill slots (methods) provided in the generated code to attend those changes, in a way similar to a subscription callback. Also very frequently, coders use a thread-safe template structure to store a copy of the node in the calling thread, and process it in the main thread to compute a final change on some other node or attribute of G. This flow of information can be analyzed as a pattern, extended with new variants and constraints, and translated to the code generator. This way, instead of coding each time the same structures, the user could declare it in the component description file (CDSL) and get the code generated automatically and without errors.
+
+**Needed skills**  
+RoboComp, C++
+
+### 15\. Webots integration with RoboComp
+**Mentors**  
+Ronit Jorvekar, Daniel Rodríguez
+ 
+**Brief description**  
+WeBots is a free open-source 3D robot simulator widely used in industry, education and research. We need to integrate WeBots to RoboComp and use it as an alternative to the currently-used simulator (CoppeliaSim), then explore pros and cons. The main reason behind this is that CoppeliaSim seems to introduce some compatibility issues due to Qt plugins. Consequently, we have to find workarounds for these issues. For this reason, we decided to explore other widely-used 3D robot simulators and decided on WeBots. The simulator interface is to be tested on different scenarios including different scenes and tasks.
+
+**Needed skills**  
+Python, C++, RoboComp, Previous experience with robotics simulators
 
 ## Complete list of Mentors:
 
@@ -251,6 +281,12 @@ Pune Institute of Computer Technology
 RoboComp Developer  
 International Institute of Information Technology, Hyderabad  
 
+### Ronit Jorvekar
+
+>**ronitjorvekar007**AT**gmail**DOT**com**  
+RoboComp Developer  
+Pune Institute of Technology, Pune India  
+
 ### Luis J. Manso
 
 >**l.manso**AT**aston**DOT**ac**DOT**uk**  
@@ -264,12 +300,17 @@ School of Engineering & Applied Science, Aston University, UK
 Researcher, Robolab  
 University of Extremadura  
 
-
 ### Pedro Núñez
 
 >**pnuntru**AT**unex**DOT**es**  
 Associate Professor, RoboLab,  
 University of Extremadura  
+
+### Daniel Rodríguez
+
+>**190229717**AT**aston**DOT**ac**DOT**uk**  
+PhD Student,  
+School of Engineering & Applied Science, Aston University, UK  
 
 ### Nivedita Rufus
 
