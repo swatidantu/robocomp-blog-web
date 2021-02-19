@@ -14,8 +14,8 @@ _**RoboComp** is an open-source Robotics framework providing the tools to create
 
 
 # [Google Summer of Code 2021 Ideas](/web/gsoc/2021/ideas/)
-<span class="post-date">February 19th 2021</span> 
-We just made available the list of ideas for the Google Summer of Code 2021. If you are interested in any of the ideas listed, we encourage you to get involved in the project and apply if RoboComp gets accepted into GSoC'21.
+<span class="post-date">February 19th 2021</span>  
+We just made available the list of [ideas](/web/gsoc/2021/ideas/) for the Google Summer of Code 2021. If you are interested in any of the ideas listed, we encourage you to get involved in the project and apply if RoboComp gets accepted into GSoC'21.
 [Read more](/web/gsoc/2021/ideas/)
 
 # [Working on ideas for Google Summer of Code 2021!](/web/gsoc/2021/ideas)
