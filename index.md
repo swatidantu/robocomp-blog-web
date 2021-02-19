@@ -19,7 +19,7 @@ We just made available the list of [ideas](/web/gsoc/2021/ideas/) for the Google
 [Read more](/web/gsoc/2021/ideas/)
 
 # [Working on ideas for Google Summer of Code 2021!](/web/gsoc/2021/ideas)
-<span class="post-date">January 16th 2020</span>  
+<span class="post-date">January 16th 2021</span>  
 The list of [ideas](/web/gsoc/2021/ideas/) for the Google summer of Code 2021 will be available soon.
 
 [//]: <> (# [Working on ideas for Google Season of Docs 2019!](/web/gsod/2019/ideas))
