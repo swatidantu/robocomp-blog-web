@@ -87,17 +87,7 @@ For a humanoid robot, perception offers crucial knowledge for doing many tasks. 
 **Needed skills**  
 Python, C++, RoboComp, Machine Learning, Computer Vision
 
-### 5\. Webots integration with RoboComp
-**Mentors**  
-Pablo Bustos, Pedro Núñez
- 
-**Brief description**  
-WeBots is a free open-source 3D robot simulator widely used in industry, education and research. We need to integrate WeBots to RoboComp and use it as an alternative to the currently-used simulator (CoppeliaSim), then explore pros and cons. The main reason behind this is that CoppeliaSim seems to introduce some compatibility issues due to Qt plugins. Consequently, we have to find workarounds for these issues. For this reason, we decided to explore other widely-used 3D robot simulators and decided on WeBots. The simulator interface is to be tested on different scenarios including different scenes and tasks.
-
-**Needed skills**  
-Python, C++, RoboComp, Previous experience with robotics simulators
-
-### 6\. Improvement of a Social Navigation component
+### 5\. Improvement of a Social Navigation component
 **Mentors**  
 Pilar Bachiller, Luis Manso
  
@@ -108,7 +98,7 @@ To test the algorithms we will be using SONATA (a sub-project of RoboComp that w
 **Needed skills**  
 Python, RoboComp, previous experience with graph neural networks
 
-### 7\. Graphical-User Interface for affective human-robot interactions
+### 6\. Graphical-User Interface for affective human-robot interactions
 **Mentors**  
 Pedro Núñez, Rishi Gondkar
  
@@ -120,7 +110,7 @@ Weiss, Astrid & Bernhaupt, Regina & Dürnberger, Daniel & Altmaninger, M. & Buch
 **Needed skills**  
 RoboComp, Python3
 
-### 8\. An object detection component for LearnBlock
+### 7\. An object detection component for LearnBlock
 **Mentors**  
 Iván Barbecho, Francisco Andrés
  
@@ -133,9 +123,9 @@ LearnBlock is an educational programming tool developed for learning programming
 **Needed skills**  
 RoboComp, Deep Learning, Python3, Qt5
 
-### 9\. Revamping AGGLPlanner and AGM
+### 8\. Revamping AGGLPlanner and AGM
 **Mentors**  
-Luis Manso, Araceli Vega
+Luis Manso, Pedro Núñez
  
 **Brief description**  
 AGM (Active Grammar-based modeling) is a core for robotic architectures capable of performing perception-aware planning (that means that, besides any regular planning-related task, you can use AGM to plan goals that involve detecting and modeling new objects). AGM relies on a visual language named AGGL (Active Graph Grammar Language) that is used to describe the possible changes that robots can make to their world models and the behavior that they should adopt if such changes are desired (see more information in http://ljmanso.com/agm/index.html).  
@@ -147,7 +137,7 @@ The first goal of this project is to migrate AGM and AGMPlanner to python 3. Thi
 **Needed skills**  
 Python3, Qt5
 
-### 10\. Software agent for traffic and pedestrian traffic monitoring in outdoor environments using rgb cameras
+### 9\. Software agent for traffic and pedestrian traffic monitoring in outdoor environments using rgb cameras
 **Mentors**  
 Nivedita Rufus, Sergio Barroso
  
@@ -159,7 +149,7 @@ This time we propose to extend this work, with the aim of monitoring the exterio
 **Needed skills**  
 Robocomp, Python3
 
-### 11\. Computer vision for detecting elements of a vehicle's environment with RoboComp
+### 10\. Computer vision for detecting elements of a vehicle's environment with RoboComp
 **Mentors**  
 Araceli Vega,  Sergio Barroso
  
@@ -172,7 +162,7 @@ To perform this task, it is possible to work either with real datasets of camera
 **Needed skills**  
 Robocomp, Python3, Computer Vision
 
-### 12\. Sign Language Recognition Component
+### 11\. Sign Language Recognition Component
 **Mentors**  
 Kanav Gupta,  Aditya Aggarwal
  
@@ -184,7 +174,15 @@ One of the capabilities of the robot is to efficiently communicate with humans. 
 **Needed skills**  
 Python3, Tensorflow/Pytorch, Machine Learning, Computer Vision
 
+### 12\. Designing Python agents for CORTEX
+**Mentors**  
+Juan Carlos García, Pablo Bustos
+ 
+**Brief description**  
+CORTEX is a cognitive architecture created on top of RoboComp that provides a set of agents with a shared data structure (G) removing the need for topics, interfaces and ports. All development has been done using C++. The goal of this project is to complete the tools to automatically create Python agents using RoboComp’s code generator and the pybind11 wrapping tool. This project has already started and the most complex part is completed with the G API already ported. The student will work with the developing team to complete the UI where G is displayed in several forms: a dynamic graph, a 2D view of the scene (Qt), a 3D view of the scene (Qt3D) and an editable tree (textual). We expect that with the release of Python agents, more people will become interested in CORTEX and a larger community involved in Cognitive Robotics will surely thrive.
 
+**Needed skills**  
+RoboComp, C++, Python, Qt5
 
 ## Complete list of Mentors:
 
@@ -235,11 +233,11 @@ University of León
 Researcher, Robolab,  
 University of Extremadura  
 
+### Juan Carlos García
 
-[//]: <> (### Marco A. Gutiérrez)
-
-[//]: <> (>**marcog**AT**unex**DOT**es**  )
-[//]: <> (Robocomp Developer  )
+>**juancarlos97gg**AT**gmail**DOT**com**   
+Researcher, Robolab,  
+University of Extremadura  
 
 ### Rishi Gondkar
 
