@@ -7,7 +7,7 @@ Google officially announced the list of organisations participating in GSoC'21 a
 
 * March 10 - March 29: Students get involved in the project and disscuss ideas with the mentors. If you're thinking about participating as a student, please follow all the tutorials.  
 * March 29 - April 13: Students submit their applications.  
-* April 13 - May 17: Applications are reviewed and selected.  [//]: <> 
+* April 13 - May 17: Applications are reviewed and selected.  
 * May 17: The list of accepted students is announced.  
 
 Please, read the [RoboComp/GSoC'21 FAQ](/web/gsoc/2021/faq2021) if you are interested in participating as a student in RoboComp/GSoC'21. Google has also made available a generic [GSoC FAQ](https://developers.google.com/open-source/gsoc/faq).
