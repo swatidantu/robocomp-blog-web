@@ -326,7 +326,7 @@ Cairo University
 
 ### Araceli Vega
 
->**avegamag**AT**alumnos**DOT**unex**DOT**es**  
+>**aracelivegamagro**AT**gmail**DOT**com**  
 Researcher, Robolab  
 University of Extremadura  
 
