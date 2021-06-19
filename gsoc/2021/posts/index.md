@@ -27,7 +27,7 @@ Mentors: Franciso Andrés, Mohamed Shawky Sabae
 
 ## Aditya Kasibhatla
 
-Idea: Graphical user interface for affective human-robot intteraction  
+Idea: Graphical user interface for affective human-robot interaction  
 
 Mentors: Rishi Gondkar, Pedro Nuñez
 
