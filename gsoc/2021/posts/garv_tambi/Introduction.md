@@ -1,16 +1,17 @@
+<p align="center">
+  <img src="./assets/Robocomp.png" width="550" title="hover text">
+</p>
+
 # GSoC'21 RoboComp project: Computer vision for detecting elements of a vehicle’s environment with RoboComp
 
-![Pipeline](./assets/Robocomp.png)
 
 24th June, 2021
 
 ## About me
 
-I am **Garv Tambi**. I am a pre-final year undergraduate pursuing B.Tech in Electronics and Communication Engineering(ECE) from the LNM Institute of Information Technology, Jaipur, India.
+Hey there! My name is **Garv Tambi**. I am a pre-final year undergraduate pursuing B.Tech in Electronics and Communication Engineering(ECE) from the LNM Institute of Information Technology, Jaipur, India.
 
 I have a programming background as my university courses introduced me to the basics of programming. I developed a keen interest in Application Development. I began programming in my freshman year and have continued it. My main focus at start was in Data Science as well as in Competitive Programming and I used it to develop my coding skills and DS/algorithm implementation. I also have a good knowledge of Computer Vision as well as Deep Learning and have successfully completed various projects.
-
-
 
 
 
