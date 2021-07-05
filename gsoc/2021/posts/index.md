@@ -55,7 +55,7 @@ Idea: Port AGM from Python 2 to Python 3
 
 Mentors: Rishi Gondkar, Pedro Núñez
 
-1. [Introduction](/web/gsoc/2021/posts/fernando_martin/Introduction)
+1. [Introduction](/web/gsoc/2021/posts/fernando_martin/Introduction.md)
 2. [AGM enviroment](/web/gsoc/2021/posts/fernando_martin/AGM_enviroment.md)
 
 ## Trung Ngo Tan
