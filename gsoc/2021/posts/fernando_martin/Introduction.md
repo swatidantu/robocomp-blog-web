@@ -1,11 +1,11 @@
-Introduction:
+# Introduction:
 
-About me:
+## About me:
 
 I am Fernando Martín Ramos-Catalina, a telecommunications engineering student at the University of Seville. This is the first time that I have participated in the google summer camp, and it is also my first approach to the world of work. I hope to learn a lot from this project, both in technical knowledge and working following a project roadmap.
 
 
-About the project:
+## About the project:
 
 AGM is a program designed on Robocomp. It includes several tools, such as a planner (AGGLPlanner). 
 

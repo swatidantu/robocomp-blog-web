@@ -1,9 +1,9 @@
-Introduction
+# Introduction
 
 As stated in the introduction, AGM has not been maintained for a long time. That is why several problems have appeared during the installation process. 
 In this post we will talk about them.
 
-Robocomp Installation:
+## Robocomp Installation:
 
 To install robocomp, we follow the installation instructions that appear on the robocomp github itself (https://github.com/robocomp/robocomp). 
 After completing all the steps, there were still some errors to fix when trying to run it.
@@ -11,7 +11,7 @@ After completing all the steps, there were still some errors to fix when trying 
 The first error that came up was that rich lib could not be found, and we fixed it simply by installing rich lib. So we had to fix a second error by also installing promp_toolkit. 
 After this Robocomp was working correctly.
 
-AGM installation:
+## AGM installation:
 
 After installing Robocomp, the next step was to install AGM. For this, the tutorial that comes on AGM's own github (https://github.com/ljmanso/AGM) was followed. 
 It is once this tutorial is completed where our project itself begins.
