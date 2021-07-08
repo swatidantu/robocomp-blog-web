@@ -24,7 +24,7 @@
 
 ![DenseDepth](https://user-images.githubusercontent.com/46538042/124875248-4b13e800-dfe6-11eb-86ed-6cc37cdc2241.png)
 
-Most of the available models are trained on [KITTI dataset]() which gave bad results on NYU dataset due to its complexity in scenes.<br />
+Most of the available models are trained on [KITTI dataset](http://www.cvlibs.net/datasets/kitti/) which gave bad results on indoor scenes due to its complexity in scenes.<br />
 And Models trained on NYU dataset either give High Quality Depth Map or Real-Time prediction.<br />
 Thus, A new model is created which will give both High Quality Depth Map and Real-Time prediction named as *MobDepth*
 
