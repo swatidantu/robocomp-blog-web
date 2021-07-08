@@ -40,6 +40,11 @@ Thus, A new model is created which will give both High Quality Depth Map and Rea
 
 ![MobDepthWithSkip](https://user-images.githubusercontent.com/46538042/124878421-b90dde80-dfe9-11eb-9e7e-df02e6b66e8a.png)
 
+## FURTHER STEPS:
+* Architechture of MobDepth
+* Evaluating and Fine-Tuning the model on CoppeliaSim (Simulator) data.
+* Final Results on Simulator Data.
+
 
 
 
