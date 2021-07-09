@@ -50,6 +50,7 @@ Idea: Monocular depth estimation from RGB signals
 Mentors: Mohamed Shawky Sabae, Luis V. Calderita
 
 1. [First post](/web/gsoc/2021/posts/vaibhaw_khemka/post01)
+2. [Second post](/web/gsoc/2021/posts/vaibhaw_khemka/post02)
 
 ## Fernando Martín
 
