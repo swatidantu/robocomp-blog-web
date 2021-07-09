@@ -1,4 +1,4 @@
-# Setting the environment for LearnBlock and first steps to build the model
+# Setting the environment for LearnBlock and first steps to build the component
 
 _9 July, 2021_
 
@@ -8,13 +8,15 @@ After selecting the possible models for the component we need to start building 
 
 ## Environment setting
 
-Firstly, I installed [RoboComp](https://github.com/robocomp/robocomp) following the instructions of the repository. The process was longer than I expected, but more or less easy.
+Firstly, I installed [RoboComp](https://github.com/robocomp/robocomp) following the instructions of the repository. The process was longer than I expected, but was more or less easy.
 After that, I started to install [LearnBlock](https://github.com/robocomp/LearnBlock) in the same way as RoboComp and in this case wasn´t so easy. I have some problems relate to the version of PySide, I solved these problems changing the requirements.txt, concretely putting PySide2 instead of PySide.
 
 
-But the greatest problem was about dlib library that it wasn´t capable of installing, so finally my tutors suggested to not install this library as is only necessary for one concrete component.
+But the greatest problem was about dlib library that it wasn´t capable of installing, so finally my tutors suggested to not install this library as is only use in only one component.
 
 ## Creating the structure of the project
+
+For creating the structure of the project, I foolowed the componenet **emotionrecognition2** as has points in common with this new componenet.
 
 ```bash
 .
