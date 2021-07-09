@@ -31,6 +31,49 @@ The directory etc will contain the config files of Ice, src all the code of the 
 
 ## Doing the .csdl and .idsl files.
 
+Each component has two files csdl and idsl files to work properly in LearnBlock, they contain the information relate to the input and output of the component, the interface, etc.
 
+### DetectComponent.idsl
+
+    module detectionComponent
+    {
+        struct SPrediction
+        {
+            int x;
+            int y;
+            int w;
+            int h;
+            string class;
+        };
+
+        sequence<SPrediction> Predictions;
+
+        sequence<byte> ImgType;
+
+        struct TImage
+        {
+            int width;
+            int height;
+            int depth;
+            ImgType image;
+        };
+
+        interface detectionComponent
+        {
+            Predictions processImage(TImage frame);
+        };
+    };
+ 
+### DetectComponent.cdsl
+ 
+    import "detectionComponent.idsl";
+
+    Component DetectionComponent{
+        Communications
+        {
+            implements detectionComponent;
+        };
+        language Python;
+    };
 
 __Alejandro Fernández Camello__
