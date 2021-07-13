@@ -84,7 +84,8 @@ Idea: Software agent for traffic and pedestrian traffic monitoring in outdoor en
 
 Mentors: Sergio Barroso, Nivedita Rufus
 
-1. [First post](/web/gsoc/2021/posts/amarthya_sasi_kiran/post01)
+1. [Introduction](/web/gsoc/2021/posts/amarthya_sasi_kiran/post01)
+2. [Summary: First Phase](/web/gsoc/2021/posts/amarthya_sasi_kiran/post02:Summary_First_Phase)
 
 ## Kacper Kujawski
 
