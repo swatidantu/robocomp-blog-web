@@ -15,7 +15,9 @@ Idea: Computer vision for detecting elements of a vehicle’s environment with R
 
 Mentors: Araceli Vega, Sergio Barroso
 
-1. [First post](/web/gsoc/2021/posts/garv_tambi/post01)
+1. [First post](/web/gsoc/2021/posts/garv_tambi/Introduction)
+2. [Second post](/web/gsoc/2021/posts/garv_tambi/post02)
+3. [Third post](/web/gsoc/2021/posts/garv_tambi/post03)
 
 ## Pawan Wadhwani
 
