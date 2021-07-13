@@ -10,6 +10,7 @@ Mentors: Iván Barbecho, Francisco Andrés
 1. [First post](/web/gsoc/2021/posts/alejandro_fernandez/post01)
 2. [Second post](/web/gsoc/2021/posts/alejandro_fernandez/post02)
 3. [Third post](/web/gsoc/2021/posts/alejandro_fernandez/post03)
+4. [Fourth post](/web/gsoc/2021/posts/alejandro_fernandez/post04)
 
 ## Garv Tambi
 
@@ -17,7 +18,7 @@ Idea: Computer vision for detecting elements of a vehicle’s environment with R
 
 Mentors: Araceli Vega, Sergio Barroso
 
-1. [First post](/web/gsoc/2021/posts/garv_tambi/Introduction)
+1. [Introduction](/web/gsoc/2021/posts/garv_tambi/Introduction)
 
 ## Pawan Wadhwani
 
@@ -59,6 +60,7 @@ Mentors: Pedro Núñez, Luis J. Manso
 
 1. [Introduction](/web/gsoc/2021/posts/fernando_martin/Introduction)
 2. [AGM enviroment](/web/gsoc/2021/posts/fernando_martin/AGM_enviroment)
+3. [AGLLPlanner port 1](/web/gsoc/2021/posts/fernando_martin/AGGLPlanner_porting(1))
 
 ## Trung Ngo Tan
 
