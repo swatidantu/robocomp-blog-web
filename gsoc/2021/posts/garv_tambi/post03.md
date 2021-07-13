@@ -12,9 +12,6 @@ The video below talks about how I process the input stream and the steps involve
 
 
 
-https://user-images.githubusercontent.com/42083679/125023882-6130af80-e09d-11eb-9a20-83cf5e933050.mp4
-
-
 
 **Advanced Lane Finding Finding**
 
