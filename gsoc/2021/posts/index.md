@@ -30,7 +30,7 @@ Idea: Deep Reinforcement Learning for precise robot grasping and object manipula
 Mentors: Franciso Andrés, Mohamed Shawky Sabae
 
 1. [First post](/web/gsoc/2021/posts/pawan_wadhwani/post01)
-
+2. [Second post](/web/gsoc/2021/posts/pawan_wadhwani/post02)
 ## Aditya Kasibhatla
 
 Idea: Graphical user interface for affective human-robot interaction  
@@ -46,6 +46,7 @@ Idea: Improvement of a Social Navigation component
 Mentors: Luis J. Manso, Pilar Bachiller
 
 1. [First post](/web/gsoc/2021/posts/aditya_kapoor/post01)
+2. [Second post](/web/gsoc/2021/posts/aditya_kapoor/post02-crowdnav)
 
 ## Vaibhaw Khemka
 
