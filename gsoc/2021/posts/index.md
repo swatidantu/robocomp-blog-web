@@ -30,7 +30,7 @@ Idea: Deep Reinforcement Learning for precise robot grasping and object manipula
 Mentors: Franciso Andrés, Mohamed Shawky Sabae
 
 1. [First post](/web/gsoc/2021/posts/pawan_wadhwani/post01)
-
+2. [Second post](/web/gsoc/2021/posts/pawan_wadhwani/post02)
 ## Aditya Kasibhatla
 
 Idea: Graphical user interface for affective human-robot interaction  
