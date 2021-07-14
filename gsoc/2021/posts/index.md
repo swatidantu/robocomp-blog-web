@@ -79,7 +79,8 @@ Idea: Simultaneous path planning and following using Model Predictive Control (S
 
 Mentors: Pablo Bustos, Juan Carlos García, Ramón Cintas
 
-1. [First post](/web/gsoc/2021/posts/yassmin_hesham/post01)
+1. [Introduction](/web/gsoc/2021/posts/yassmin_hesham/post01)
+2. [MPC](/web/gsoc/2021/posts/yassmin_hesham/post02)
 
 ## Amarthya Sasi Kiran
 
