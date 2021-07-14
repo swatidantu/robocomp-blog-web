@@ -46,6 +46,7 @@ Idea: Improvement of a Social Navigation component
 Mentors: Luis J. Manso, Pilar Bachiller
 
 1. [First post](/web/gsoc/2021/posts/aditya_kapoor/post01)
+2. [Second post](/web/gsoc/2021/posts/aditya_kapoor/post02-crowdnav)
 
 ## Vaibhaw Khemka
 
