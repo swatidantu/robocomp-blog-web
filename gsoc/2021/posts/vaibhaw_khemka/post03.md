@@ -1,4 +1,6 @@
 ## ARCHITECTURE OF MobDepth:
+<img src="assets/Mobdepth.jpg">
+
 * Input - Camera Frame (480,640,3) , Output - Depth Map (240,320,1)
 * **Design Choices:** <br />
   1. Real-Time Estimation - As the model needs to predict in real time, thus a light-weight architecture is required. <br />
