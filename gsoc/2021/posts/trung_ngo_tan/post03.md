@@ -17,7 +17,7 @@ I will soon merge the code of these component into Robocomp lib after GSoC phase
 
 Some problems I find out in Robocomp library:
 + when import default components and generate code py robocompdsl for cdsl for python.
-Some library can not be imported, for example: rc... lib
+Some library can not be imported, for example: rcportchecker lib
   => add this line sys.path.append('/opt/robocomp/python/') into /usr/local/bin/robocompdsl.py , line 16
   
 + The install process may face bugs, if not install robocomp lib in home/user_name/ folder. Because, the base code of 
