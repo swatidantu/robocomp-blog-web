@@ -13,6 +13,13 @@ The requirement libraries for running components:
 + pyside2 
 + onnxruntime-gpu == 1.8.1 (should install with pip)
 + tensorRT == 8.0.1 (Should install with pip)
++ torchaudio == 0.7 
++ torchvision == 0.8   
++ pytorch == 1.7.x
++ zeroc-ice == 3.7.6
++ rich 
++ pycuda
+
 
 ## Usage:
 ### Body Hand pose detection:
@@ -36,7 +43,7 @@ The recognizer component is in robocomp-robolab/components/detection/imageBasedG
 and its client is in robocomp-robolab/components/detection/test/imageBasedGestureRecognitionClient/
 
 
-Copy pretrained model from this link: https://drive.google.com/file/d/1wHUT3BQEPLV-iJvu_vPFNHu7bv42Miqt/view?usp=sharing
+Copy pretrained model from this link: https://drive.google.com/file/d/1DKc9CD2S63h_oi3I24GnLba5RYAM_i-x/view?usp=sharing
 to src/_model/ in the recognizer component folder.
 
 Steps:
