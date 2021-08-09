@@ -49,7 +49,9 @@ Mentors: Luis J. Manso, Pilar Bachiller
 
 1. [First post](/web/gsoc/2021/posts/aditya_kapoor/post01)
 2. [Second post](/web/gsoc/2021/posts/aditya_kapoor/post02-crowdnav)
-2. [Third post](/web/gsoc/2021/posts/aditya_kapoor/post03-baselines)
+3. [Third post](/web/gsoc/2021/posts/aditya_kapoor/post03-baselines)
+4. [Fourth post](/web/gsoc/2021/posts/aditya_kapoor/post04-DuelingDQN)
+5. [Fifth post](/web/gsoc/2021/posts/aditya_kapoor/post05-DuelinDQN-SNGNN.md)
 
 ## Vaibhaw Khemka
 
