@@ -15,6 +15,7 @@ Of these we gotten the best results for the model Trained with KITTI using data_
 Here are the better depth estimation results for a scene:
 
 ![](assets/image_gif.gif)
+<br>
 ![](assets/depth_gif.gif)
 
 ### Stats
