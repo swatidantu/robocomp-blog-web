@@ -7,7 +7,7 @@
 
 The video below is the integration of Lane line detection, Pedestrian detection, Vehicle detection and classifying traffic signs.
 
-For more details about whic method I used. Please refer
+For more details please refer
 Post03, 
 Post04, Post05 
 
