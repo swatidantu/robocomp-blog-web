@@ -7,10 +7,12 @@ Idea: An object detection component for LearnBlock
 
 Mentors: Iván Barbecho, Francisco Andrés
 
-1. [First post](/web/gsoc/2021/posts/alejandro_fernandez/post01)
-2. [Second post](/web/gsoc/2021/posts/alejandro_fernandez/post02)
-3. [Third post](/web/gsoc/2021/posts/alejandro_fernandez/post03)
-4. [Fourth post](/web/gsoc/2021/posts/alejandro_fernandez/post04)
+1. [Introduction](/web/gsoc/2021/posts/alejandro_fernandez/post01)
+2. [Evaluation of the models](/web/gsoc/2021/posts/alejandro_fernandez/post02)
+3. [Converting the models to Tensorflow Lite](/web/gsoc/2021/posts/alejandro_fernandez/post03)
+4. [Setting the environment for LearnBlock and first steps to build the component](/web/gsoc/2021/posts/alejandro_fernandez/post04)
+5. [Testing the Tensorflow Lite models](/web/gsoc/2021/posts/alejandro_fernandez/post05)
+6. [Creating the component and improve the test of the model](/web/gsoc/2021/posts/alejandro_fernandez/post06)
 
 ## Garv Tambi
 
@@ -47,7 +49,9 @@ Mentors: Luis J. Manso, Pilar Bachiller
 
 1. [First post](/web/gsoc/2021/posts/aditya_kapoor/post01)
 2. [Second post](/web/gsoc/2021/posts/aditya_kapoor/post02-crowdnav)
-2. [Third post](/web/gsoc/2021/posts/aditya_kapoor/post03-baselines)
+3. [Third post](/web/gsoc/2021/posts/aditya_kapoor/post03-baselines)
+4. [Fourth post](/web/gsoc/2021/posts/aditya_kapoor/post04-DuelingDQN)
+5. [Fifth post](/web/gsoc/2021/posts/aditya_kapoor/post05-DuelinDQN-SNGNN)
 
 ## Vaibhaw Khemka
 
@@ -79,6 +83,7 @@ Mentors: Kanav Gupta, Aditya Aggarwal
 1. [Introduction](/web/gsoc/2021/posts/trung_ngo_tan/post01)
 2. [Fast inference](/web/gsoc/2021/posts/trung_ngo_tan/post02)
 3. [1st Phase report](/web/gsoc/2021/posts/trung_ngo_tan/post03)
+4. [Body and Hand detection + Image base recognition (Installation and Usage)] (/web/gsoc/2021/posts/trung_ngo_tan/post04)
 ## Yassmin Hesham
 
 Idea: Simultaneous path planning and following using Model Predictive Control (SPAF)  
