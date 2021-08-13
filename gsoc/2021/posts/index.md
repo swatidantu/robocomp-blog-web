@@ -100,6 +100,9 @@ Mentors: Sergio Barroso, Nivedita Rufus
 
 1. [Introduction](/web/gsoc/2021/posts/amarthya_sasi_kiran/post01)
 2. [Summary: First Phase](/web/gsoc/2021/posts/amarthya_sasi_kiran/post02:Summary_First_Phase)
+3. [Summary: Depth Improvement](/web/gsoc/2021/posts/amarthya_sasi_kiran/post03:Depth_Improvement_Lapdepth)
+4. [Summary: Stitching and Prediction](/web/gsoc/2021/posts/amarthya_sasi_kiran/post04:Stitching_and_Prediction)
+
 
 ## Kacper Kujawski
 
