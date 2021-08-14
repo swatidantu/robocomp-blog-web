@@ -5,7 +5,7 @@
 ## Conclusion:
 Throughout this projest, three components are published: BodyHandJointsDetector, ImageBaseGestureRecognition, PoseBasedGestureRecognition. I will also code the testing client for each approach.
 + BodyHandJointsDetector: [component](https://github.com/rongtuech/robocomp-robolab/tree/sign_language_commit/components/detection/BodyHandJointsDetector) , [client](https://github.com/rongtuech/robocomp-robolab/tree/sign_language_commit/components/detection/test/bodyHandJointsDetectorClient). In this component,
-I use Oenpose light model and media-pipe lib to get skeleton from image body.
+I use Openpose light model and media-pipe lib to get skeleton from image body.
 
 + ImageBasedRecognition: [component](https://github.com/rongtuech/robocomp-robolab/tree/sign_language_commit/components/detection/imageBasedGestureRecognition) , [client](https://github.com/rongtuech/robocomp-robolab/tree/sign_language_commit/components/detection/test/imageBasedGestureRecognitionClient). In this project, we implement [WLASL recognizer](https://github.com/dxli94/WLASL).
 There are pretrained model for this dataset. Therefore, we reuse these models without any training. In the image-based approach, they use I3D model for recognition.
@@ -13,6 +13,8 @@ There are pretrained model for this dataset. Therefore, we reuse these models wi
 + PoseBasedRecognition: [component](https://github.com/rongtuech/robocomp-robolab/tree/sign_language_commit/components/detection/PoseBasedGestureRecognition) , [client](https://github.com/rongtuech/robocomp-robolab/tree/sign_language_commit/components/detection/test/poseBasedGestureRecognitionClient).
 For pose-based reocngition, we reuse Pose-TGCN (graph neural network). This model have body/hand joints input and output the gesture classes.
   
+The pretrained recognized model is trained by 25 frames/second dataset. Therefore, our components is expected to work well with this FPS. 
+Furthermore, in order to work well with body/hand joints detector, the background of video should be simple (not to many colors and objects). 
 
 ### Inference acceleration:
 

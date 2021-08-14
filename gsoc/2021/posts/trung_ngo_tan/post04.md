@@ -43,7 +43,7 @@ The recognizer component is in robocomp-robolab/components/detection/imageBasedG
 and its client is in robocomp-robolab/components/detection/test/imageBasedGestureRecognitionClient/
 
 
-Copy pretrained model from this link: https://drive.google.com/file/d/1DKc9CD2S63h_oi3I24GnLba5RYAM_i-x/view?usp=sharing
+Copy pretrained model from this link: https://drive.google.com/file/d/1VnCSZHCt69Cah7Xvf2D7P2Lfsx3L1Mqh/view?usp=sharing
 to src/_model/ in the recognizer component folder.
 
 Steps:
