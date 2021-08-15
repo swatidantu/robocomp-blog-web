@@ -25,6 +25,9 @@ Mentors: Araceli Vega, Sergio Barroso
 3. [Third post](/web/gsoc/2021/posts/garv_tambi/post03)
 4. [Fourth post](/web/gsoc/2021/posts/garv_tambi/post04)
 5. [Fifth post](/web/gsoc/2021/posts/garv_tambi/post05)
+6. [Sixth post](/web/gsoc/2021/posts/garv_tambi/post06)
+7. [Seventh post](/web/gsoc/2021/posts/garv_tambi/post07)
+8. [Eighth post](/web/gsoc/2021/posts/garv_tambi/post08)
 
 
 ## Pawan Wadhwani
