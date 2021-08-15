@@ -24,6 +24,10 @@ Mentors: Araceli Vega, Sergio Barroso
 2. [Second post](/web/gsoc/2021/posts/garv_tambi/post02)
 3. [Third post](/web/gsoc/2021/posts/garv_tambi/post03)
 4. [Fourth post](/web/gsoc/2021/posts/garv_tambi/post04)
+5. [Fifth post](/web/gsoc/2021/posts/garv_tambi/post05)
+6. [Sixth post](/web/gsoc/2021/posts/garv_tambi/post06)
+7. [Seventh post](/web/gsoc/2021/posts/garv_tambi/post07)
+8. [Eighth post](/web/gsoc/2021/posts/garv_tambi/post08)
 
 
 ## Pawan Wadhwani
@@ -50,7 +54,9 @@ Mentors: Luis J. Manso, Pilar Bachiller
 
 1. [First post](/web/gsoc/2021/posts/aditya_kapoor/post01)
 2. [Second post](/web/gsoc/2021/posts/aditya_kapoor/post02-crowdnav)
-2. [Third post](/web/gsoc/2021/posts/aditya_kapoor/post03-baselines)
+3. [Third post](/web/gsoc/2021/posts/aditya_kapoor/post03-baselines)
+4. [Fourth post](/web/gsoc/2021/posts/aditya_kapoor/post04-DuelingDQN)
+5. [Fifth post](/web/gsoc/2021/posts/aditya_kapoor/post05-DuelinDQN-SNGNN)
 
 ## Vaibhaw Khemka
 
@@ -61,6 +67,7 @@ Mentors: Mohamed Shawky Sabae, Luis V. Calderita
 1. [First post](/web/gsoc/2021/posts/vaibhaw_khemka/post01)
 2. [Second post](/web/gsoc/2021/posts/vaibhaw_khemka/post02)
 3. [Third post](/web/gsoc/2021/posts/vaibhaw_khemka/post03)
+4. [Fourth post](/web/gsoc/2021/posts/vaibhaw_khemka/post04)
 
 ## Fernando Martín
 
@@ -81,6 +88,9 @@ Mentors: Kanav Gupta, Aditya Aggarwal
 1. [Introduction](/web/gsoc/2021/posts/trung_ngo_tan/post01)
 2. [Fast inference](/web/gsoc/2021/posts/trung_ngo_tan/post02)
 3. [1st Phase report](/web/gsoc/2021/posts/trung_ngo_tan/post03)
+4. [Body and Hand detection + Image based recognition (Installation and Usage)](/web/gsoc/2021/posts/trung_ngo_tan/post04)
+5. [Pose based recognition + demo video for sign language project](/web/gsoc/2021/posts/trung_ngo_tan/post05)
+6. [Conclusion](/web/gsoc/2021/posts/trung_ngo_tan/post06)
 ## Yassmin Hesham
 
 Idea: Simultaneous path planning and following using Model Predictive Control (SPAF)  
@@ -98,6 +108,9 @@ Mentors: Sergio Barroso, Nivedita Rufus
 
 1. [Introduction](/web/gsoc/2021/posts/amarthya_sasi_kiran/post01)
 2. [Summary: First Phase](/web/gsoc/2021/posts/amarthya_sasi_kiran/post02:Summary_First_Phase)
+3. [Summary: Depth Improvement](/web/gsoc/2021/posts/amarthya_sasi_kiran/post03:Depth_Improvement_Lapdepth)
+4. [Summary: Stitching and Prediction](/web/gsoc/2021/posts/amarthya_sasi_kiran/post04:Stitching_and_Prediction)
+
 
 ## Kacper Kujawski
 
