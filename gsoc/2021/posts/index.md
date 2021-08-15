@@ -105,6 +105,7 @@ Idea: Webots integration
 Mentors: Daniel Rodríguez, Ronit Jorvekar
 
 1. [First post](/web/gsoc/2021/posts/kacper_kujawski/post01)
+2. [Second post](/web/gsoc/2021/posts/kacper_kujawski/post02)
 
 
 
