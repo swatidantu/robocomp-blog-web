@@ -9,7 +9,6 @@ Data is initially colloected from dual cameras in instantiated in Carla capturin
 <!-- ![](assets/cam2_716.png) -->
 
 ### Image Stitching:
-#### Method-1:
 The freatures are extracted using the ORB feature extracter. Following this, the key point descriptors are passed through a matching algorithm like BFMatcher or FLANN matcher to get the matches which are then used to find the Homography and stich the images. After experimenting, the BFmatcher was finalized as it was quicker.
 
 ### Stitching result for the above images:
