@@ -1,4 +1,4 @@
-##Introduction
+## Introduction
 
 AGGLPlanner is the planification tool of AGM. As any planner, AGGLPlanner function is to design a plan. AGGLPlaner works differently than most modern planners. This planners needs a full instantiation of the world, which can be very low efficient in certain cases, like dynamic worlds, huge worlds or when the actions are inherently complex.	
 
@@ -8,7 +8,7 @@ agglplan file1.aggl file2.xml file3.xml
 
 The aggl file contains the ruleset that we want to apply to our world. The initial world itself is in the file2.xml, and the file3.xml contains the objective we want to reach. 
 
-##Porting AGGL Planner (Part 2)
+## Porting AGGL Planner (Part 2)
 
 As we saw in the previous post, I was stuck in  a missing function error. The missing function was intended to generate the target from an xml file. After talking with my mentors, we decided that AGGLPlanner would not accept xml as target files anymore. This decision was made with the aim of simplifying the program, since the .aggt format also allows more things than the .xml format. This change also required that I convert some goal files from xml format to .aggt format so I could test the program properly with the new goal entry format.
 
