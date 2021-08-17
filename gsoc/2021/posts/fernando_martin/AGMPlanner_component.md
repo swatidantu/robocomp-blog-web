@@ -1,4 +1,4 @@
-##Introduction
+## Introduction
 
 AGMPlanner is a dsr-graph component builded in C++. The objective of this agent is to use the interface named AGGLPlanner.idsl and defined in the component AGMPlannerPython, another component of dsr-graph. 
 
@@ -6,7 +6,7 @@ This interface executes the scheduler AGGLPlanner, part of the Robocomp module A
 
 The objective of this component is to make a bridge between the python component and the other dsr-graph agents, so the other agents can call the scheduler in an easy way. The structure is designed like this because it is more efficient to use the python code in the python agent than call a subprocess, and most dsr-graph does not support python components.
 
-##AGGLPlanner.idsl
+## AGGLPlanner.idsl
 
 module RoboCompAGGLPlanner
 {
@@ -35,7 +35,7 @@ As you can see, the robocomp interface that both components use is AGGLPlanner.i
 
 
 
-##AGMPlanner
+## AGMPlanner
 
 As we said before, the AGMLPlanner is the C++ component. Here we have the most important part of this component code:
 
