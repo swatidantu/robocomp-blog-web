@@ -1,11 +1,11 @@
-##Introduction
+## Introduction
 
 After getting AGGLPlanner to work in python 3, my mentors asked me to add a new feature to the project: Being able to work with initial world files in JSON format.
 
 This request is due to the fact that in the current work environment of my mentors, the world used by the DSR is in JSON format. This means that in order to use the scheduler as it was originally designed, it would have been necessary to convert the JSON world to xml before giving said world to the scheduler, something inefficient, especially if we have to execute the scheduler many times during the robot's execution, since each of these executions would require a conversion.
 
  
-##Designing the JSON parser file
+## Designing the JSON parser file
 
 To enable AGGLPlanner to work with JSON input files, two main tasks had to be performed.
 
