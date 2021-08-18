@@ -40,13 +40,15 @@ Mentors: Franciso Andrés, Mohamed Shawky Sabae
 
 1. [First post](/web/gsoc/2021/posts/pawan_wadhwani/post01)
 2. [Second post](/web/gsoc/2021/posts/pawan_wadhwani/post02)
+
 ## Aditya Kasibhatla
 
 Idea: Graphical user interface for affective human-robot interaction  
 
 Mentors: Rishi Gondkar, Pedro Nuñez
 
-1. [First post](/web/gsoc/2021/posts/aditya_kasibhatla/post01)
+1. [Introduction](/web/gsoc/2021/posts/aditya_kasibhatla/post01)
+2. [Installations and early observations](/web/gsoc/2021/posts/aditya_kasibhatla/post2)
 
 ## Aditya Kapoor
 
