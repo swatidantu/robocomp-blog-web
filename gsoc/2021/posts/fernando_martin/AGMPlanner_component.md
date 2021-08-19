@@ -1,10 +1,10 @@
 ## Introduction
 
-AGMPlanner is a dsr-graph component builded in C++. The objective of this agent is to use the interface named AGGLPlanner.idsl and defined in the component AGMPlannerPython, another component of dsr-graph. 
+AGMPlanner is a dsr-graph component builded in C++ created by me. The objective of this agent is to use the interface named AGGLPlanner.idsl and defined in the component AGMPlannerPython, another component of dsr-graph. 
 
-This interface executes the scheduler AGGLPlanner, part of the Robocomp module AGM. The objective of AGGLPlanner is to design a schedule. For this it needs a few params: The ruleset file (.aggl), the initial world file (.xml/.JSON), the goal file (.aggt), and, at last and as a optional param,  the result plan file (.plan).
+This interface executes the plannerr AGGLPlanner, part of the Robocomp module AGM. The objective of AGGLPlanner is to design a plan. For this it needs a few params: The ruleset file (.aggl), the initial world file (.xml/.JSON), the goal file (.aggt), and, at last and as a optional param,  the result plan file (.plan).
 
-The objective of this component is to make a bridge between the python component and the other dsr-graph agents, so the other agents can call the scheduler in an easy way. The structure is designed like this because it is more efficient to use the python code in the python agent than call a subprocess, and most dsr-graph does not support python components.
+The objective of this component is to make a bridge between the python component and the other dsr-graph agents, so the other agents can call the planner in an easy way. The structure is designed like this because it is more efficient to use the python code in the python agent than call a subprocess, and most dsr-graph does not support python components.
 
 ## AGGLPlanner.idsl
 
@@ -28,7 +28,7 @@ module RoboCompAGGLPlanner
 
 };
 
-As you can see, the robocomp interface that both components use is AGGLPlanner.idsl. As you can see the interface has one function and one struct parameter that contains the arguments needed.
+As you can see, the robocomp interface that both components use is AGGLPlanner.idsl. The interface has one function and one struct parameter that contains the arguments needed.
 
 
 
