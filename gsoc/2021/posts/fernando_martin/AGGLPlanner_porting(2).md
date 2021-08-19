@@ -1,6 +1,6 @@
 ## Introduction
 
-AGGLPlanner is the planification tool of AGM. As any planner, AGGLPlanner function is to design a plan. AGGLPlaner works differently than most modern planners. Most planners need a full instantiation of the world, which can be very low efficient in certain cases, like dynamic worlds, huge worlds or when the actions are inherently complex.	
+AGGLPlanner is the planification tool of AGM. As any planner, AGGLPlanner function is to design a plan. AGGLPlaner works differently than most modern planners. Most planners need a full instantiation, which can be very low efficient in certain cases, like dynamic worlds, huge worlds or when the actions are inherently complex.	
 
 For this reason AGGLPlanner works performing a search, so it’s not necessary to instantiate all the world states. To use AGGLPlanner we need to execute the following command:
 
