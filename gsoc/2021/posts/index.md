@@ -79,16 +79,11 @@ Idea: Simultaneous path planning and following using Model Predictive Control (S
 
 Mentors: Pablo Bustos, Juan Carlos García, Ramón Cintas
 
-<<<<<<< HEAD
-1. [Introduction](/web/gsoc/2021/posts/yassmin_hesham/post01)
-2. [Model Predictive Control (MPC)](/web/gsoc/2021/posts/yassmin_hesham/post02)
-=======
 1. [Introduction](/web/gsoc/2021/posts/yassmin_hesham/Intro)
 2. [Model Predictive Control (MPC)](/web/gsoc/2021/posts/yassmin_hesham/MPC)
 3. [Differential Robot Mode](/web/gsoc/2021/posts/yassmin_hesham/Differential_Mode)
 4. [Path Following](/web/gsoc/2021/posts/yassmin_hesham/Path_Following)
 5. [Conclusion](/web/gsoc/2021/posts/yassmin_hesham/Conclusion)
->>>>>>> master
 
 ## Amarthya Sasi Kiran
 
