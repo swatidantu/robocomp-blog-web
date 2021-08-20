@@ -13,7 +13,6 @@ Hints:
  - Install Robocomp first, then Pyrep and make sure that the “.bashrc” file    includes the correct paths of (Robocomp’s root, Coppeliasim’s root only).
 
 
-
 # Optimizer
 ## How to get started
 1. Pull the [Github Repo](https://github.com/Yasmin-Hesham/optimizer)
