@@ -49,6 +49,8 @@ Mentors: Rishi Gondkar, Pedro Nuñez
 
 1. [Introduction](/web/gsoc/2021/posts/aditya_kasibhatla/post01)
 2. [Installations and early observations](/web/gsoc/2021/posts/aditya_kasibhatla/post2)
+3. [Plan and design](/web/gsoc/2021/posts/aditya_kasibhatla/post3)
+4. [Building the MVP](/web/gsoc/2021/posts/aditya_kasibhatla/post4)
 
 ## Aditya Kapoor
 
