@@ -4,7 +4,7 @@
 
 # Path Following
 The path is defined as a set of connected points that fit a line or a curve. Then, the path following problem is a control task in which a geometric reference is to be followed without involving time as a constraint. Based on this intuitive idea, the path can be formed by fitting a polynomial function with a specific order to each of the states. In other words, each state is represented by a series of coefficients of the polynomial that defines this state.
-To start, we begin with the kinematic model for omni-directional robot:
+We begin with the kinematic model for omni-directional robot:
 ![path_follow_eq1](./assets/path_follow1.png)
 
 And differentiate the states with respect to the path parameter since they are polynomial functions as follows:
