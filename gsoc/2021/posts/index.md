@@ -85,6 +85,10 @@ Mentors: Pedro Núñez, Luis J. Manso
 1. [Introduction](/web/gsoc/2021/posts/fernando_martin/Introduction)
 2. [AGM enviroment](/web/gsoc/2021/posts/fernando_martin/AGM_enviroment)
 3. [AGLLPlanner port 1](/web/gsoc/2021/posts/fernando_martin/AGGLPlanner_porting(1))
+4. [AGGLPlanner port 2](/web/gsoc/2021/posts/fernando_martin/AGGLPlanner_porting(2))
+5. [JSON parsing](/web/gsoc/2021/posts/fernando_martin/Json_parsing)
+6. [AGMPlanner component](/web/gsoc/2021/posts/fernando_martin/AGMPlanner_component)
+7. [AGMPlannerPython component](/web/gsoc/2021/posts/fernando_martin/AGMPlannerPython_component)
 
 ## Trung Ngo Tan
 
