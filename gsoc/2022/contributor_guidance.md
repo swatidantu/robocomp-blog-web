@@ -6,7 +6,7 @@
 
 You can find the list of ideas for Google Summer of Code 2022 [here](/web/gsoc/2022/ideas/).
 
-Before writting your application, take into account the following posints:
+Before writting your application, take into account the following considerations:
 
 * It is important to first familiarize with the [software](https://github.com/robocomp/robocomp).
 * Please, go through the available tutorials and direct your questions to the [gitter chat](https://gitter.im/robocomp/robocomp/robocomp-gsoc).
