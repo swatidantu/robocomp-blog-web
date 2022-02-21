@@ -20,7 +20,7 @@ Robocomp installation and tutorials: [https://github.com/robocomp/robocomp/tree/
 
 If you have not worked before with Git Branching, we encourage you to visit this web: [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
 
-##Where can I start and what to include on my application?
+## Where can I start and what to include on my application?
 
 You are encouraged to go through these steps for a better understanding and follow-up of your application:
 
