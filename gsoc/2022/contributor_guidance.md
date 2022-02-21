@@ -29,7 +29,7 @@ You are encouraged to go through these steps for a better understanding and foll
 3.  Once you are familiar with RoboComp and the components and tools involved in the particular idea you want to contribute to, try to understand how these components/tools work and, if possible, their design.
 4.  Participate in gsoc [gitter](https://gitter.im/robocomp/robocomp/robocomp-gsoc) asking any question you might have.
 5.  Create a schedule with the milestones you plan to follow during the GSoC 2022 program.
-6.  **Send the schedule and any code you might have written along with your CV and other application materials to the mentor of your idea and the backup mentor ([/web/gsoc/2021/ideas/#complete-list-of-mentors](/web/gsoc/2022/ideas/#complete-list-of-mentors)).**
+6.  **Send the schedule and any code you might have written along with your CV and other application materials to the mentor of your idea and the backup mentor ([/web/gsoc/2022/ideas/#complete-list-of-mentors](/web/gsoc/2022/ideas/#complete-list-of-mentors)).**
 
 For general questions about RoboComp please use: The [gitter chat](https://gitter.im/robocomp/robocomp).
 

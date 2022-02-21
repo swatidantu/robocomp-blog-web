@@ -13,10 +13,10 @@ _**RoboComp** is an open-source Robotics framework providing the tools to create
 [//]: <> (Please, read the [RoboComp/GSoC'21 FAQ](/web/gsoc/2021/faq2021) if you are interested in participating as a student in RoboComp/GSoC'21. Google has also made available a generic [GSoC FAQ](https://developers.google.com/open-source/gsoc/faq).)
 
 
-[//]: <> (# [Google Summer of Code 2021 Ideas](/web/gsoc/2021/ideas/))
-[//]: <> (<span class="post-date">February 19th 2021</span>  )
-[//]: <> (We just made available the list of [ideas](/web/gsoc/2021/ideas/) for the Google Summer of Code 2021. If you are interested in any of the ideas listed, we encourage you to get involved in the project and apply if RoboComp gets accepted into GSoC'21.)
-[//]: <> ([Read more](/web/gsoc/2021/ideas/))
+# [Google Summer of Code 2022 Ideas](/web/gsoc/2022/ideas/)
+<span class="post-date">February 21th 2022</span>  
+We just made available the list of [ideas](/web/gsoc/2022/ideas/) for the Google Summer of Code 2022. If you are interested in any of the ideas listed, we encourage you to get involved in the project and apply if RoboComp gets accepted into GSoC'22.
+[Read more](/web/gsoc/2022/ideas/)
 
 # Working on ideas for Google Summer of Code 2022!
 <span class="post-date">February 19th 2022</span>  
