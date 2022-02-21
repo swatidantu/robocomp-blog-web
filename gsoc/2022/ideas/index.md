@@ -1,6 +1,6 @@
 # Google Summer of Code 2022
 
-21 Feb 2022
+19 Feb 2022
 
 
 
@@ -273,6 +273,9 @@ Lecturer in Computer Science,
 School of Engineering & Applied Science, Aston University, UK  
 [http://ljmanso.com](http://ljmanso.com)
 
+### Margarita Martínez
+>**mmartinevqh**AT**alumnos**DOT**unex**DOT**es**  
+Robocomp Developer  
 
 ### Pedro Núñez
 
