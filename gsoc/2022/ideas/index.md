@@ -29,7 +29,7 @@ RoboComp, Python, C++, Webots
 **Hours**  
 175
 
-**Difficulty**
+**Difficulty**  
 Medium
 
 ### 2\. ROS2 to CORTEX bridge
@@ -45,7 +45,7 @@ C++, DDS, ROS2 (prefered)
 **Hours**  
 175
 
-**Difficulty**
+**Difficulty**  
 Medium
 
 ### 3\. CoppeliaSim’s ZeroMQ to CORTEX connector
@@ -61,7 +61,7 @@ C++17, Python
 **Hours**  
 175
 
-**Difficulty**
+**Difficulty**  
 Medium
 
 
@@ -78,7 +78,7 @@ C++17, Python, Javascript
 **Hours**  
 350
 
-**Difficulty**
+**Difficulty**  
 Medium
 
 
@@ -95,7 +95,7 @@ XML, C++, SDFormat
 **Hours**  
 350
 
-**Difficulty**
+**Difficulty**  
 Medium
 
 ### 6\. Model Predictive Control for path following and obstacle avoidance
@@ -113,7 +113,7 @@ C++17, Python, Casadi, optimization and control theory
 **Hours**  
 350
 
-**Difficulty**
+**Difficulty**  
 Hard
 
 ### 7\. Human activity detection and recognition from skeleton views
@@ -129,7 +129,7 @@ C++, Python, DNN
 **Hours**  
 350
 
-**Difficulty**
+**Difficulty**  
 Hard
 
 ### 8\. Human 3D graphical representation in CORTEX agents
@@ -146,7 +146,7 @@ C++, Qt
 **Hours**  
 350
 
-**Difficulty**
+**Difficulty**  
 Medium
 
 ### 9\. Hand gestures interpretation for transfer of simple objects
@@ -162,7 +162,7 @@ C++, Pytrhon, DNNs
 **Hours**  
 350
 
-**Difficulty**
+**Difficulty**  
 Medium
 
 ### 10\. Reinforcement Learning for pick and place operations
@@ -178,7 +178,7 @@ Python, C++, RL
 **Hours**  
 350
 
-**Difficulty**
+**Difficulty**  
 Hard
 
 ### 11\. People accompanying algorithms
@@ -197,7 +197,7 @@ RoboComp, Python, C++, CoppeliaSim
 **Hours**  
 350
 
-**Difficulty**
+**Difficulty**  
 Hard
 
 ### 12\. Self-adaptive controllers for path following
@@ -214,7 +214,7 @@ RoboComp, Python, C++, CoppeliaSim
 **Hours**  
 350
 
-**Difficulty**
+**Difficulty**  
 Medium
 
 ### 13\. Generation of simulation environments using OSRF’s traffic editor
@@ -233,7 +233,7 @@ C++, CooppeliaSim, RoboComp, Qt5
 **Hours**  
 350
 
-**Difficulty**
+**Difficulty**  
 Medium
 
 ### 14\. Extending the Social Navigation component to realistic scenarios
@@ -255,7 +255,7 @@ Knowledge & Experience: Graph Neural Networks, Deep Reinforcement Learning (i.e.
 **Hours**  
 350
 
-**Difficulty**
+**Difficulty**  
 Hard
 
 ### 15\. Efficient querying of geometric object relationships in CORTEX’s shared graph (G)
@@ -271,7 +271,7 @@ C++, RoboComp, CORTEX G API, 3D geometry
 **Hours**  
 Medium
 
-**Difficulty**
+**Difficulty**  
 Medium
 
 ### 16\. Remote control of CoppeliaSim instances as an imaging resource for the CORTEX architecture
@@ -288,7 +288,7 @@ C++, RoboComp, CORTEX G API, CoppeliaSim
 **Hours**  
 350
 
-**Difficulty**
+**Difficulty**  
 Medium
 
 ## Complete list of Mentors:
