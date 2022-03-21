@@ -336,7 +336,7 @@ University of Extremadura
 
 ### Ramon Cintas
 
->**rcintas**AT**unex**DOT**es**  
+>**rcintas**AT**gmail**DOT**com**  
 RoboComp Developer  
 
 ### Javier Durán
