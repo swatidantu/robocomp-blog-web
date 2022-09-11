@@ -20,9 +20,9 @@ This overall control scheme has been testing on various environments of Coppelia
 
 ## Further Developments
 
-The controller could be tested on further cha
+The controller could be tested on further challenging environments to test the performance. The rate on convergence could be improved, so that the overall tracking performance could be observed at faster speeds. 
 
 https://user-images.githubusercontent.com/41301235/189522425-c288c63e-7b75-4829-bb23-6bdaadf2b82e.mp4
 
-llenging environments to test the performance. The rate on convergence could be improved, so that the overall tracking performance could be observed at faster speeds. 
+
 
