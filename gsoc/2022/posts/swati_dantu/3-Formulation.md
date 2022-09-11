@@ -50,13 +50,13 @@ where $k_{\psi}>0$ is a constant.
 With respect to the popular Ackerman kinematic model, the steering angle $\phi$  can be computed by 
 
 $$
-\phi = atan \left(L \left(\frac{W_1}{v_u} + c(s) \frac{cos(\theta_p)}{1 - c(s)d_r}\right)\right) , v_u \neq 0 \tag{3}
+\phi = atan \left(L \left(\frac{W_1}{v_u} + c(s) \frac{cos(\theta_p)}{1 - c(s)d_r}\right)\right) , v_u \neq 0 
 $$
 
 with 
 
 $$
-\dot{\theta_p} = W_1 = -\frac{k_{\psi}k_{\theta p}\theta_{p} + k_{\psi}k_d d_r + k_d \dot{d}_r}{k_{\theta_p}} \tag{4}
+\dot{\theta_p} = W_1 = -\frac{k_{\psi}k_{\theta p}\theta_{p} + k_{\psi}k_d d_r + k_d \dot{d}_r}{k_{\theta_p}} 
 $$
 
 where $\dot{d}_r = sin(\theta_p)v_u$
@@ -80,18 +80,12 @@ The adaptve gains are designed in such that they have error terms in it, so that
 
 Let the adaptive gain for rotational velocity be $K_\omega$. The adaptive law is given as:
 $$ 
-\dot{K_\omega} = 
-
-K_rot||k_{\theta p}\theta_p||\frac{k_{\theta p}\theta_p + \epsilon}{||k_{\theta p}\theta_p + \epsilon||}
-
+\dot{K_\omega} = K_rot||k_{\theta p}\theta_p||\frac{k_{\theta p}\theta_p + \epsilon}{||k_{\theta p}\theta_p + \epsilon||}
 $$
 
 ### Adaptive gain for the Advance Velocity
 
 Let the adaptive gain for rotational velocity be $K_v$. The adaptive law is given as:
 $$
-\dot{K_v} = 
-
-K_adv||k_d d_r||\frac{(K_d d_r)+epsilon}{||(K_d d_r)+epsilon||}
-
+\dot{K_v} = K_adv||k_d d_r||\frac{(K_d d_r)+epsilon}{||(K_d d_r)+epsilon||}
 $$
