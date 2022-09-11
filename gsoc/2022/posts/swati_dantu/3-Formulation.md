@@ -79,15 +79,15 @@ The adaptve gains are designed in such that they have error terms in it, so that
 ### Adaptive gain for the rotational velocity
 
 Let the adaptive gain for rotational velocity be $K_\omega$. The adaptive law is given as:
+
 $$ 
-\dot{K_\omega} = K_rot||k_{\theta p}\theta_p||\frac{k_{\theta p}\theta_p + \epsilon}{||k_{\theta p}\theta_p + \epsilon||}
+\dot{K_\omega} = K_{rot}||k_{\theta p}\theta_p||\frac{k_{\theta p}\theta_p + \epsilon}{||k_{\theta p}\theta_p + \epsilon||}
 $$
-$$
-\dot{K_\omega}
-$$
+
 ### Adaptive gain for the Advance Velocity
 
 Let the adaptive gain for rotational velocity be $K_v$. The adaptive law is given as:
+
 $$
-\dot{K_v} = K_adv||k_d d_r||\frac{(K_d d_r)+epsilon}{||(K_d d_r)+epsilon||}
+\dot{K_v} = K_{adv}||k_d d_r||\frac{K_d d_r+epsilon}{||K_d d_r+epsilon||}
 $$
