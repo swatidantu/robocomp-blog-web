@@ -95,4 +95,3 @@ $$
 K_adv||k_d d_r||\frac{(K_d d_r)+epsilon}{||(K_d d_r)+epsilon||}
 
 $$
-
